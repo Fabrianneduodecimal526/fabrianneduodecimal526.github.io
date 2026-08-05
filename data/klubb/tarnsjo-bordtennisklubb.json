@@ -4,7 +4,7 @@
   "namn": "Tärnsjö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Tärnsjö BTK A",
@@ -39,7 +39,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Börje Sportklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -52,7 +52,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -65,7 +65,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -78,7 +78,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -91,7 +91,7 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -104,7 +104,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Börje Sportklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -117,7 +117,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -130,7 +130,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -143,7 +143,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -156,7 +156,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -169,7 +169,7 @@
    "hemma_klubb": "Storvreta Idrottsklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -182,7 +182,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -195,7 +195,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -208,7 +208,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -221,7 +221,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -234,7 +234,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -247,7 +247,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -260,7 +260,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -273,7 +273,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -286,7 +286,7 @@
    "hemma_klubb": "Börje Sportklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -299,7 +299,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -312,7 +312,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -325,7 +325,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -338,7 +338,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -351,7 +351,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -364,7 +364,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Storvreta Idrottsklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -377,7 +377,7 @@
    "hemma_klubb": "Börje Sportklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -390,7 +390,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -403,7 +403,7 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -416,7 +416,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -429,7 +429,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -442,7 +442,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -455,7 +455,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -468,7 +468,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -481,7 +481,7 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -494,7 +494,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -507,7 +507,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -520,7 +520,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -533,7 +533,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -546,7 +546,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -559,7 +559,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -572,7 +572,7 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   }
  ],

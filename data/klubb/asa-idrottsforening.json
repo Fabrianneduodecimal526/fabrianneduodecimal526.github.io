@@ -4,7 +4,7 @@
   "namn": "Åsa Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Åsa IF: A1",
@@ -32,7 +32,7 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -45,7 +45,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Öckerö Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -58,7 +58,7 @@
    "hemma_klubb": "Backa Bordtennis Klubb",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -71,7 +71,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "TopSpeed Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -84,7 +84,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Varbergs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -97,7 +97,7 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -110,7 +110,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -123,7 +123,7 @@
    "hemma_klubb": "Idrottsföreningen Ifo",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -136,7 +136,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Lindome Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -149,7 +149,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Kungsbacka Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -162,7 +162,7 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -175,7 +175,7 @@
    "hemma_klubb": "Alingsås Pingis Klubb",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -188,7 +188,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -201,7 +201,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -214,7 +214,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -227,7 +227,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -240,7 +240,7 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -253,7 +253,7 @@
    "hemma_klubb": "Varbergs Bordtennisklubb",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -266,7 +266,7 @@
    "hemma_klubb": "TopSpeed Bordtennisklubb",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -279,7 +279,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Backa Bordtennis Klubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -292,7 +292,7 @@
    "hemma_klubb": "Öckerö Idrottsförening",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -305,7 +305,7 @@
    "hemma_klubb": "Lindome Bordtennisklubb",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -318,7 +318,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Idrottsföreningen Ifo",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -331,7 +331,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -344,7 +344,7 @@
    "hemma_klubb": "Kungsbacka Bordtennisklubb",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -357,7 +357,7 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -370,7 +370,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Alingsås Pingis Klubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -383,7 +383,7 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   }
  ],

@@ -4,7 +4,7 @@
   "namn": "Kinna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Kinna BTK Per",
@@ -32,7 +32,7 @@
    "hemma_klubb": "Horreds Bordtennisklubb",
    "borta_klubb": "Kinna Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": "Arrangörens",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7"
   },
   {
@@ -45,7 +45,7 @@
    "hemma_klubb": "Kinna Bordtennisklubb",
    "borta_klubb": "Byttorps Idrottsförening",
    "plats": "Arrangörens",
-   "arrangor": "Arrangörens",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7"
   },
   {
@@ -58,7 +58,7 @@
    "hemma_klubb": "Kinna Bordtennisklubb",
    "borta_klubb": "Borgstena IF",
    "plats": "Arrangörens",
-   "arrangor": "Arrangörens",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7"
   }
  ],
@@ -73,7 +73,7 @@
    "hemma_klubb": "Kinna Bordtennisklubb",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": "Arrangörens",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -88,7 +88,7 @@
    "hemma_klubb": "Horreds Bordtennisklubb",
    "borta_klubb": "Kinna Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": "Arrangörens",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -103,7 +103,7 @@
    "hemma_klubb": "Kinna Bordtennisklubb",
    "borta_klubb": "Borgstena IF",
    "plats": "Arrangörens",
-   "arrangor": "Arrangörens",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

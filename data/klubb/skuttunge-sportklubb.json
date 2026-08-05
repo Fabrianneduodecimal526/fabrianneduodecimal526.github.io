@@ -4,7 +4,7 @@
   "namn": "Skuttunge Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Skuttunge SK",
@@ -25,7 +25,7 @@
    "hemma_klubb": "Skuttunge Sportklubb",
    "borta_klubb": "Rimbo Idrottsförening",
    "plats": "Sven-Persson Hallen",
-   "arrangor": "Sven-Persson Hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -38,7 +38,7 @@
    "hemma_klubb": "Skuttunge Sportklubb",
    "borta_klubb": "Öregrunds Idrottsklubb",
    "plats": "Sven-Persson Hallen",
-   "arrangor": "Sven-Persson Hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -51,7 +51,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Skuttunge Sportklubb",
    "plats": "Rimbo",
-   "arrangor": "Rimbo",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -64,7 +64,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Skuttunge Sportklubb",
    "plats": "Rimbo",
-   "arrangor": "Rimbo",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -77,7 +77,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Skuttunge Sportklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -90,7 +90,7 @@
    "hemma_klubb": "Sandvikens Bordtennisklubb",
    "borta_klubb": "Skuttunge Sportklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -103,7 +103,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Skuttunge Sportklubb",
    "plats": "Sven-Persson Hallen",
-   "arrangor": "Sven-Persson Hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -116,7 +116,7 @@
    "hemma_klubb": "Rimbo Idrottsförening",
    "borta_klubb": "Skuttunge Sportklubb",
    "plats": "Sven-Persson Hallen",
-   "arrangor": "Sven-Persson Hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -129,7 +129,7 @@
    "hemma_klubb": "Öregrunds Idrottsklubb",
    "borta_klubb": "Skuttunge Sportklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -142,7 +142,7 @@
    "hemma_klubb": "Skuttunge Sportklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -155,7 +155,7 @@
    "hemma_klubb": "Skuttunge Sportklubb",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -168,7 +168,7 @@
    "hemma_klubb": "Skuttunge Sportklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -181,7 +181,7 @@
    "hemma_klubb": "Skuttunge Sportklubb",
    "borta_klubb": "Sandvikens Bordtennisklubb",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -194,7 +194,7 @@
    "hemma_klubb": "Skuttunge Sportklubb",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   }
  ],

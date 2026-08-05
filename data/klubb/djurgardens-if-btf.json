@@ -4,7 +4,7 @@
   "namn": "Djurgårdens IF BTF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Djurgårdens IF BTF: A1",
@@ -46,7 +46,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -59,7 +59,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -72,7 +72,7 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -85,7 +85,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -98,7 +98,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -111,7 +111,7 @@
    "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -124,7 +124,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -137,7 +137,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -150,7 +150,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -163,7 +163,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -176,7 +176,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -189,7 +189,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -202,7 +202,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Linköpings Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -215,7 +215,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Solna Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -228,7 +228,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -241,7 +241,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -254,7 +254,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -267,7 +267,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "IFK Täby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -280,7 +280,7 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -293,7 +293,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -306,7 +306,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -319,7 +319,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -332,7 +332,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "IFK Täby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -345,7 +345,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -358,7 +358,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -371,7 +371,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -384,7 +384,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -397,7 +397,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -410,7 +410,7 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -423,7 +423,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -436,7 +436,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -449,7 +449,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -462,7 +462,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -475,7 +475,7 @@
    "hemma_klubb": "Linköpings Pingisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -488,7 +488,7 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -501,7 +501,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -514,7 +514,7 @@
    "hemma_klubb": "Solna Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -527,7 +527,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -540,7 +540,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -553,7 +553,7 @@
    "hemma_klubb": "IFK Täby Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -566,7 +566,7 @@
    "hemma_klubb": "IFK Täby Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -579,7 +579,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   }
  ],
@@ -594,7 +594,7 @@
    "hemma_klubb": "Idrottsföreningen Norcopensarna",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Norcohallen",
-   "arrangor": "Norcohallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -609,7 +609,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Norcohallen",
-   "arrangor": "Norcohallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -624,7 +624,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Norcohallen",
-   "arrangor": "Norcohallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

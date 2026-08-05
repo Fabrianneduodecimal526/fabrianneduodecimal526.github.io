@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Scania"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "BTK Scania",
@@ -25,7 +25,7 @@
    "hemma_klubb": "Malmö Idrottsförening",
    "borta_klubb": "Bordtennisklubben Scania",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -38,7 +38,7 @@
    "hemma_klubb": "Bordtennisklubben Scania",
    "borta_klubb": "Degeberga Gymnastik O IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -51,7 +51,7 @@
    "hemma_klubb": "Idrottsföreningen Ale",
    "borta_klubb": "Bordtennisklubben Scania",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -64,7 +64,7 @@
    "hemma_klubb": "Sölvesborgs Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Scania",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -77,7 +77,7 @@
    "hemma_klubb": "Skurups Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Scania",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -90,7 +90,7 @@
    "hemma_klubb": "IFK Lund Bordtennis",
    "borta_klubb": "Bordtennisklubben Scania",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -103,7 +103,7 @@
    "hemma_klubb": "Bordtennisklubben Scania",
    "borta_klubb": "KFUM Kristianstad Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -116,7 +116,7 @@
    "hemma_klubb": "Bordtennisklubben Scania",
    "borta_klubb": "Malmö Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -129,7 +129,7 @@
    "hemma_klubb": "Degeberga Gymnastik O IF",
    "borta_klubb": "Bordtennisklubben Scania",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -142,7 +142,7 @@
    "hemma_klubb": "Bordtennisklubben Scania",
    "borta_klubb": "Idrottsföreningen Ale",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -155,7 +155,7 @@
    "hemma_klubb": "Bordtennisklubben Scania",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -168,7 +168,7 @@
    "hemma_klubb": "Bordtennisklubben Scania",
    "borta_klubb": "Skurups Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -181,7 +181,7 @@
    "hemma_klubb": "Bordtennisklubben Scania",
    "borta_klubb": "Sölvesborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   },
   {
@@ -194,7 +194,7 @@
    "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
    "borta_klubb": "Bordtennisklubben Scania",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
   }
  ],

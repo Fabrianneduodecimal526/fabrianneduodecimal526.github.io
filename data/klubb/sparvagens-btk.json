@@ -4,7 +4,7 @@
   "namn": "Spårvägens BTK"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Spårvägens BTK",
@@ -25,7 +25,7 @@
    "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "borta_klubb": "Spårvägens BTK",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -38,7 +38,7 @@
    "hemma_klubb": "Spårvägens BTK",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -51,7 +51,7 @@
    "hemma_klubb": "Spårvägens BTK",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -64,7 +64,7 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Spårvägens BTK",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -77,7 +77,7 @@
    "hemma_klubb": "Spårvägens BTK",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -90,7 +90,7 @@
    "hemma_klubb": "Våxtorps Boll O IS",
    "borta_klubb": "Spårvägens BTK",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -103,7 +103,7 @@
    "hemma_klubb": "Spårvägens BTK",
    "borta_klubb": "Sjömarkens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -116,7 +116,7 @@
    "hemma_klubb": "Spårvägens BTK",
    "borta_klubb": "Kosta Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -129,7 +129,7 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Spårvägens BTK",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -142,7 +142,7 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Spårvägens BTK",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   }
  ],

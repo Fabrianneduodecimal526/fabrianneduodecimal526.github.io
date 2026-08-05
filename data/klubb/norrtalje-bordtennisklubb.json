@@ -4,7 +4,7 @@
   "namn": "Norrtälje Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Norrtälje BTK",
@@ -67,7 +67,7 @@
    "hemma_klubb": "Sandvikens Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -80,7 +80,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -93,7 +93,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -106,7 +106,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -119,7 +119,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Skellefteå AIK BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -132,7 +132,7 @@
    "hemma_klubb": "Falu Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -145,7 +145,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -158,7 +158,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -171,7 +171,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -184,7 +184,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -197,7 +197,7 @@
    "hemma_klubb": "Haparanda Sportklubb Taktik",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -210,7 +210,7 @@
    "hemma_klubb": "Idrottsklubben Juno",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -223,7 +223,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -236,7 +236,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -249,7 +249,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -262,7 +262,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -275,7 +275,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Börje Sportklubb",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -288,7 +288,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Öregrunds Idrottsklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -301,7 +301,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -314,7 +314,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -327,7 +327,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -340,7 +340,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -353,7 +353,7 @@
    "hemma_klubb": "Bålsta Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -366,7 +366,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -379,7 +379,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -392,7 +392,7 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -405,7 +405,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -418,7 +418,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Rimbo Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -431,7 +431,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -444,7 +444,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Skuttunge Sportklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -457,7 +457,7 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -470,7 +470,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -483,7 +483,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Sandvikens Bordtennisklubb",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -496,7 +496,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -509,7 +509,7 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -522,7 +522,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -535,7 +535,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Knutby Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -548,7 +548,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -561,7 +561,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -574,7 +574,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Rimbo Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -587,7 +587,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -600,7 +600,7 @@
    "hemma_klubb": "KFUM Stocksund IA",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -613,7 +613,7 @@
    "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -626,7 +626,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -639,7 +639,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -652,7 +652,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -665,7 +665,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -678,7 +678,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -691,7 +691,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -704,7 +704,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Sandvikens Bordtennisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -717,7 +717,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -730,7 +730,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -743,7 +743,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -756,7 +756,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -769,7 +769,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -782,7 +782,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -795,7 +795,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -808,7 +808,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -821,7 +821,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Idrottsklubben Juno",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -834,7 +834,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -847,7 +847,7 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -860,7 +860,7 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -873,7 +873,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Falu Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -886,7 +886,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -899,7 +899,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -912,7 +912,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -925,7 +925,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -938,7 +938,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -951,7 +951,7 @@
    "hemma_klubb": "Börje Sportklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -964,7 +964,7 @@
    "hemma_klubb": "Öregrunds Idrottsklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -977,7 +977,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -990,7 +990,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -1003,7 +1003,7 @@
    "hemma_klubb": "Rimbo Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Rimbo",
-   "arrangor": "Rimbo",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -1016,7 +1016,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1029,7 +1029,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -1042,7 +1042,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Rimbo",
-   "arrangor": "Rimbo",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -1055,7 +1055,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -1068,7 +1068,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1081,7 +1081,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Bålsta Bordtennisklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -1094,7 +1094,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -1107,7 +1107,7 @@
    "hemma_klubb": "Sandvikens Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -1120,7 +1120,7 @@
    "hemma_klubb": "Skuttunge Sportklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -1133,7 +1133,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -1146,7 +1146,7 @@
    "hemma_klubb": "Rimbo Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -1159,7 +1159,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -1172,7 +1172,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -1185,7 +1185,7 @@
    "hemma_klubb": "Skellefteå AIK BTF",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -1198,7 +1198,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "KFUM Stocksund IA",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1211,7 +1211,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -1224,7 +1224,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -1237,7 +1237,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -1250,7 +1250,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
   },
   {
@@ -1263,7 +1263,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Haparanda Sportklubb Taktik",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -1276,7 +1276,7 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1289,7 +1289,7 @@
    "hemma_klubb": "Knutby Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -1302,7 +1302,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -1315,7 +1315,7 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -1328,7 +1328,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   }
  ],
@@ -1343,7 +1343,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Liljeholmshallen",
-   "arrangor": "Liljeholmshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/940/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

@@ -4,7 +4,7 @@
   "namn": "Rudalens Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Rudalens IF",
@@ -25,7 +25,7 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Laholms Bordtennisklubb Serve",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -38,7 +38,7 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -51,7 +51,7 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Kågeröds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -64,7 +64,7 @@
    "hemma_klubb": "Kågeröds Bordtennisklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -77,7 +77,7 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -90,7 +90,7 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -103,7 +103,7 @@
    "hemma_klubb": "Laholms Bordtennisklubb Serve",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -116,7 +116,7 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -129,7 +129,7 @@
    "hemma_klubb": "Kågeröds Bordtennisklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -142,7 +142,7 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Kågeröds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -155,7 +155,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -168,7 +168,7 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   }
  ],

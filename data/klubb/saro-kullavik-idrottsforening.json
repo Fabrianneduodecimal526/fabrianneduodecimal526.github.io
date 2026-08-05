@@ -4,7 +4,7 @@
   "namn": "Särö Kullavik Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Särö Kullavik IF",
@@ -25,7 +25,7 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -38,7 +38,7 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -51,7 +51,7 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -64,7 +64,7 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Varbergs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -77,7 +77,7 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Kungsbacka Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -90,7 +90,7 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Lindome Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -103,7 +103,7 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Öckerö Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -116,7 +116,7 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -129,7 +129,7 @@
    "hemma_klubb": "Varbergs Bordtennisklubb",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -142,7 +142,7 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -155,7 +155,7 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -168,7 +168,7 @@
    "hemma_klubb": "Kungsbacka Bordtennisklubb",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -181,7 +181,7 @@
    "hemma_klubb": "Lindome Bordtennisklubb",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -194,7 +194,7 @@
    "hemma_klubb": "Öckerö Idrottsförening",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   }
  ],

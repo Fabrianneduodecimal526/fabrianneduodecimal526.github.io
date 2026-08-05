@@ -4,7 +4,7 @@
   "namn": "Söderhamns Ungdomsgårds IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Söderhamns UIF",
@@ -46,7 +46,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -59,7 +59,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
    "plats": "Falkenbergs BTK",
-   "arrangor": "Falkenbergs BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -72,7 +72,7 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -85,7 +85,7 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Falkenbergs BTK",
-   "arrangor": "Falkenbergs BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -98,7 +98,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -111,7 +111,7 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -124,7 +124,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -137,7 +137,7 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -150,7 +150,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Kosta Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -163,7 +163,7 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -176,7 +176,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Söderhamns UIF",
-   "arrangor": "Söderhamns UIF",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -189,7 +189,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Dala-Järna Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -202,7 +202,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Söderhamns UIF",
-   "arrangor": "Söderhamns UIF",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -215,7 +215,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -228,7 +228,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -241,7 +241,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -254,7 +254,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -267,7 +267,7 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Västers BTK",
-   "arrangor": "Västers BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -280,7 +280,7 @@
    "hemma_klubb": "Haparanda Sportklubb Taktik",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -293,7 +293,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Västers BTK",
-   "arrangor": "Västers BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -306,7 +306,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Skellefteå AIK BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -319,7 +319,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -332,7 +332,7 @@
    "hemma_klubb": "Falu Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -345,7 +345,7 @@
    "hemma_klubb": "Bordtennisklubben Rekord",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -358,7 +358,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -371,7 +371,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Haparanda Sportklubb Taktik",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -384,7 +384,7 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "BTK Kävlinge",
-   "arrangor": "BTK Kävlinge",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -397,7 +397,7 @@
    "hemma_klubb": "Skellefteå AIK BTF",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -410,7 +410,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Jägarnäs/Ludvika BTK",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -423,7 +423,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "BTK Kävlinge",
-   "arrangor": "BTK Kävlinge",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -436,7 +436,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -449,7 +449,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -462,7 +462,7 @@
    "hemma_klubb": "Kosta Sportklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -475,7 +475,7 @@
    "hemma_klubb": "Falkenbergs Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Norrtulls SK",
-   "arrangor": "Norrtulls SK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -488,7 +488,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -501,7 +501,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Norrtulls SK",
-   "arrangor": "Norrtulls SK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -514,7 +514,7 @@
    "hemma_klubb": "Dala-Järna Idrottsklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -527,7 +527,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -540,7 +540,7 @@
    "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -553,7 +553,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Söderhamns UIF",
-   "arrangor": "Söderhamns UIF",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -566,7 +566,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -579,7 +579,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Söderhamns UIF",
-   "arrangor": "Söderhamns UIF",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -592,7 +592,7 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -605,7 +605,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -618,7 +618,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Bordtennisklubben Rekord",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -631,7 +631,7 @@
    "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -644,7 +644,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -657,7 +657,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Nerikes Kils SK",
-   "arrangor": "Nerikes Kils SK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -670,7 +670,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -683,7 +683,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Falu Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -696,7 +696,7 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Nerikes Kils SK",
-   "arrangor": "Nerikes Kils SK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -709,7 +709,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
   },
   {
@@ -722,7 +722,7 @@
    "hemma_klubb": "Jägarnäs/Ludvika BTK",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -735,7 +735,7 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -748,7 +748,7 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Munkedals BTK",
-   "arrangor": "Munkedals BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -761,7 +761,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Munkedals BTK",
-   "arrangor": "Munkedals BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   }
  ],
@@ -776,7 +776,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Söderhamnshallen",
-   "arrangor": "Söderhamnshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/934/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -791,7 +791,7 @@
    "hemma_klubb": "Bordtennisklubben Rekord",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Rekordhallen",
-   "arrangor": "Rekordhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 2
@@ -806,7 +806,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Bordtennisklubben Rekord",
    "plats": "SUIF-hallen",
-   "arrangor": "SUIF-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 1
@@ -821,7 +821,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "SUIF-hallen",
-   "arrangor": "SUIF-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 2
@@ -836,7 +836,7 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Eslövshallen",
-   "arrangor": "Eslövshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 2
@@ -851,7 +851,7 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Eslövshallen",
-   "arrangor": "Eslövshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 1

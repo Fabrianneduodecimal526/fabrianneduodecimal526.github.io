@@ -4,7 +4,7 @@
   "namn": "Uppsala Life Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Uppsala Life IF A",
@@ -53,7 +53,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -66,7 +66,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -79,7 +79,7 @@
    "hemma_klubb": "Bålsta Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -92,7 +92,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -105,7 +105,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -118,7 +118,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -131,7 +131,7 @@
    "hemma_klubb": "Bålsta Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -144,7 +144,7 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -157,7 +157,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -170,7 +170,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -183,7 +183,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Bälinge",
-   "arrangor": "Bälinge",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -196,7 +196,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -209,7 +209,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -222,7 +222,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -235,7 +235,7 @@
    "hemma_klubb": "Bälinge Idrottsförening",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Bälinge",
-   "arrangor": "Bälinge",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -248,7 +248,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -261,7 +261,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Sandvikens Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -274,7 +274,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -287,7 +287,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -300,7 +300,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -313,7 +313,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -326,7 +326,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -339,7 +339,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -352,7 +352,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -365,7 +365,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -378,7 +378,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -391,7 +391,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -404,7 +404,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -417,7 +417,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -430,7 +430,7 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -443,7 +443,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -456,7 +456,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -469,7 +469,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -482,7 +482,7 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -495,7 +495,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -508,7 +508,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Bålsta Bordtennisklubb",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -521,7 +521,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Börje Sportklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -534,7 +534,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -547,7 +547,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -560,7 +560,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -573,7 +573,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -586,7 +586,7 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -599,7 +599,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -612,7 +612,7 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -625,7 +625,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -638,7 +638,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -651,7 +651,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Bålsta Bordtennisklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -664,7 +664,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -677,7 +677,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -690,7 +690,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -703,7 +703,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -716,7 +716,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -729,7 +729,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -742,7 +742,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -755,7 +755,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -768,7 +768,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -781,7 +781,7 @@
    "hemma_klubb": "Sandvikens Bordtennisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -794,7 +794,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Bälinge Idrottsförening",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -807,7 +807,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -820,7 +820,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -833,7 +833,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -846,7 +846,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -859,7 +859,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -872,7 +872,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -885,7 +885,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -898,7 +898,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -911,7 +911,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
   },
   {
@@ -924,7 +924,7 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
   },
   {
@@ -937,7 +937,7 @@
    "hemma_klubb": "Börje Sportklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
   },
   {
@@ -950,7 +950,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": "Life Arena",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   }
  ],

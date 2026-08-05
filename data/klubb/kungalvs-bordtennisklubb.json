@@ -4,7 +4,7 @@
   "namn": "Kungälvs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Kungälvs BTK",
@@ -53,7 +53,7 @@
    "hemma_klubb": "Kågeröds Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -66,7 +66,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Ådalslidens Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -79,7 +79,7 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -92,7 +92,7 @@
    "hemma_klubb": "Kils Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -105,7 +105,7 @@
    "hemma_klubb": "IFK Lidköping",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -118,7 +118,7 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -131,7 +131,7 @@
    "hemma_klubb": "Alingsås Pingis Klubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -144,7 +144,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -157,7 +157,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -170,7 +170,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -183,7 +183,7 @@
    "hemma_klubb": "Laholms Bordtennisklubb Serve",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -196,7 +196,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Skagersviks Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -209,7 +209,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Stenungsunds Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -222,7 +222,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Kungsbacka Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -235,7 +235,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -248,7 +248,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -261,7 +261,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Skövde Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -274,7 +274,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Hålta Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -287,7 +287,7 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -300,7 +300,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "IFK Falköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -313,7 +313,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -326,7 +326,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Warta",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -339,7 +339,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -352,7 +352,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Kågeröds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -365,7 +365,7 @@
    "hemma_klubb": "Carlstads Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -378,7 +378,7 @@
    "hemma_klubb": "Grästorps Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -391,7 +391,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Kågeröds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -404,7 +404,7 @@
    "hemma_klubb": "Ådalslidens Sportklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -417,7 +417,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -430,7 +430,7 @@
    "hemma_klubb": "Borgstena IF",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -443,7 +443,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -456,7 +456,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Kils Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -469,7 +469,7 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -482,7 +482,7 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -495,7 +495,7 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -508,7 +508,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Alingsås Pingis Klubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -521,7 +521,7 @@
    "hemma_klubb": "Kungsbacka Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -534,7 +534,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Laholms Bordtennisklubb Serve",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -547,7 +547,7 @@
    "hemma_klubb": "IFK Falköping Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -560,7 +560,7 @@
    "hemma_klubb": "Stenungsunds Bordtennisförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -573,7 +573,7 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -586,7 +586,7 @@
    "hemma_klubb": "Skövde Pingisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -599,7 +599,7 @@
    "hemma_klubb": "Hålta Idrottsklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -612,7 +612,7 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -625,7 +625,7 @@
    "hemma_klubb": "Bordtennisklubben Warta",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -638,7 +638,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -651,7 +651,7 @@
    "hemma_klubb": "Skagersviks Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -664,7 +664,7 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -677,7 +677,7 @@
    "hemma_klubb": "Kågeröds Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -690,7 +690,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Carlstads Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -703,7 +703,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Grästorps Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -716,7 +716,7 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -729,7 +729,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Borgstena IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   }
  ],
@@ -744,7 +744,7 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "A_hallen",
-   "arrangor": "A_hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/943/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -759,7 +759,7 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "A_hallen",
-   "arrangor": "A_hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/943/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2

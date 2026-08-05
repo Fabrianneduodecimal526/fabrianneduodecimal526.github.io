@@ -4,7 +4,7 @@
   "namn": "Lessebo Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Lessebo BTK",
@@ -25,7 +25,7 @@
    "hemma_klubb": "Huskvarna Södra Idrottssällskap",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -38,7 +38,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -51,7 +51,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -64,7 +64,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen Norcopensarna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -77,7 +77,7 @@
    "hemma_klubb": "Jämjö Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -90,7 +90,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -103,7 +103,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -116,7 +116,7 @@
    "hemma_klubb": "Kungsbacka Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -129,7 +129,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -142,7 +142,7 @@
    "hemma_klubb": "KFUM Jönköping",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -155,7 +155,7 @@
    "hemma_klubb": "Kosta Sportklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -168,7 +168,7 @@
    "hemma_klubb": "Carlshamns Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -181,7 +181,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Sportklubben Frigg",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -194,7 +194,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Huskvarna Södra Idrottssällskap",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -207,7 +207,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -220,7 +220,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Jämjö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -233,7 +233,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Jämjö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -246,7 +246,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Kungsbacka Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -259,7 +259,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Carlshamns Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -272,7 +272,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Kosta Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -285,7 +285,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -298,7 +298,7 @@
    "hemma_klubb": "Jämjö Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -311,7 +311,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "KFUM Jönköping",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -324,7 +324,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -337,7 +337,7 @@
    "hemma_klubb": "Sportklubben Frigg",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -350,7 +350,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -363,7 +363,7 @@
    "hemma_klubb": "Idrottsföreningen Norcopensarna",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -376,7 +376,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   }
  ],

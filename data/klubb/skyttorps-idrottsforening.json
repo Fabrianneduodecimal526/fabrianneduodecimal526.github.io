@@ -4,7 +4,7 @@
   "namn": "Skyttorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Skyttorps IF A",
@@ -46,7 +46,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -59,7 +59,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -72,7 +72,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -85,7 +85,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Börje Sportklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -98,7 +98,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -111,7 +111,7 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Örbyhus",
-   "arrangor": "Örbyhus",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -124,7 +124,7 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -137,7 +137,7 @@
    "hemma_klubb": "Örbyhus Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Örbyhus",
-   "arrangor": "Örbyhus",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -150,7 +150,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -163,7 +163,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Sandvikens Bordtennisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -176,7 +176,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -189,7 +189,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -202,7 +202,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Rimbo Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -215,7 +215,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -228,7 +228,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -241,7 +241,7 @@
    "hemma_klubb": "Storvreta Idrottsklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -254,7 +254,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -267,7 +267,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Knutby Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -280,7 +280,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -293,7 +293,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -306,7 +306,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -319,7 +319,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -332,7 +332,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -345,7 +345,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Öregrunds Idrottsklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -358,7 +358,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -371,7 +371,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -384,7 +384,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -397,7 +397,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Tärnsjö",
-   "arrangor": "Tärnsjö",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -410,7 +410,7 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -423,7 +423,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Örbyhus",
-   "arrangor": "Örbyhus",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -436,7 +436,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -449,7 +449,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Örbyhus",
-   "arrangor": "Örbyhus",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -462,7 +462,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -475,7 +475,7 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -488,7 +488,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Heby",
-   "arrangor": "Heby",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -501,7 +501,7 @@
    "hemma_klubb": "Rimbo Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -514,7 +514,7 @@
    "hemma_klubb": "Börje Sportklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -527,7 +527,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Örbyhus Idrottsförening",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -540,7 +540,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -553,7 +553,7 @@
    "hemma_klubb": "Sandvikens Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -566,7 +566,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Storvreta Idrottsklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -579,7 +579,7 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -592,7 +592,7 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -605,7 +605,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -618,7 +618,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -631,7 +631,7 @@
    "hemma_klubb": "Knutby Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -644,7 +644,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Björkhallen",
-   "arrangor": "Björkhallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -657,7 +657,7 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -670,7 +670,7 @@
    "hemma_klubb": "Öregrunds Idrottsklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -683,7 +683,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -696,7 +696,7 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -709,7 +709,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -722,7 +722,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -735,7 +735,7 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
   },
   {
@@ -748,7 +748,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": "Svandammshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -761,7 +761,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   }
  ],

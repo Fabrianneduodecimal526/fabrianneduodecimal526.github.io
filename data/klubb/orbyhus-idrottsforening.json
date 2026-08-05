@@ -4,7 +4,7 @@
   "namn": "Örbyhus Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Örbyhus IF",
@@ -25,7 +25,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Örbyhus Idrottsförening",
    "plats": "Örbyhus",
-   "arrangor": "Örbyhus",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -38,7 +38,7 @@
    "hemma_klubb": "Örbyhus Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Örbyhus",
-   "arrangor": "Örbyhus",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -51,7 +51,7 @@
    "hemma_klubb": "Örbyhus Idrottsförening",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -64,7 +64,7 @@
    "hemma_klubb": "Örbyhus Idrottsförening",
    "borta_klubb": "Öregrunds Idrottsklubb",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -77,7 +77,7 @@
    "hemma_klubb": "Örbyhus Idrottsförening",
    "borta_klubb": "Sandvikens Bordtennisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -90,7 +90,7 @@
    "hemma_klubb": "Örbyhus Idrottsförening",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Gävle",
-   "arrangor": "Gävle",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -103,7 +103,7 @@
    "hemma_klubb": "Örbyhus Idrottsförening",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Örbyhus",
-   "arrangor": "Örbyhus",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -116,7 +116,7 @@
    "hemma_klubb": "Örbyhus Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Örbyhus",
-   "arrangor": "Örbyhus",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -129,7 +129,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Örbyhus Idrottsförening",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -142,7 +142,7 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "Örbyhus Idrottsförening",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -155,7 +155,7 @@
    "hemma_klubb": "Öregrunds Idrottsklubb",
    "borta_klubb": "Örbyhus Idrottsförening",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -168,7 +168,7 @@
    "hemma_klubb": "Sandvikens Bordtennisklubb",
    "borta_klubb": "Örbyhus Idrottsförening",
    "plats": "Sandviken",
-   "arrangor": "Sandviken",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -181,7 +181,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Örbyhus Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -194,7 +194,7 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Örbyhus Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   }
  ],

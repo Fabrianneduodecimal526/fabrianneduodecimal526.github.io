@@ -274,6 +274,12 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                     continue
                 datum, tid = dela_tid(m.get("start_time"))
                 hemma, borta = delt[0], delt[1]
+
+                # venue innehåller bara ett namn ("Örbyhus", "Hall 1"), ingen
+                # koppling till arrangerande klubb. STUPA:s egen sida visar en
+                # arrangörskolumn, men den uppgiften finns inte i matchobjektet
+                # och verkar härledas på annat håll. Vi hittar hellre inte på
+                # den än gissar fel — arrangor lämnas därför tom.
                 lokal = (m.get("venue") or {}).get("name")
 
                 post = {
@@ -286,7 +292,7 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                     "hemma_klubb": klubb_for(hemma),
                     "borta_klubb": klubb_for(borta),
                     "plats": lokal,
-                    "arrangor": lokal,
+                    "arrangor": None,
                     "stupa_url": djuplank,
                 }
                 # Obs: score_published duger INTE som markör för spelad match.

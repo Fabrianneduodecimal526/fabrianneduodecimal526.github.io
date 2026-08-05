@@ -4,7 +4,7 @@
   "namn": "Tullinge Triangelpojkar Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Tullinge TP BTK",
@@ -25,7 +25,7 @@
    "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "borta_klubb": "Boo Racketklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -38,7 +38,7 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -51,7 +51,7 @@
    "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -64,7 +64,7 @@
    "hemma_klubb": "Solna Bordtennisklubb",
    "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -77,7 +77,7 @@
    "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "borta_klubb": "Tyresö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -90,7 +90,7 @@
    "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -103,7 +103,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -116,7 +116,7 @@
    "hemma_klubb": "Boo Racketklubb",
    "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -129,7 +129,7 @@
    "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -142,7 +142,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -155,7 +155,7 @@
    "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "borta_klubb": "Solna Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -168,7 +168,7 @@
    "hemma_klubb": "Tyresö Bordtennisklubb",
    "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -181,7 +181,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -194,7 +194,7 @@
    "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   }
  ],

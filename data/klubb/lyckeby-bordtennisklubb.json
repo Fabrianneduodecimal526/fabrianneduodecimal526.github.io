@@ -4,7 +4,7 @@
   "namn": "Lyckeby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Lyckeby BTK",
@@ -39,7 +39,7 @@
    "hemma_klubb": "Sportklubben Frigg",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -52,7 +52,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Listerby Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -65,7 +65,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -78,7 +78,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -91,7 +91,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Jämjö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -104,7 +104,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -117,7 +117,7 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Munkedals BTK",
-   "arrangor": "Munkedals BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -130,7 +130,7 @@
    "hemma_klubb": "Kättilsmåla Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -143,7 +143,7 @@
    "hemma_klubb": "Kosta Sportklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -156,7 +156,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -169,7 +169,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Munkedals BTK",
-   "arrangor": "Munkedals BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -182,7 +182,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Carlshamns Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -195,7 +195,7 @@
    "hemma_klubb": "Idrottsföreningen Norcopensarna",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -208,7 +208,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Vetlanda Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -221,7 +221,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Högsby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -234,7 +234,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Söderhamns UIF",
-   "arrangor": "Söderhamns UIF",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -247,7 +247,7 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Söderhamns UIF",
-   "arrangor": "Söderhamns UIF",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -260,7 +260,7 @@
    "hemma_klubb": "Bordtennisklubben Frej",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -273,7 +273,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Jämjö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -286,7 +286,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": "Lyckeby BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -299,7 +299,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Långemåla Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -312,7 +312,7 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -325,7 +325,7 @@
    "hemma_klubb": "Malmö Idrottsförening",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -338,7 +338,7 @@
    "hemma_klubb": "Carlshamns Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -351,7 +351,7 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": "Lyckeby BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -364,7 +364,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Malmö Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -377,7 +377,7 @@
    "hemma_klubb": "Jämjö Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -390,7 +390,7 @@
    "hemma_klubb": "IFK Lund Bordtennis",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -403,7 +403,7 @@
    "hemma_klubb": "KFUM Jönköping",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -416,7 +416,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Dänningelanda Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -429,7 +429,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": "Lyckeby BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -442,7 +442,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Kättilsmåla Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -455,7 +455,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Huskvarna Södra Idrottssällskap",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -468,7 +468,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Frej",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -481,7 +481,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Sportklubben Frigg",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -494,7 +494,7 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": "Lyckeby BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -507,7 +507,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -520,7 +520,7 @@
    "hemma_klubb": "Långemåla Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -533,7 +533,7 @@
    "hemma_klubb": "Kungsbacka Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -546,7 +546,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Västers BTK",
-   "arrangor": "Västers BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -559,7 +559,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Kosta Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -572,7 +572,7 @@
    "hemma_klubb": "Vetlanda Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -585,7 +585,7 @@
    "hemma_klubb": "Jämjö Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -598,7 +598,7 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Västers BTK",
-   "arrangor": "Västers BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -611,7 +611,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "KFUM Jönköping",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -624,7 +624,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Jämjö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -637,7 +637,7 @@
    "hemma_klubb": "Högsby Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -650,7 +650,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -663,7 +663,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Söderhamns UIF",
-   "arrangor": "Söderhamns UIF",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -676,7 +676,7 @@
    "hemma_klubb": "Dänningelanda Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -689,7 +689,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Kungsbacka Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -702,7 +702,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Söderhamns UIF",
-   "arrangor": "Söderhamns UIF",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -715,7 +715,7 @@
    "hemma_klubb": "Carlshamns Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -728,7 +728,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Malmö Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -741,7 +741,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Carlshamns Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -754,7 +754,7 @@
    "hemma_klubb": "Jämjö Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -767,7 +767,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen Norcopensarna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -780,7 +780,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "BTK Kävlinge",
-   "arrangor": "BTK Kävlinge",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -793,7 +793,7 @@
    "hemma_klubb": "Huskvarna Södra Idrottssällskap",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
   },
   {
@@ -806,7 +806,7 @@
    "hemma_klubb": "Listerby Idrottsklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
   },
   {
@@ -819,7 +819,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -832,7 +832,7 @@
    "hemma_klubb": "Falkenbergs Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "BTK Kävlinge",
-   "arrangor": "BTK Kävlinge",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -845,7 +845,7 @@
    "hemma_klubb": "Malmö Idrottsförening",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -858,7 +858,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -871,7 +871,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
   },
   {
@@ -884,7 +884,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -897,7 +897,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": "Lyckeby BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -910,7 +910,7 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": "Lyckeby BTK",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   }
  ],
@@ -925,7 +925,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Mariedalshallen",
-   "arrangor": "Mariedalshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/920/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 3
@@ -940,7 +940,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Norcohallen",
-   "arrangor": "Norcohallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
@@ -955,7 +955,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Mariedalshallen",
-   "arrangor": "Mariedalshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/920/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 3
@@ -970,7 +970,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen Norcopensarna",
    "plats": "Norcohallen",
-   "arrangor": "Norcohallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -985,7 +985,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Mariedalshallen",
-   "arrangor": "Mariedalshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/920/2/7/7",
    "hemma_poang": 3,
    "borta_poang": 0
@@ -1000,7 +1000,7 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Norcohallen",
-   "arrangor": "Norcohallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

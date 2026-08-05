@@ -4,7 +4,7 @@
   "namn": "Knutby Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Knutby IF",
@@ -25,7 +25,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Knutby Idrottsförening",
    "plats": "Rimbo",
-   "arrangor": "Rimbo",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -38,7 +38,7 @@
    "hemma_klubb": "Knutby Idrottsförening",
    "borta_klubb": "Rimbo Idrottsförening",
    "plats": "Rimbo",
-   "arrangor": "Rimbo",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -51,7 +51,7 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Knutby Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -64,7 +64,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Knutby Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": "UTK-hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -77,7 +77,7 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Knutby Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -90,7 +90,7 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Knutby Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": "Sigtuna",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -103,7 +103,7 @@
    "hemma_klubb": "Knutby Idrottsförening",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -116,7 +116,7 @@
    "hemma_klubb": "Knutby Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Norrtälje",
-   "arrangor": "Norrtälje",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -129,7 +129,7 @@
    "hemma_klubb": "Rimbo Idrottsförening",
    "borta_klubb": "Knutby Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -142,7 +142,7 @@
    "hemma_klubb": "Knutby Idrottsförening",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Skyttorp",
-   "arrangor": "Skyttorp",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -155,7 +155,7 @@
    "hemma_klubb": "Knutby Idrottsförening",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -168,7 +168,7 @@
    "hemma_klubb": "Knutby Idrottsförening",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Olandshallen",
-   "arrangor": "Olandshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -181,7 +181,7 @@
    "hemma_klubb": "Knutby Idrottsförening",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   },
   {
@@ -194,7 +194,7 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "Knutby Idrottsförening",
    "plats": "Idrottshuset",
-   "arrangor": "Idrottshuset",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
   }
  ],

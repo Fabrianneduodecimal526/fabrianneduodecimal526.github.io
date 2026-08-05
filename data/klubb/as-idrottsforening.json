@@ -4,7 +4,7 @@
   "namn": "Ås Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Ås IF",
@@ -39,7 +39,7 @@
    "hemma_klubb": "Öråns Sportklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -52,7 +52,7 @@
    "hemma_klubb": "Alfta Bordtennisklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -65,7 +65,7 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -78,7 +78,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Skellefteå AIK BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -91,7 +91,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -104,7 +104,7 @@
    "hemma_klubb": "Höga Kusten Allmänna Idrottsförening",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -117,7 +117,7 @@
    "hemma_klubb": "Bordtennisklubben Kälom",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -130,7 +130,7 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -143,7 +143,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Idrottsklubben Juno",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -156,7 +156,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Pingisklubben Sundsvall",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -169,7 +169,7 @@
    "hemma_klubb": "Färila Bordtennisklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -182,7 +182,7 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -195,7 +195,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Ortvikens Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -208,7 +208,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Östersunds GIF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -221,7 +221,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Öråns Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -234,7 +234,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Alfta Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -247,7 +247,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -260,7 +260,7 @@
    "hemma_klubb": "Skellefteå AIK BTF",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -273,7 +273,7 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -286,7 +286,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Höga Kusten Allmänna Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -299,7 +299,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Bordtennisklubben Kälom",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -312,7 +312,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -325,7 +325,7 @@
    "hemma_klubb": "Idrottsklubben Juno",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -338,7 +338,7 @@
    "hemma_klubb": "Pingisklubben Sundsvall",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -351,7 +351,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Färila Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -364,7 +364,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -377,7 +377,7 @@
    "hemma_klubb": "Ortvikens Pingisklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
   },
   {
@@ -390,7 +390,7 @@
    "hemma_klubb": "Östersunds GIF",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   }
  ],
@@ -405,7 +405,7 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Idrottsklubben Juno",
    "plats": "Junohallen",
-   "arrangor": "Junohallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/938/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -420,7 +420,7 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Junohallen",
-   "arrangor": "Junohallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/938/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2

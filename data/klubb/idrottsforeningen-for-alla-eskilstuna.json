@@ -4,7 +4,7 @@
   "namn": "Idrottsföreningen För Alla Eskilstuna"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "IFA Eskilstuna",
@@ -32,7 +32,7 @@
    "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -45,7 +45,7 @@
    "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -58,7 +58,7 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -71,7 +71,7 @@
    "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -84,7 +84,7 @@
    "hemma_klubb": "IFK Täby Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -97,7 +97,7 @@
    "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -110,7 +110,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -123,7 +123,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -136,7 +136,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -149,7 +149,7 @@
    "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -162,7 +162,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -175,7 +175,7 @@
    "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "borta_klubb": "IFK Täby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -188,7 +188,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -201,7 +201,7 @@
    "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   }
  ],
@@ -216,7 +216,7 @@
    "hemma_klubb": "Bordtennisklubben Kungsör",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Kungsörshallen",
-   "arrangor": "Kungsörshallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/923/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

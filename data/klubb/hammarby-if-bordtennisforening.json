@@ -4,7 +4,7 @@
   "namn": "Hammarby IF Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:44:26Z",
+ "uppdaterad": "2026-08-05T08:46:01Z",
  "lag": [
   {
    "namn": "Hammarby IF BTF",
@@ -60,7 +60,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Tyresö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -73,7 +73,7 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -86,7 +86,7 @@
    "hemma_klubb": "IFK Lidingö Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -99,7 +99,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Solna Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -112,7 +112,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -125,7 +125,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Back Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -138,7 +138,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -151,7 +151,7 @@
    "hemma_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -164,7 +164,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -177,7 +177,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Katrineholms Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -190,7 +190,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "IFK Täby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -203,7 +203,7 @@
    "hemma_klubb": "Tyresö Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -216,7 +216,7 @@
    "hemma_klubb": "IFK Täby Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -229,7 +229,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -242,7 +242,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -255,7 +255,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -268,7 +268,7 @@
    "hemma_klubb": "Tyresö Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -281,7 +281,7 @@
    "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -294,7 +294,7 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -307,7 +307,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Linköpings Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -320,7 +320,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -333,7 +333,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -346,7 +346,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -359,7 +359,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -372,7 +372,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Boo Racketklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -385,7 +385,7 @@
    "hemma_klubb": "Solna Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -398,7 +398,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -411,7 +411,7 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -424,7 +424,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -437,7 +437,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -450,7 +450,7 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -463,7 +463,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -476,7 +476,7 @@
    "hemma_klubb": "Boo Racketklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -489,7 +489,7 @@
    "hemma_klubb": "Rotebro Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -502,7 +502,7 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -515,7 +515,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Boo Racketklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -528,7 +528,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Idrottsföreningen För Alla Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -541,7 +541,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "IFK Lidingö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -554,7 +554,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -567,7 +567,7 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -580,7 +580,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -593,7 +593,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -606,7 +606,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -619,7 +619,7 @@
    "hemma_klubb": "Tyresö Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -632,7 +632,7 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -645,7 +645,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -658,7 +658,7 @@
    "hemma_klubb": "Solna Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -671,7 +671,7 @@
    "hemma_klubb": "IFK Täby Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -684,7 +684,7 @@
    "hemma_klubb": "Back Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -697,7 +697,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -710,7 +710,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -723,7 +723,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -736,7 +736,7 @@
    "hemma_klubb": "Katrineholms Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -749,7 +749,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Tyresö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -762,7 +762,7 @@
    "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -775,7 +775,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Tyresö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -788,7 +788,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -801,7 +801,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "IFK Täby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -814,7 +814,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -827,7 +827,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -840,7 +840,7 @@
    "hemma_klubb": "Linköpings Pingisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -853,7 +853,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -866,7 +866,7 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -879,7 +879,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -892,7 +892,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -905,7 +905,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -918,7 +918,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -931,7 +931,7 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -944,7 +944,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Boo Racketklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -957,7 +957,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Rotebro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -970,7 +970,7 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -983,7 +983,7 @@
    "hemma_klubb": "Boo Racketklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -996,7 +996,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -1009,7 +1009,7 @@
    "hemma_klubb": "Boo Racketklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -1022,7 +1022,7 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -1035,7 +1035,7 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -1048,7 +1048,7 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -1061,7 +1061,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -1074,7 +1074,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1152/2/7/7"
   },
   {
@@ -1087,7 +1087,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Solna Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": "Hall 1",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   }
  ],
@@ -1102,7 +1102,7 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Boo Racketklubb",
    "plats": "A_hallen",
-   "arrangor": "A_hallen",
+   "arrangor": null,
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/935/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
