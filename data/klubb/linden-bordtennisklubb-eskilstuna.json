@@ -1,0 +1,328 @@
+{
+ "klubb": {
+  "slug": "linden-bordtennisklubb-eskilstuna",
+  "namn": "Linden Bordtennisklubb Eskilstuna"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "Eskilstuna by STIGA",
+   "serie": {
+    "namn": "Pingisligan (herr)"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-10-13",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 2",
+   "hemma": "Spårvägens BTK",
+   "borta": "Eskilstuna by STIGA",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2026-10-20",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 3",
+   "hemma": "Söderhamns UIF",
+   "borta": "Eskilstuna by STIGA",
+   "hemma_klubb": "Söderhamns Ungdomsgårds IF",
+   "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2026-11-12",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 4",
+   "hemma": "Eskilstuna by STIGA",
+   "borta": "BTK Rekord",
+   "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2026-11-17",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 5",
+   "hemma": "Halmstad BTK",
+   "borta": "Eskilstuna by STIGA",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2026-12-08",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 6",
+   "hemma": "Eskilstuna by STIGA",
+   "borta": "Eslövs AI BTK",
+   "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "borta_klubb": "Eslövs AI Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2026-12-15",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 7",
+   "hemma": "Eskilstuna by STIGA",
+   "borta": "Kosta SK",
+   "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "borta_klubb": "Kosta Sportklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2027-01-21",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 9",
+   "hemma": "Eskilstuna by STIGA",
+   "borta": "Spårvägens BTK",
+   "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2027-02-09",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 10",
+   "hemma": "Eskilstuna by STIGA",
+   "borta": "Söderhamns UIF",
+   "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "borta_klubb": "Söderhamns Ungdomsgårds IF",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2027-02-18",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 11",
+   "hemma": "BTK Rekord",
+   "borta": "Eskilstuna by STIGA",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2027-03-02",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 12",
+   "hemma": "Eskilstuna by STIGA",
+   "borta": "Halmstad BTK",
+   "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2027-03-09",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 13",
+   "hemma": "Eslövs AI BTK",
+   "borta": "Eskilstuna by STIGA",
+   "hemma_klubb": "Eslövs AI Bordtennisklubb",
+   "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  },
+  {
+   "datum": "2027-03-16",
+   "tid": "18:30",
+   "serie": "Pingisligan (herr)",
+   "omgang": "Round 14",
+   "hemma": "Kosta SK",
+   "borta": "Eskilstuna by STIGA",
+   "hemma_klubb": "Kosta Sportklubb",
+   "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+  }
+ ],
+ "resultat": [],
+ "tabeller": [
+  {
+   "serie": "Pingisligan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Rekord",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Eslövs AI BTK",
+     "klubb": "Eslövs AI Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Halmstad BTK",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Kosta SK",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Söderhamns UIF",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Eskilstuna by STIGA",
+     "klubb": "Linden Bordtennisklubb Eskilstuna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

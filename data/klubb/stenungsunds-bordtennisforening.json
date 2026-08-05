@@ -1,0 +1,446 @@
+{
+ "klubb": {
+  "slug": "stenungsunds-bordtennisforening",
+  "namn": "Stenungsunds Bordtennisförening"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "Stenungsunds BTF",
+   "serie": {
+    "namn": "Västra"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Stenungsunds BTK",
+   "serie": {
+    "namn": "Div 3 VSNV"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 1",
+   "hemma": "Mariedals IK: B",
+   "borta": "Stenungsunds BTK",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 2",
+   "hemma": "Stenungsunds BTK",
+   "borta": "Vänersborgs BTK",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Vänersborgs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Västra",
+   "omgang": "Round 3",
+   "hemma": "Munkedals BTK",
+   "borta": "Stenungsunds BTF",
+   "hemma_klubb": "Munkedals Bordtennisklubb",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Västra",
+   "omgang": "Round 5",
+   "hemma": "Stenungsunds BTF",
+   "borta": "Uddevalla BTK",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Uddevalla Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 3",
+   "hemma": "Svanesunds GIF: B",
+   "borta": "Stenungsunds BTK",
+   "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 4",
+   "hemma": "Kungälvs BTK: B",
+   "borta": "Stenungsunds BTK",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 5",
+   "hemma": "Grästorps BTK",
+   "borta": "Stenungsunds BTK",
+   "hemma_klubb": "Grästorps Bordtennisklubb",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "15:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 6",
+   "hemma": "IFK Lidköping: A1",
+   "borta": "Stenungsunds BTK",
+   "hemma_klubb": "IFK Lidköping",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "11:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 7",
+   "hemma": "Stenungsunds BTK",
+   "borta": "Hålta IK",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Hålta Idrottsklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "15:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 8",
+   "hemma": "Stenungsunds BTK",
+   "borta": "Mariedals IK: B",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Mariedals Idrottsklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "11:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 10",
+   "hemma": "Stenungsunds BTK",
+   "borta": "Svanesunds GIF: B",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "11:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 11",
+   "hemma": "Stenungsunds BTK",
+   "borta": "Kungälvs BTK: B",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "15:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 12",
+   "hemma": "Stenungsunds BTK",
+   "borta": "Grästorps BTK",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Grästorps Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "11:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 13",
+   "hemma": "Stenungsunds BTK",
+   "borta": "IFK Lidköping: A1",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "IFK Lidköping",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "15:00",
+   "serie": "Div 3 VSNV",
+   "omgang": "Round 14",
+   "hemma": "Hålta IK",
+   "borta": "Stenungsunds BTK",
+   "hemma_klubb": "Hålta Idrottsklubb",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+  }
+ ],
+ "resultat": [
+  {
+   "datum": "2026-06-07",
+   "tid": "18:00",
+   "serie": "Västra",
+   "omgang": "Round 1",
+   "hemma": "Trollhättans BTK",
+   "borta": "Stenungsunds BTF",
+   "hemma_klubb": "Trollhättans Bordtennisklubb",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-06-07",
+   "tid": "18:00",
+   "serie": "Västra",
+   "omgang": "Round 2",
+   "hemma": "Stenungsunds BTF",
+   "borta": "Vänersborgs BTK",
+   "hemma_klubb": "Stenungsunds Bordtennisförening",
+   "borta_klubb": "Vänersborgs Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  }
+ ],
+ "tabeller": [
+  {
+   "serie": "Div 3 VSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Svanesunds GIF: B",
+     "klubb": "Svanesunds Gymnastik o Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kungälvs BTK: B",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Mariedals IK: B",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Stenungsunds BTK",
+     "klubb": "Stenungsunds Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Hålta IK",
+     "klubb": "Hålta Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Vänersborgs BTK",
+     "klubb": "Vänersborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "IFK Lidköping: A1",
+     "klubb": "IFK Lidköping",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Grästorps BTK",
+     "klubb": "Grästorps Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Västra",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/936/2/7/7",
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Askims BTK",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Svanesunds GIF",
+     "klubb": "Svanesunds Gymnastik o Idrottsförening",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

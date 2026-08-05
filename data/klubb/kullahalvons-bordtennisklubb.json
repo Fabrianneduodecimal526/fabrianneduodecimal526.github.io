@@ -1,0 +1,365 @@
+{
+ "klubb": {
+  "slug": "kullahalvons-bordtennisklubb",
+  "namn": "Kullahalvöns Bordtennisklubb"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "Kullahalvöns BTK",
+   "serie": {
+    "namn": "Div 3 SSSV"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 1",
+   "hemma": "Kullahalvöns BTK",
+   "borta": "Kågeröds BTK: B",
+   "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 2",
+   "hemma": "Kullahalvöns BTK",
+   "borta": "BTK Rekord: B",
+   "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Rekord",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 3",
+   "hemma": "Kullahalvöns BTK",
+   "borta": "Laholms BTK Serve",
+   "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+   "borta_klubb": "Laholms Bordtennisklubb Serve",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 4",
+   "hemma": "Kullahalvöns BTK",
+   "borta": "Varbergs BTK: B1",
+   "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+   "borta_klubb": "Varbergs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 5",
+   "hemma": "Kullahalvöns BTK",
+   "borta": "Åstorps BTK: C",
+   "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+   "borta_klubb": "Åstorps Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "15:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 6",
+   "hemma": "Kullahalvöns BTK",
+   "borta": "Halmstad BTK: D",
+   "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "11:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 7",
+   "hemma": "Kullahalvöns BTK",
+   "borta": "IFK Lund Bordtennis: C2",
+   "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "15:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 8",
+   "hemma": "Kågeröds BTK: B",
+   "borta": "Kullahalvöns BTK",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Kullahalvöns Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "11:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 9",
+   "hemma": "Varbergs BTK: B1",
+   "borta": "Kullahalvöns BTK",
+   "hemma_klubb": "Varbergs Bordtennisklubb",
+   "borta_klubb": "Kullahalvöns Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "15:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 10",
+   "hemma": "Åstorps BTK: C",
+   "borta": "Kullahalvöns BTK",
+   "hemma_klubb": "Åstorps Bordtennisklubb",
+   "borta_klubb": "Kullahalvöns Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "11:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 11",
+   "hemma": "BTK Rekord: B",
+   "borta": "Kullahalvöns BTK",
+   "hemma_klubb": "Bordtennisklubben Rekord",
+   "borta_klubb": "Kullahalvöns Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "15:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 12",
+   "hemma": "Laholms BTK Serve",
+   "borta": "Kullahalvöns BTK",
+   "hemma_klubb": "Laholms Bordtennisklubb Serve",
+   "borta_klubb": "Kullahalvöns Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "11:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 13",
+   "hemma": "Halmstad BTK: D",
+   "borta": "Kullahalvöns BTK",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Kullahalvöns Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "15:00",
+   "serie": "Div 3 SSSV",
+   "omgang": "Round 14",
+   "hemma": "IFK Lund Bordtennis: C2",
+   "borta": "Kullahalvöns BTK",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Kullahalvöns Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+  }
+ ],
+ "resultat": [],
+ "tabeller": [
+  {
+   "serie": "Div 3 SSSV",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kullahalvöns BTK",
+     "klubb": "Kullahalvöns Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kågeröds BTK: B",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "BTK Rekord: B",
+     "klubb": "Bordtennisklubben Rekord",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "IFK Lund Bordtennis: C2",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Halmstad BTK: D",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Åstorps BTK: C",
+     "klubb": "Åstorps Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Varbergs BTK: B1",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Laholms BTK Serve",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

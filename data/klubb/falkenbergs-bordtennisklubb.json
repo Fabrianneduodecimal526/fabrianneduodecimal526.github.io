@@ -1,0 +1,687 @@
+{
+ "klubb": {
+  "slug": "falkenbergs-bordtennisklubb",
+  "namn": "Falkenbergs Bordtennisklubb"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "Falkenbergs BTK",
+   "serie": {
+    "namn": "Superettan (herr)"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Falkenbergs BTK: B",
+   "serie": {
+    "namn": "Div 1 S Herr"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 1",
+   "hemma": "Söderhamns UIF: B",
+   "borta": "Falkenbergs BTK",
+   "hemma_klubb": "Söderhamns Ungdomsgårds IF",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Falkenbergs BTK",
+   "arrangor": "Falkenbergs BTK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "11:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 1",
+   "hemma": "IFK Lund Bordtennis",
+   "borta": "Falkenbergs BTK: B",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 2",
+   "hemma": "Falkenbergs BTK",
+   "borta": "Norrtulls SK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Norrtulls Sportklubb",
+   "plats": "Falkenbergs BTK",
+   "arrangor": "Falkenbergs BTK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "15:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 2",
+   "hemma": "Falkenbergs BTK: B",
+   "borta": "Åstorps BTK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Åstorps Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 3",
+   "hemma": "Falkenbergs BTK",
+   "borta": "Nerikes Kils SK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Nerikes Kils Sportklubb",
+   "plats": "Falkenbergs BTK",
+   "arrangor": "Falkenbergs BTK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "11:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 3",
+   "hemma": "Trelleborgs BTK",
+   "borta": "Falkenbergs BTK: B",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 5",
+   "hemma": "Munkedals BTK",
+   "borta": "Falkenbergs BTK",
+   "hemma_klubb": "Munkedals Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Falkenbergs BTK",
+   "arrangor": "Falkenbergs BTK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "15:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 4",
+   "hemma": "Falkenbergs BTK: B",
+   "borta": "BTK Frej",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Frej",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 6",
+   "hemma": "Lyckeby BTK",
+   "borta": "Falkenbergs BTK",
+   "hemma_klubb": "Lyckeby Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Lyckeby BTK",
+   "arrangor": "Lyckeby BTK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "16:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 6",
+   "hemma": "Falkenbergs BTK",
+   "borta": "BTK Kävlinge",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Kävlinge",
+   "plats": "Lyckeby BTK",
+   "arrangor": "Lyckeby BTK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 5",
+   "hemma": "Halmstad BTK: B",
+   "borta": "Falkenbergs BTK: B",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "15:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 6",
+   "hemma": "Bjärreds BTK",
+   "borta": "Falkenbergs BTK: B",
+   "hemma_klubb": "Bjärreds Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "16:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 8",
+   "hemma": "Västers BTK",
+   "borta": "Falkenbergs BTK",
+   "hemma_klubb": "Västers Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Ängby SK",
+   "arrangor": "Ängby SK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "11:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 7",
+   "hemma": "Falkenbergs BTK: B",
+   "borta": "Vetlanda BTK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Vetlanda Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 9",
+   "hemma": "Falkenbergs BTK",
+   "borta": "Ängby SK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": "Ängby SK",
+   "arrangor": "Ängby SK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "15:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 8",
+   "hemma": "Falkenbergs BTK: B",
+   "borta": "IFK Lund Bordtennis",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 10",
+   "hemma": "Norrtulls SK",
+   "borta": "Falkenbergs BTK",
+   "hemma_klubb": "Norrtulls Sportklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Norrtulls SK",
+   "arrangor": "Norrtulls SK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "16:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 10",
+   "hemma": "Falkenbergs BTK",
+   "borta": "Söderhamns UIF: B",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Söderhamns Ungdomsgårds IF",
+   "plats": "Norrtulls SK",
+   "arrangor": "Norrtulls SK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "11:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 9",
+   "hemma": "Åstorps BTK",
+   "borta": "Falkenbergs BTK: B",
+   "hemma_klubb": "Åstorps Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "15:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 10",
+   "hemma": "Falkenbergs BTK: B",
+   "borta": "Trelleborgs BTK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 12",
+   "hemma": "Nerikes Kils SK",
+   "borta": "Falkenbergs BTK",
+   "hemma_klubb": "Nerikes Kils Sportklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Nerikes Kils SK",
+   "arrangor": "Nerikes Kils SK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "16:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 12",
+   "hemma": "Falkenbergs BTK",
+   "borta": "Munkedals BTK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Munkedals Bordtennisklubb",
+   "plats": "Nerikes Kils SK",
+   "arrangor": "Nerikes Kils SK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "11:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 11",
+   "hemma": "BTK Frej",
+   "borta": "Falkenbergs BTK: B",
+   "hemma_klubb": "Bordtennisklubben Frej",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "15:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 12",
+   "hemma": "Falkenbergs BTK: B",
+   "borta": "Halmstad BTK: B",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Halmstad Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "16:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 15",
+   "hemma": "Falkenbergs BTK",
+   "borta": "Lyckeby BTK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Lyckeby Bordtennisklubb",
+   "plats": "BTK Kävlinge",
+   "arrangor": "BTK Kävlinge",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "11:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 13",
+   "hemma": "Falkenbergs BTK: B",
+   "borta": "Bjärreds BTK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Bjärreds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 16",
+   "hemma": "BTK Kävlinge",
+   "borta": "Falkenbergs BTK",
+   "hemma_klubb": "Bordtennisklubben Kävlinge",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "BTK Kävlinge",
+   "arrangor": "BTK Kävlinge",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "15:00",
+   "serie": "Div 1 S Herr",
+   "omgang": "Round 14",
+   "hemma": "Vetlanda BTK",
+   "borta": "Falkenbergs BTK: B",
+   "hemma_klubb": "Vetlanda Bordtennisklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
+  },
+  {
+   "datum": "2027-04-10",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 17",
+   "hemma": "Ängby SK",
+   "borta": "Falkenbergs BTK",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "Falkenbergs Bordtennisklubb",
+   "plats": "Falkenbergs BTK",
+   "arrangor": "Falkenbergs BTK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  },
+  {
+   "datum": "2027-04-11",
+   "tid": "11:00",
+   "serie": "Superettan (herr)",
+   "omgang": "Round 18",
+   "hemma": "Falkenbergs BTK",
+   "borta": "Västers BTK",
+   "hemma_klubb": "Falkenbergs Bordtennisklubb",
+   "borta_klubb": "Västers Bordtennisklubb",
+   "plats": "Falkenbergs BTK",
+   "arrangor": "Falkenbergs BTK",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+  }
+ ],
+ "resultat": [],
+ "tabeller": [
+  {
+   "serie": "Div 1 S Herr",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "IFK Lund Bordtennis",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Falkenbergs BTK: B",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Åstorps BTK",
+     "klubb": "Åstorps Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Halmstad BTK: B",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Trelleborgs BTK",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Frej",
+     "klubb": "Bordtennisklubben Frej",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Bjärreds BTK",
+     "klubb": "Bjärreds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Vetlanda BTK",
+     "klubb": "Vetlanda Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Superettan (herr)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Nerikes Kils SK",
+     "klubb": "Nerikes Kils Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Kävlinge",
+     "klubb": "Bordtennisklubben Kävlinge",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Ängby SK",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Söderhamns UIF: B",
+     "klubb": "Söderhamns Ungdomsgårds IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Norrtulls SK",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Munkedals BTK",
+     "klubb": "Munkedals Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Västers BTK",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Lyckeby BTK",
+     "klubb": "Lyckeby Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Falkenbergs BTK",
+     "klubb": "Falkenbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "klubb": {
+  "slug": "byttorps-idrottsforening",
+  "namn": "Byttorps Idrottsförening"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "Byttorps A1",
+   "serie": {
+    "namn": "Södra 1"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Byttorps IF A2",
+   "serie": {
+    "namn": "Södra 3"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Byttorps IF Veteraner",
+   "serie": {
+    "namn": "Södra 2"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 1",
+   "omgang": "Round 4",
+   "hemma": "Mariedals IK Robert",
+   "borta": "Byttorps A1",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 1",
+   "omgang": "Round 5",
+   "hemma": "Mariedals IK Tim",
+   "borta": "Byttorps A1",
+   "hemma_klubb": "Mariedals Idrottsklubb",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 2",
+   "omgang": "Round 5",
+   "hemma": "Horreds BTK V",
+   "borta": "Byttorps IF Veteraner",
+   "hemma_klubb": "Horreds Bordtennisklubb",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 3",
+   "omgang": "Round 3",
+   "hemma": "Borgstena IF Mattias",
+   "borta": "Byttorps IF A2",
+   "hemma_klubb": "Borgstena IF",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 3",
+   "omgang": "Round 4",
+   "hemma": "Kinna BTK Peter",
+   "borta": "Byttorps IF A2",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7"
+  }
+ ],
+ "resultat": [
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Södra 2",
+   "omgang": "Round 4",
+   "hemma": "Byttorps IF Veteraner",
+   "borta": "Sandareds BTK Peter",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-06-07",
+   "tid": "18:00",
+   "serie": "Södra 1",
+   "omgang": "Round 2",
+   "hemma": "Hyssna BTK",
+   "borta": "Byttorps A1",
+   "hemma_klubb": "Hyssna Bordtennisklubb",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-06-07",
+   "tid": "18:00",
+   "serie": "Södra 2",
+   "omgang": "Round 2",
+   "hemma": "Byttorps IF Veteraner",
+   "borta": "Horreds BTK Y",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Horreds Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-06-07",
+   "tid": "18:00",
+   "serie": "Södra 3",
+   "omgang": "Round 1",
+   "hemma": "Byttorps IF A2",
+   "borta": "Herrljunga BTK",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Herrljunga Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-06-07",
+   "tid": "18:00",
+   "serie": "Södra 3",
+   "omgang": "Round 2",
+   "hemma": "Borgstena IF Kristoffer",
+   "borta": "Byttorps IF A2",
+   "hemma_klubb": "Borgstena IF",
+   "borta_klubb": "Byttorps Idrottsförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
+   "hemma_poang": 0,
+   "borta_poang": 2
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 1",
+   "omgang": "Round 3",
+   "hemma": "Byttorps A1",
+   "borta": "Sandareds BTK Patrick",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
+ "tabeller": [
+  {
+   "serie": "Södra 1",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Hyssna BTK",
+     "klubb": "Hyssna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Byttorps A1",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Sandareds BTK Patrick",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Mariedals IK Robert",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Mariedals IK Tim",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Södra 2",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Horreds BTK Y",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Horreds BTK V",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Kinna BTK Per",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Byttorps IF Veteraner",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Sandareds BTK Peter",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Södra 3",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Byttorps IF A2",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Kinna BTK Peter",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Borgstena IF Kristoffer",
+     "klubb": "Borgstena IF",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Herrljunga BTK",
+     "klubb": "Herrljunga Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Borgstena IF Mattias",
+     "klubb": "Borgstena IF",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

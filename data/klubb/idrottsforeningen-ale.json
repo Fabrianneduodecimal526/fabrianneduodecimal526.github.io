@@ -1,0 +1,365 @@
+{
+ "klubb": {
+  "slug": "idrottsforeningen-ale",
+  "namn": "Idrottsföreningen Ale"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "IF Ale",
+   "serie": {
+    "namn": "Div 3 SSSÖ"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 1",
+   "hemma": "IF Ale",
+   "borta": "Sölvesborgs BTK",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "Sölvesborgs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 2",
+   "hemma": "Skurups BTK",
+   "borta": "IF Ale",
+   "hemma_klubb": "Skurups Bordtennisklubb",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 3",
+   "hemma": "IF Ale",
+   "borta": "BTK Scania",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "Bordtennisklubben Scania",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 4",
+   "hemma": "IF Ale",
+   "borta": "Malmö IF: B",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 5",
+   "hemma": "IF Ale",
+   "borta": "Degeberga GOIF",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "Degeberga Gymnastik O IF",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "15:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 6",
+   "hemma": "IF Ale",
+   "borta": "KFUM Kristianstad BTF",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "KFUM Kristianstad Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 7",
+   "hemma": "IFK Lund Bordtennis: C1",
+   "borta": "IF Ale",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "15:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 8",
+   "hemma": "Sölvesborgs BTK",
+   "borta": "IF Ale",
+   "hemma_klubb": "Sölvesborgs Bordtennisklubb",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 9",
+   "hemma": "IF Ale",
+   "borta": "Skurups BTK",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "Skurups Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "15:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 10",
+   "hemma": "BTK Scania",
+   "borta": "IF Ale",
+   "hemma_klubb": "Bordtennisklubben Scania",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 11",
+   "hemma": "KFUM Kristianstad BTF",
+   "borta": "IF Ale",
+   "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "15:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 12",
+   "hemma": "Degeberga GOIF",
+   "borta": "IF Ale",
+   "hemma_klubb": "Degeberga Gymnastik O IF",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "11:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 13",
+   "hemma": "Malmö IF: B",
+   "borta": "IF Ale",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Idrottsföreningen Ale",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "15:00",
+   "serie": "Div 3 SSSÖ",
+   "omgang": "Round 14",
+   "hemma": "IF Ale",
+   "borta": "IFK Lund Bordtennis: C1",
+   "hemma_klubb": "Idrottsföreningen Ale",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+  }
+ ],
+ "resultat": [],
+ "tabeller": [
+  {
+   "serie": "Div 3 SSSÖ",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Skurups BTK",
+     "klubb": "Skurups Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Lund Bordtennis: C1",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "IF Ale",
+     "klubb": "Idrottsföreningen Ale",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Sölvesborgs BTK",
+     "klubb": "Sölvesborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Malmö IF: B",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "BTK Scania",
+     "klubb": "Bordtennisklubben Scania",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "KFUM Kristianstad BTF",
+     "klubb": "KFUM Kristianstad Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Degeberga GOIF",
+     "klubb": "Degeberga Gymnastik O IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

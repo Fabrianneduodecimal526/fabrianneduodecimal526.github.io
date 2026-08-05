@@ -1,0 +1,177 @@
+{
+ "klubb": {
+  "slug": "trollhattans-bordtennisklubb",
+  "namn": "Trollhättans Bordtennisklubb"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "Trollhättans BTK",
+   "serie": {
+    "namn": "Västra"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [],
+ "resultat": [
+  {
+   "datum": "2026-06-07",
+   "tid": "18:00",
+   "serie": "Västra",
+   "omgang": "Round 1",
+   "hemma": "Trollhättans BTK",
+   "borta": "Stenungsunds BTF",
+   "hemma_klubb": "Trollhättans Bordtennisklubb",
+   "borta_klubb": "Stenungsunds Bordtennisförening",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-06-07",
+   "tid": "18:00",
+   "serie": "Västra",
+   "omgang": "Round 2",
+   "hemma": "Uddevalla BTK",
+   "borta": "Trollhättans BTK",
+   "hemma_klubb": "Uddevalla Bordtennisklubb",
+   "borta_klubb": "Trollhättans Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Västra",
+   "omgang": "Round 4",
+   "hemma": "Trollhättans BTK",
+   "borta": "Vänersborgs BTK",
+   "hemma_klubb": "Trollhättans Bordtennisklubb",
+   "borta_klubb": "Vänersborgs Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Västra",
+   "omgang": "Round 5",
+   "hemma": "Munkedals BTK",
+   "borta": "Trollhättans BTK",
+   "hemma_klubb": "Munkedals Bordtennisklubb",
+   "borta_klubb": "Trollhättans Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
+ "tabeller": [
+  {
+   "serie": "Västra",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/936/2/7/7",
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Askims BTK",
+     "klubb": "Askims Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Svanesunds GIF",
+     "klubb": "Svanesunds Gymnastik o Idrottsförening",
+     "spelade": 1,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

@@ -1,0 +1,568 @@
+{
+ "klubb": {
+  "slug": "sandareds-bordtennisklubb",
+  "namn": "Sandareds Bordtennisklubb"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "Sandareds BTK",
+   "serie": {
+    "namn": "Div 1 V Dam"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Sandareds BTK Patrick",
+   "serie": {
+    "namn": "Södra 1"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Sandareds BTK Peter",
+   "serie": {
+    "namn": "Södra 2"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 2",
+   "hemma": "Sandareds BTK",
+   "borta": "Rudalens IF",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Rudalens Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 1",
+   "omgang": "Round 4",
+   "hemma": "Sandareds BTK Patrick",
+   "borta": "Mariedals IK Tim",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Mariedals Idrottsklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 2",
+   "omgang": "Round 3",
+   "hemma": "Sandareds BTK Peter",
+   "borta": "Horreds BTK V",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Horreds Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 2",
+   "omgang": "Round 5",
+   "hemma": "Sandareds BTK Peter",
+   "borta": "Horreds BTK Y",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Horreds Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 3",
+   "hemma": "Kågeröds BTK: A1",
+   "borta": "Sandareds BTK",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 4",
+   "hemma": "Sandareds BTK",
+   "borta": "Kågeröds BTK: A2",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 5",
+   "hemma": "Kungälvs BTK",
+   "borta": "Sandareds BTK",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "15:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 6",
+   "hemma": "Sandareds BTK",
+   "borta": "BTK Linné",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "11:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 7",
+   "hemma": "Laholms BTK Serve",
+   "borta": "Sandareds BTK",
+   "hemma_klubb": "Laholms Bordtennisklubb Serve",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "11:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 9",
+   "hemma": "Rudalens IF",
+   "borta": "Sandareds BTK",
+   "hemma_klubb": "Rudalens Idrottsförening",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "15:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 10",
+   "hemma": "Sandareds BTK",
+   "borta": "Kågeröds BTK: A1",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "11:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 11",
+   "hemma": "Kågeröds BTK: A2",
+   "borta": "Sandareds BTK",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "15:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 12",
+   "hemma": "Sandareds BTK",
+   "borta": "Kungälvs BTK",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "11:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 13",
+   "hemma": "BTK Linné",
+   "borta": "Sandareds BTK",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "15:00",
+   "serie": "Div 1 V Dam",
+   "omgang": "Round 14",
+   "hemma": "Sandareds BTK",
+   "borta": "Laholms BTK Serve",
+   "hemma_klubb": "Sandareds Bordtennisklubb",
+   "borta_klubb": "Laholms Bordtennisklubb Serve",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
+  }
+ ],
+ "resultat": [
+  {
+   "datum": "",
+   "tid": "",
+   "serie": "Södra 2",
+   "omgang": "Round 4",
+   "hemma": "Byttorps IF Veteraner",
+   "borta": "Sandareds BTK Peter",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": null,
+   "arrangor": null,
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-05-19",
+   "tid": "18:00",
+   "serie": "Södra 2",
+   "omgang": "Round 1",
+   "hemma": "Kinna BTK Per",
+   "borta": "Sandareds BTK Peter",
+   "hemma_klubb": "Kinna Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-06-07",
+   "tid": "18:00",
+   "serie": "Södra 1",
+   "omgang": "Round 1",
+   "hemma": "Hyssna BTK",
+   "borta": "Sandareds BTK Patrick",
+   "hemma_klubb": "Hyssna Bordtennisklubb",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "18:00",
+   "serie": "Södra 1",
+   "omgang": "Round 3",
+   "hemma": "Byttorps A1",
+   "borta": "Sandareds BTK Patrick",
+   "hemma_klubb": "Byttorps Idrottsförening",
+   "borta_klubb": "Sandareds Bordtennisklubb",
+   "plats": "Arrangörens",
+   "arrangor": "Arrangörens",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  }
+ ],
+ "tabeller": [
+  {
+   "serie": "Div 1 V Dam",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Kågeröds BTK: A1",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Linné",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Kågeröds BTK: A2",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kungälvs BTK",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Laholms BTK Serve",
+     "klubb": "Laholms Bordtennisklubb Serve",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Rudalens IF",
+     "klubb": "Rudalens Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Sandareds BTK",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Södra 1",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Hyssna BTK",
+     "klubb": "Hyssna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Byttorps A1",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Sandareds BTK Patrick",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Mariedals IK Robert",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Mariedals IK Tim",
+     "klubb": "Mariedals Idrottsklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Södra 2",
+   "evenemang": "Nordvästra Götalands BTF 25/26",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Horreds BTK Y",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Horreds BTK V",
+     "klubb": "Horreds Bordtennisklubb",
+     "spelade": 1,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Kinna BTK Per",
+     "klubb": "Kinna Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Byttorps IF Veteraner",
+     "klubb": "Byttorps Idrottsförening",
+     "spelade": 2,
+     "vunna": 1,
+     "oavgjorda": 0,
+     "forlorade": 1,
+     "matchpoang": 2,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Sandareds BTK Peter",
+     "klubb": "Sandareds Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

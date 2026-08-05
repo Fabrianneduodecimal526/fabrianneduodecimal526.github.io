@@ -1,0 +1,437 @@
+{
+ "klubb": {
+  "slug": "bordtennisklubben-ratic",
+  "namn": "Bordtennisklubben Ratic"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "BTK Ratic",
+   "serie": {
+    "namn": "SSN"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 1",
+   "hemma": "BTK Ratic",
+   "borta": "Varbergs BTK",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "Varbergs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 2",
+   "hemma": "BTK Ratic",
+   "borta": "Malmö IF",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "Malmö Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 3",
+   "hemma": "BTK Ratic",
+   "borta": "IFK Lund Bordtennis: B2",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 4",
+   "hemma": "BTK Ratic",
+   "borta": "Trelleborgs BTK: B",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "Trelleborgs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 5",
+   "hemma": "BTK Ratic",
+   "borta": "Kågeröds BTK",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "Kågeröds Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "15:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 6",
+   "hemma": "BTK Ratic",
+   "borta": "Åstorps BTK: B",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "Åstorps Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "11:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 7",
+   "hemma": "BTK Ratic",
+   "borta": "IFK Lund Bordtennis: B1",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "IFK Lund Bordtennis",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "15:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 8",
+   "hemma": "Varbergs BTK",
+   "borta": "BTK Ratic",
+   "hemma_klubb": "Varbergs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "11:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 9",
+   "hemma": "Malmö IF",
+   "borta": "BTK Ratic",
+   "hemma_klubb": "Malmö Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "15:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 10",
+   "hemma": "IFK Lund Bordtennis: B2",
+   "borta": "BTK Ratic",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "11:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 11",
+   "hemma": "Trelleborgs BTK: B",
+   "borta": "BTK Ratic",
+   "hemma_klubb": "Trelleborgs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2027-02-13",
+   "tid": "15:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 12",
+   "hemma": "Kågeröds BTK",
+   "borta": "BTK Ratic",
+   "hemma_klubb": "Kågeröds Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "11:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 13",
+   "hemma": "Åstorps BTK: B",
+   "borta": "BTK Ratic",
+   "hemma_klubb": "Åstorps Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  },
+  {
+   "datum": "2027-03-13",
+   "tid": "15:00",
+   "serie": "Div 2 SSS",
+   "omgang": "Round 14",
+   "hemma": "IFK Lund Bordtennis: B1",
+   "borta": "BTK Ratic",
+   "hemma_klubb": "IFK Lund Bordtennis",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
+  }
+ ],
+ "resultat": [
+  {
+   "datum": "2026-04-11",
+   "tid": "09:00",
+   "serie": "SSN",
+   "omgang": "Round 1",
+   "hemma": "Håcksviks IF",
+   "borta": "BTK Ratic",
+   "hemma_klubb": "Håcksviks Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Ratic",
+   "plats": "Håcksvikshallen",
+   "arrangor": "Håcksvikshallen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/944/2/7/7",
+   "hemma_poang": 2,
+   "borta_poang": 0
+  },
+  {
+   "datum": "2026-04-11",
+   "tid": "17:00",
+   "serie": "SSN",
+   "omgang": "Round 3",
+   "hemma": "BTK Ratic",
+   "borta": "Västerviks BTK",
+   "hemma_klubb": "Bordtennisklubben Ratic",
+   "borta_klubb": "Västerviks Bordtennisklubb",
+   "plats": "Håcksvikshallen",
+   "arrangor": "Håcksvikshallen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/944/2/7/7",
+   "hemma_poang": 1,
+   "borta_poang": 1
+  }
+ ],
+ "tabeller": [
+  {
+   "serie": "Div 2 SSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Malmö IF",
+     "klubb": "Malmö Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "IFK Lund Bordtennis: B1",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Åstorps BTK: B",
+     "klubb": "Åstorps Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kågeröds BTK",
+     "klubb": "Kågeröds Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Trelleborgs BTK: B",
+     "klubb": "Trelleborgs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "IFK Lund Bordtennis: B2",
+     "klubb": "IFK Lund Bordtennis",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Varbergs BTK",
+     "klubb": "Varbergs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "BTK Ratic",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "SSN",
+   "evenemang": "Nationellt kvalspel 2026",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/944/2/7/7",
+   "startad": true,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Håcksviks IF",
+     "klubb": "Håcksviks Idrottsförening",
+     "spelade": 2,
+     "vunna": 2,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 4,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Ratic",
+     "klubb": "Bordtennisklubben Ratic",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Västerviks BTK",
+     "klubb": "Västerviks Bordtennisklubb",
+     "spelade": 2,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 2,
+     "matchpoang": 1,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

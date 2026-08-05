@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>STUPA Inte — bordtennis, begripligt</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --bg-alt: #f5f6f8;
+    --card: #ffffff;
+    --border: #e2e5ea;
+    --text: #16191d;
+    --muted: #6b7280;
+    --accent: #1e6b3f;
+    --accent-soft: #e8f3ec;
+    --warn: #b45309;
+    --radius: 10px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14171a;
+      --bg-alt: #1b1f23;
+      --card: #1b1f23;
+      --border: #2c3238;
+      --text: #e8eaed;
+      --muted: #9aa3ad;
+      --accent: #57c98a;
+      --accent-soft: #1d3328;
+      --warn: #e0a458;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  .wrap { max-width: 820px; margin: 0 auto; padding: 0 16px 64px; }
+
+  /* ---- Header ---- */
+  header {
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+    position: sticky; top: 0; z-index: 20;
+  }
+  .head-inner {
+    max-width: 820px; margin: 0 auto; padding: 14px 16px;
+    display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap;
+  }
+  .logo { font-size: 19px; font-weight: 700; letter-spacing: -0.02em; }
+  .logo span { color: var(--accent); }
+  .tagline { color: var(--muted); font-size: 13px; }
+  .club-switch {
+    margin-left: auto; background: none; border: 1px solid var(--border);
+    color: var(--text); border-radius: 999px; padding: 5px 13px;
+    font-size: 13px; cursor: pointer;
+  }
+  .club-switch:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* ---- Club picker ---- */
+  .picker { padding-top: 48px; text-align: center; }
+  .picker h1 { font-size: 27px; margin: 0 0 8px; letter-spacing: -0.02em; }
+  .picker p { color: var(--muted); margin: 0 0 28px; }
+  .search-box { position: relative; max-width: 440px; margin: 0 auto; text-align: left; }
+  #search {
+    width: 100%; padding: 13px 16px; font-size: 16px;
+    border: 1px solid var(--border); border-radius: var(--radius);
+    background: var(--card); color: var(--text);
+  }
+  #search:focus { outline: 2px solid var(--accent); outline-offset: -1px; border-color: transparent; }
+  .results { margin-top: 8px; border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+  .results:empty { display: none; }
+  .result {
+    display: flex; justify-content: space-between; align-items: center; gap: 12px;
+    width: 100%; text-align: left; background: var(--card); color: var(--text);
+    border: none; border-bottom: 1px solid var(--border);
+    padding: 12px 15px; font-size: 15px; cursor: pointer; font-family: inherit;
+  }
+  .result:last-child { border-bottom: none; }
+  .result:hover, .result:focus { background: var(--accent-soft); outline: none; }
+  .result .count { color: var(--muted); font-size: 13px; white-space: nowrap; }
+
+  /* ---- Club header ---- */
+  .club-head { padding: 26px 0 4px; }
+  .club-head h1 { font-size: 26px; margin: 0 0 4px; letter-spacing: -0.02em; }
+  .club-head .meta { color: var(--muted); font-size: 13px; }
+
+  /* ---- Tabs ---- */
+  nav.tabs {
+    display: flex; gap: 4px; margin: 20px 0 22px;
+    border-bottom: 1px solid var(--border); overflow-x: auto;
+  }
+  nav.tabs button {
+    background: none; border: none; border-bottom: 2px solid transparent;
+    color: var(--muted); padding: 9px 13px; font-size: 15px;
+    cursor: pointer; white-space: nowrap; font-family: inherit; margin-bottom: -1px;
+  }
+  nav.tabs button:hover { color: var(--text); }
+  nav.tabs button[aria-selected="true"] { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+
+  /* ---- Match list ---- */
+  .day { margin-bottom: 24px; }
+  .day-label {
+    font-size: 13px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.05em; color: var(--muted); margin-bottom: 8px;
+  }
+  .match {
+    display: block; text-decoration: none; color: inherit;
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 12px 14px; margin-bottom: 8px;
+  }
+  .match:hover { border-color: var(--accent); }
+  .match-top { display: flex; align-items: baseline; gap: 10px; margin-bottom: 6px; }
+  .time { font-variant-numeric: tabular-nums; font-weight: 600; font-size: 15px; }
+  .serie { color: var(--muted); font-size: 13px; }
+  .teams { font-size: 16px; display: flex; align-items: center; gap: 9px; flex-wrap: wrap; }
+  .teams .vs { color: var(--muted); font-size: 13px; }
+  .mine { font-weight: 700; color: var(--accent); }
+  .score {
+    margin-left: auto; font-variant-numeric: tabular-nums;
+    font-weight: 700; font-size: 16px;
+  }
+  .match-bot { color: var(--muted); font-size: 13px; margin-top: 6px; }
+  .badge {
+    display: inline-block; background: var(--accent-soft); color: var(--accent);
+    border-radius: 4px; padding: 1px 7px; font-size: 12px; font-weight: 600;
+    margin-left: 6px;
+  }
+
+  /* ---- Tables ---- */
+  .table-block { margin-bottom: 30px; }
+  .table-block h3 { font-size: 16px; margin: 0 0 10px; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th {
+    text-align: right; font-size: 12px; text-transform: uppercase;
+    letter-spacing: 0.04em; color: var(--muted); font-weight: 600;
+    padding: 6px 6px; border-bottom: 1px solid var(--border);
+  }
+  th:nth-child(-n+2), td:nth-child(-n+2) { text-align: left; }
+  td { padding: 8px 6px; border-bottom: 1px solid var(--border); font-variant-numeric: tabular-nums; }
+  tr.mine-row td { background: var(--accent-soft); font-weight: 600; }
+  .num { text-align: right; }
+  .not-started { color: var(--muted); font-size: 13px; margin: 0 0 8px; }
+
+  /* ---- Tournaments ---- */
+  .tourn {
+    display: block; text-decoration: none; color: inherit;
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 13px 14px; margin-bottom: 8px;
+  }
+  .tourn:hover { border-color: var(--accent); }
+  .tourn .name { font-weight: 600; margin-bottom: 3px; }
+  .tourn .sub { color: var(--muted); font-size: 13px; }
+  .tourn .deadline { color: var(--warn); font-size: 13px; margin-top: 4px; }
+
+  /* ---- Misc ---- */
+  .empty { color: var(--muted); padding: 32px 0; text-align: center; }
+  .error {
+    border: 1px solid var(--border); border-left: 3px solid var(--warn);
+    border-radius: var(--radius); padding: 14px 16px; color: var(--muted);
+  }
+  .error strong { color: var(--text); display: block; margin-bottom: 4px; }
+  footer { color: var(--muted); font-size: 13px; padding-top: 28px; border-top: 1px solid var(--border); margin-top: 40px; }
+  footer a { color: var(--accent); }
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="head-inner">
+    <div class="logo">STUPA <span>Inte</span></div>
+    <div class="tagline">bordtennis, begripligt</div>
+    <button class="club-switch hidden" id="switch-club">Byt klubb</button>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <!-- Klubbväljare -->
+  <section id="picker" class="picker">
+    <h1>Vilken klubb följer du?</h1>
+    <p>Sök på din klubb så samlas allt aktuellt på ett ställe.</p>
+    <div class="search-box">
+      <input id="search" type="search" placeholder="T.ex. Hammarby" autocomplete="off" autofocus>
+      <div class="results" id="results"></div>
+    </div>
+    <div id="picker-status" class="empty"></div>
+  </section>
+
+  <!-- Klubbvy -->
+  <section id="club" class="hidden">
+    <div class="club-head">
+      <h1 id="club-name"></h1>
+      <div class="meta" id="club-meta"></div>
+    </div>
+
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="kommande"    aria-selected="true">Kommande</button>
+      <button role="tab" data-tab="tabeller"    aria-selected="false">Tabeller</button>
+      <button role="tab" data-tab="resultat"    aria-selected="false">Resultat</button>
+      <button role="tab" data-tab="turneringar" aria-selected="false">Turneringar</button>
+    </nav>
+
+    <div id="panel"></div>
+  </section>
+
+  <footer>
+    Inofficiellt skal ovanpå <a href="https://stupaevents.com" target="_blank" rel="noopener">STUPA</a>.
+    Data hämtas automatiskt och kan vara upp till ett dygn gammal —
+    klicka på en match för att öppna originalet i STUPA.
+  </footer>
+</div>
+
+<script>
+(() => {
+  "use strict";
+
+  const DATA = "data";                       // sökväg till JSON-katalogen
+  const LS_KEY = "stupainte.klubb";
+
+  const $ = (id) => document.getElementById(id);
+  const el = {
+    picker: $("picker"), search: $("search"), results: $("results"),
+    pickerStatus: $("picker-status"), club: $("club"), clubName: $("club-name"),
+    clubMeta: $("club-meta"), panel: $("panel"), switchBtn: $("switch-club"),
+  };
+
+  let index = null;      // data/index.json
+  let klubb = null;      // data/klubb/<slug>.json
+  let aktivFlik = "kommande";
+
+  /* ---------- hjälpare ---------- */
+
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g,
+    (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+  const iDag = () => new Date().toISOString().slice(0, 10);
+
+  const VECKODAG = ["söndag","måndag","tisdag","onsdag","torsdag","fredag","lördag"];
+  const MANAD = ["januari","februari","mars","april","maj","juni",
+                 "juli","augusti","september","oktober","november","december"];
+
+  function datumEtikett(iso) {
+    const d = new Date(iso + "T12:00:00");
+    if (isNaN(d)) return iso;
+    const idag = new Date(iDag() + "T12:00:00");
+    const diff = Math.round((d - idag) / 86400000);
+    if (diff === 0) return "I dag";
+    if (diff === 1) return "I morgon";
+    const bas = `${VECKODAG[d.getDay()]} ${d.getDate()} ${MANAD[d.getMonth()]}`;
+    return diff > 0 && diff < 7 ? bas : `${bas} ${d.getFullYear()}`;
+  }
+
+  /** Är detta lagnamn ett av klubbens egna lag? */
+  function mittLag(namn) {
+    if (!klubb) return false;
+    return (klubb.lag || []).some((l) => l.namn === namn);
+  }
+
+  const lagHtml = (namn) =>
+    `<span class="${mittLag(namn) ? "mine" : ""}">${esc(namn)}</span>`;
+
+  function gruppera(matcher) {
+    const map = new Map();
+    for (const m of matcher) {
+      if (!map.has(m.datum)) map.set(m.datum, []);
+      map.get(m.datum).push(m);
+    }
+    return [...map.entries()];
+  }
+
+  function tomtBesked(text) {
+    return `<div class="empty">${esc(text)}</div>`;
+  }
+
+  /* ---------- rendering ---------- */
+
+  function matchKort(m, visaResultat) {
+    const arrangerarSjalv = klubb && m.arrangor === klubb.klubb.namn;
+    const poang = visaResultat && m.hemma_poang != null
+      ? `<span class="score">${esc(m.hemma_poang)}–${esc(m.borta_poang)}</span>` : "";
+    const plats = [m.plats, m.arrangor && `arr. ${m.arrangor}`].filter(Boolean).join(" · ");
+
+    return `
+      <a class="match" href="${esc(m.stupa_url || "#")}" target="_blank" rel="noopener">
+        <div class="match-top">
+          <span class="time">${esc(m.tid || "")}</span>
+          <span class="serie">${esc(m.serie || "")}${m.omgang ? " · " + esc(m.omgang) : ""}</span>
+        </div>
+        <div class="teams">
+          ${lagHtml(m.hemma)} <span class="vs">mot</span> ${lagHtml(m.borta)} ${poang}
+        </div>
+        <div class="match-bot">${esc(plats)}${
+          arrangerarSjalv ? '<span class="badge">Vi arrangerar</span>' : ""
+        }</div>
+      </a>`;
+  }
+
+  function renderaMatcher(matcher, visaResultat, tomText) {
+    if (!matcher || !matcher.length) return tomtBesked(tomText);
+    return gruppera(matcher).map(([datum, rader]) => `
+      <div class="day">
+        <div class="day-label">${esc(datumEtikett(datum))}</div>
+        ${rader.map((m) => matchKort(m, visaResultat)).join("")}
+      </div>`).join("");
+  }
+
+  function renderaTabeller() {
+    const tab = klubb.tabeller || [];
+    if (!tab.length) return tomtBesked("Inga tabeller hämtade än.");
+    return tab.map((t) => {
+      // Före första omgången är STUPA:s placeringar seedning, inte ställning.
+      // Att visa dem som en tabell vore missvisande — då listas lagen i stället.
+      if (t.startad === false) {
+        return `
+      <div class="table-block">
+        <h3>${esc(t.serie)}</h3>
+        <p class="not-started">Serien har inte startat — lagen i serien:</p>
+        <table>
+          <tbody>${(t.rader || []).map((r) => `
+            <tr class="${mittLag(r.lag) ? "mine-row" : ""}">
+              <td>${esc(r.lag)}</td>
+            </tr>`).join("")}
+          </tbody>
+        </table>
+      </div>`;
+      }
+      return `
+      <div class="table-block">
+        <h3>${esc(t.serie)}</h3>
+        <table>
+          <thead><tr>
+            <th>#</th><th>Lag</th>
+            <th class="num">S</th><th class="num">V</th>
+            <th class="num">O</th><th class="num">F</th>
+            <th class="num">Set</th><th class="num">P</th>
+          </tr></thead>
+          <tbody>${(t.rader || []).map((r) => `
+            <tr class="${mittLag(r.lag) ? "mine-row" : ""}">
+              <td>${esc(r.placering ?? "")}</td>
+              <td>${esc(r.lag)}</td>
+              <td class="num">${esc(r.spelade)}</td>
+              <td class="num">${esc(r.vunna)}</td>
+              <td class="num">${esc(r.oavgjorda)}</td>
+              <td class="num">${esc(r.forlorade)}</td>
+              <td class="num">${esc(r.setdiff ?? "")}</td>
+              <td class="num">${esc(r.matchpoang)}</td>
+            </tr>`).join("")}
+          </tbody>
+        </table>
+      </div>`;
+    }).join("");
+  }
+
+  function renderaTurneringar() {
+    const t = klubb.turneringar || [];
+    if (!t.length) return tomtBesked("Inga aktuella turneringar.");
+    return t.map((x) => {
+      const rad = [datumEtikett(x.datum), x.ort, x.niva].filter(Boolean);
+      return `
+      <a class="tourn" href="${esc(x.stupa_url || "#")}" target="_blank" rel="noopener">
+        <div class="name">${esc(x.namn)}</div>
+        <div class="sub">${esc(rad.join(" · "))}</div>
+        ${x.status === "Anmälan öppen"
+          ? `<div class="deadline">${esc(x.status)}</div>`
+          : x.status ? `<div class="sub">${esc(x.status)}</div>` : ""}
+      </a>`;
+    }).join("");
+  }
+
+  function renderaPanel() {
+    if (aktivFlik === "kommande") {
+      el.panel.innerHTML = renderaMatcher(klubb.kommande, false,
+        "Inga kommande matcher inlagda.");
+    } else if (aktivFlik === "tabeller") {
+      el.panel.innerHTML = renderaTabeller();
+    } else if (aktivFlik === "resultat") {
+      const spelade = (klubb.resultat || []).slice().reverse();
+      el.panel.innerHTML = renderaMatcher(spelade, true, "Inga spelade matcher än.");
+    } else {
+      el.panel.innerHTML = renderaTurneringar();
+    }
+  }
+
+  /* ---------- klubbval ---------- */
+
+  function renderaTraffar(q) {
+    const query = q.trim().toLowerCase();
+    if (!index) return;
+    if (!query) { el.results.innerHTML = ""; return; }
+
+    const traffar = index.klubbar
+      .filter((k) => k.namn.toLowerCase().includes(query))
+      .slice(0, 8);
+
+    el.results.innerHTML = traffar.length
+      ? traffar.map((k) => `
+          <button class="result" data-slug="${esc(k.slug)}">
+            <span>${esc(k.namn)}</span>
+            <span class="count">${esc(k.antal_lag)} lag</span>
+          </button>`).join("")
+      : `<button class="result" disabled><span>Ingen klubb matchar “${esc(q)}”</span></button>`;
+  }
+
+  async function valjKlubb(slug) {
+    try {
+      const svar = await fetch(`${DATA}/klubb/${slug}.json`, { cache: "no-cache" });
+      if (!svar.ok) throw new Error(`HTTP ${svar.status}`);
+      klubb = await svar.json();
+    } catch (fel) {
+      el.pickerStatus.innerHTML = `<div class="error"><strong>Kunde inte läsa klubbdata</strong>${esc(fel.message)}</div>`;
+      return;
+    }
+
+    localStorage.setItem(LS_KEY, slug);
+
+    el.clubName.textContent = klubb.klubb.namn;
+    const antal = (klubb.lag || []).length;
+    el.clubMeta.textContent =
+      `Säsong ${klubb.sasong} · ${antal} lag · uppdaterad ${
+        (klubb.uppdaterad || "").slice(0, 10)}`;
+
+    el.picker.classList.add("hidden");
+    el.club.classList.remove("hidden");
+    el.switchBtn.classList.remove("hidden");
+    renderaPanel();
+    window.scrollTo(0, 0);
+  }
+
+  function visaValjare() {
+    localStorage.removeItem(LS_KEY);
+    klubb = null;
+    el.club.classList.add("hidden");
+    el.switchBtn.classList.add("hidden");
+    el.picker.classList.remove("hidden");
+    el.search.value = "";
+    el.results.innerHTML = "";
+    el.search.focus();
+  }
+
+  /* ---------- händelser ---------- */
+
+  el.search.addEventListener("input", (e) => renderaTraffar(e.target.value));
+
+  el.results.addEventListener("click", (e) => {
+    const knapp = e.target.closest(".result[data-slug]");
+    if (knapp) valjKlubb(knapp.dataset.slug);
+  });
+
+  el.switchBtn.addEventListener("click", visaValjare);
+
+  document.querySelectorAll("nav.tabs button").forEach((b) => {
+    b.addEventListener("click", () => {
+      document.querySelectorAll("nav.tabs button")
+        .forEach((x) => x.setAttribute("aria-selected", String(x === b)));
+      aktivFlik = b.dataset.tab;
+      renderaPanel();
+    });
+  });
+
+  /* ---------- start ---------- */
+
+  (async function start() {
+    try {
+      const svar = await fetch(`${DATA}/index.json`, { cache: "no-cache" });
+      if (!svar.ok) throw new Error(`HTTP ${svar.status}`);
+      index = await svar.json();
+    } catch (fel) {
+      el.pickerStatus.innerHTML = `
+        <div class="error">
+          <strong>Ingen data hittades</strong>
+          Filen <code>${DATA}/index.json</code> kunde inte läsas (${esc(fel.message)}).
+          Kör hämtningsjobbet, eller starta en lokal server —
+          <code>python3 -m http.server</code> — eftersom <code>fetch</code>
+          inte fungerar mot <code>file://</code>.
+        </div>`;
+      return;
+    }
+
+    el.pickerStatus.textContent =
+      `${index.klubbar.length} klubbar · säsong ${index.sasong}`;
+
+    const sparad = localStorage.getItem(LS_KEY);
+    if (sparad && index.klubbar.some((k) => k.slug === sparad)) valjKlubb(sparad);
+  })();
+})();
+</script>
+</body>
+</html>

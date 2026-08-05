@@ -1,0 +1,365 @@
+{
+ "klubb": {
+  "slug": "tullinge-triangelpojkar-bordtennisklubb",
+  "namn": "Tullinge Triangelpojkar Bordtennisklubb"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "Tullinge TP BTK",
+   "serie": {
+    "namn": "Div 3 ÖSNV"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-09-19",
+   "tid": "11:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 1",
+   "hemma": "Tullinge TP BTK",
+   "borta": "Boo Racketklubb: B1",
+   "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "borta_klubb": "Boo Racketklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2026-09-19",
+   "tid": "15:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 2",
+   "hemma": "Norrtulls SK: C2",
+   "borta": "Tullinge TP BTK",
+   "hemma_klubb": "Norrtulls Sportklubb",
+   "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "11:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 3",
+   "hemma": "Tullinge TP BTK",
+   "borta": "Hammarby IF BTF: C2",
+   "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "borta_klubb": "Hammarby IF Bordtennisförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "15:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 4",
+   "hemma": "Sundbyberg/Solna BTK",
+   "borta": "Tullinge TP BTK",
+   "hemma_klubb": "Solna Bordtennisklubb",
+   "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 5",
+   "hemma": "Tullinge TP BTK",
+   "borta": "Tyresö BTK: B",
+   "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "borta_klubb": "Tyresö Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "15:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 6",
+   "hemma": "Tullinge TP BTK",
+   "borta": "Ängby SK: D",
+   "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "11:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 7",
+   "hemma": "Spårvägens BTK: D2",
+   "borta": "Tullinge TP BTK",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "15:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 8",
+   "hemma": "Boo Racketklubb: B1",
+   "borta": "Tullinge TP BTK",
+   "hemma_klubb": "Boo Racketklubb",
+   "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "11:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 9",
+   "hemma": "Tullinge TP BTK",
+   "borta": "Norrtulls SK: C2",
+   "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "borta_klubb": "Norrtulls Sportklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2027-01-16",
+   "tid": "15:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 10",
+   "hemma": "Hammarby IF BTF: C2",
+   "borta": "Tullinge TP BTK",
+   "hemma_klubb": "Hammarby IF Bordtennisförening",
+   "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "11:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 11",
+   "hemma": "Tullinge TP BTK",
+   "borta": "Sundbyberg/Solna BTK",
+   "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "borta_klubb": "Solna Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "15:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 12",
+   "hemma": "Tyresö BTK: B",
+   "borta": "Tullinge TP BTK",
+   "hemma_klubb": "Tyresö Bordtennisklubb",
+   "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "11:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 13",
+   "hemma": "Ängby SK: D",
+   "borta": "Tullinge TP BTK",
+   "hemma_klubb": "Ängby Sportklubb",
+   "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "15:00",
+   "serie": "Div 3 ÖSNV",
+   "omgang": "Round 14",
+   "hemma": "Tullinge TP BTK",
+   "borta": "Spårvägens BTK: D2",
+   "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  }
+ ],
+ "resultat": [],
+ "tabeller": [
+  {
+   "serie": "Div 3 ÖSNV",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Tyresö BTK: B",
+     "klubb": "Tyresö Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Hammarby IF BTF: C2",
+     "klubb": "Hammarby IF Bordtennisförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Sundbyberg/Solna BTK",
+     "klubb": "Solna Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Norrtulls SK: C2",
+     "klubb": "Norrtulls Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Tullinge TP BTK",
+     "klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Boo Racketklubb: B1",
+     "klubb": "Boo Racketklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Ängby SK: D",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Spårvägens BTK: D2",
+     "klubb": "Spårvägens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}

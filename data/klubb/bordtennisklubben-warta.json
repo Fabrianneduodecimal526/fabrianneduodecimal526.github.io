@@ -1,0 +1,365 @@
+{
+ "klubb": {
+  "slug": "bordtennisklubben-warta",
+  "namn": "Bordtennisklubben Warta"
+ },
+ "sasong": "2026/2027",
+ "uppdaterad": "2026-08-05T08:23:29Z",
+ "lag": [
+  {
+   "namn": "BTK Warta",
+   "serie": {
+    "namn": "Div 2 VSS"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  }
+ ],
+ "kommande": [
+  {
+   "datum": "2026-09-20",
+   "tid": "11:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 1",
+   "hemma": "BTK Warta",
+   "borta": "BTK Linné: B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Bordtennisklubben Linné",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "15:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 2",
+   "hemma": "Kungsbacka BTK",
+   "borta": "BTK Warta",
+   "hemma_klubb": "Kungsbacka Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "11:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 3",
+   "hemma": "Alingsås PK",
+   "borta": "BTK Warta",
+   "hemma_klubb": "Alingsås Pingis Klubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "15:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 4",
+   "hemma": "Borgstena IF",
+   "borta": "BTK Warta",
+   "hemma_klubb": "Borgstena IF",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 5",
+   "hemma": "Kungälvs BTK: A1",
+   "borta": "BTK Warta",
+   "hemma_klubb": "Kungälvs Bordtennisklubb",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "15:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 6",
+   "hemma": "Lekstorps IF: B",
+   "borta": "BTK Warta",
+   "hemma_klubb": "Lekstorps Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "11:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 7",
+   "hemma": "Håcksviks IF",
+   "borta": "BTK Warta",
+   "hemma_klubb": "Håcksviks Idrottsförening",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "15:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 8",
+   "hemma": "BTK Linné: B",
+   "borta": "BTK Warta",
+   "hemma_klubb": "Bordtennisklubben Linné",
+   "borta_klubb": "Bordtennisklubben Warta",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "11:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 9",
+   "hemma": "BTK Warta",
+   "borta": "Kungsbacka BTK",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Kungsbacka Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2027-01-17",
+   "tid": "15:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 10",
+   "hemma": "BTK Warta",
+   "borta": "Alingsås PK",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Alingsås Pingis Klubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "11:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 11",
+   "hemma": "BTK Warta",
+   "borta": "Borgstena IF",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Borgstena IF",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2027-02-14",
+   "tid": "15:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 12",
+   "hemma": "BTK Warta",
+   "borta": "Kungälvs BTK: A1",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Kungälvs Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "11:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 13",
+   "hemma": "BTK Warta",
+   "borta": "Lekstorps IF: B",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Lekstorps Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  },
+  {
+   "datum": "2027-03-14",
+   "tid": "15:00",
+   "serie": "Div 2 VSS",
+   "omgang": "Round 14",
+   "hemma": "BTK Warta",
+   "borta": "Håcksviks IF",
+   "hemma_klubb": "Bordtennisklubben Warta",
+   "borta_klubb": "Håcksviks Idrottsförening",
+   "plats": "Hall 1",
+   "arrangor": "Hall 1",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+  }
+ ],
+ "resultat": [],
+ "tabeller": [
+  {
+   "serie": "Div 2 VSS",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "BTK Warta",
+     "klubb": "Bordtennisklubben Warta",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "BTK Linné: B",
+     "klubb": "Bordtennisklubben Linné",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Lekstorps IF: B",
+     "klubb": "Lekstorps Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Kungälvs BTK: A1",
+     "klubb": "Kungälvs Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Kungsbacka BTK",
+     "klubb": "Kungsbacka Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Håcksviks IF",
+     "klubb": "Håcksviks Idrottsförening",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Alingsås PK",
+     "klubb": "Alingsås Pingis Klubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Borgstena IF",
+     "klubb": "Borgstena IF",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  }
+ ],
+ "turneringar": [
+  {
+   "namn": "Roslagsduellen augusti 2026",
+   "datum": "2026-08-15",
+   "slutdatum": "2026-08-16",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/413"
+  },
+  {
+   "namn": "Sweden GP Skurup Sparbanksloopen 2026",
+   "datum": "2026-08-22",
+   "slutdatum": "2026-08-23",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/428"
+  },
+  {
+   "namn": "Halmstad Masters 2026",
+   "datum": "2026-08-28",
+   "slutdatum": "2026-08-30",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan stängd",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/440"
+  },
+  {
+   "namn": "Visby Höstpool 2026",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Nationella tävlingar",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/433"
+  },
+  {
+   "namn": "Sweden GP VICI: Kristianstad Open ",
+   "datum": "2026-09-05",
+   "slutdatum": "2026-09-06",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/392"
+  },
+  {
+   "namn": "Craft Arena Open 2026",
+   "datum": "2026-09-12",
+   "slutdatum": "2026-09-13",
+   "ort": "",
+   "niva": "Sweden Tour",
+   "status": "Anmälan öppen",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/434"
+  },
+  {
+   "namn": "Ängby International TTEX Games Sweden PRO",
+   "datum": "2026-10-29",
+   "slutdatum": "2026-11-01",
+   "ort": "",
+   "niva": "Internationell",
+   "status": "Kommande",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/255"
+  }
+ ]
+}
