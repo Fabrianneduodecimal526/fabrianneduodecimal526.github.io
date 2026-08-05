@@ -4,7 +4,7 @@
   "namn": "Backa Bordtennis Klubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Backa BTK",
@@ -241,6 +241,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSSÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 11",
+     "hemma": "Åsa IF: A2",
+     "borta": "IF Ifo",
+     "hemma_klubb": "Åsa Idrottsförening",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Hall 1",
+     "arrangor": "Backa Bordtennis Klubb",
+     "arrangorer": [
+      "Backa Bordtennis Klubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 11",
+     "hemma": "Backa BTK",
+     "borta": "BTK Linné: C1",
+     "hemma_klubb": "Backa Bordtennis Klubb",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Hall 1",
+     "arrangor": "Backa Bordtennis Klubb",
+     "arrangorer": [
+      "Backa Bordtennis Klubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 11",
+     "hemma": "Lekstorps IF: C",
+     "borta": "Askims BTK: B",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Askims Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Backa Bordtennis Klubb",
+     "arrangorer": [
+      "Backa Bordtennis Klubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 11",
+     "hemma": "TopSpeed BTK",
+     "borta": "Alingsås PK: B",
+     "hemma_klubb": "TopSpeed Bordtennisklubb",
+     "borta_klubb": "Alingsås Pingis Klubb",
+     "plats": "Hall 1",
+     "arrangor": "Backa Bordtennis Klubb",
+     "arrangorer": [
+      "Backa Bordtennis Klubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 12",
+     "hemma": "Åsa IF: A2",
+     "borta": "Askims BTK: B",
+     "hemma_klubb": "Åsa Idrottsförening",
+     "borta_klubb": "Askims Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Backa Bordtennis Klubb",
+     "arrangorer": [
+      "Backa Bordtennis Klubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 12",
+     "hemma": "TopSpeed BTK",
+     "borta": "BTK Linné: C1",
+     "hemma_klubb": "TopSpeed Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Hall 1",
+     "arrangor": "Backa Bordtennis Klubb",
+     "arrangorer": [
+      "Backa Bordtennis Klubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 12",
+     "hemma": "Backa BTK",
+     "borta": "Alingsås PK: B",
+     "hemma_klubb": "Backa Bordtennis Klubb",
+     "borta_klubb": "Alingsås Pingis Klubb",
+     "plats": "Hall 1",
+     "arrangor": "Backa Bordtennis Klubb",
+     "arrangorer": [
+      "Backa Bordtennis Klubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 12",
+     "hemma": "Lekstorps IF: C",
+     "borta": "IF Ifo",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Hall 1",
+     "arrangor": "Backa Bordtennis Klubb",
+     "arrangorer": [
+      "Backa Bordtennis Klubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 VSSÖ",

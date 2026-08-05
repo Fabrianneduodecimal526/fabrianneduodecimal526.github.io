@@ -4,7 +4,7 @@
   "namn": "Umeå Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Umeå BTK",
@@ -703,6 +703,504 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSNÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 1",
+     "hemma": "Umeå BTK: A2",
+     "borta": "Umeå BTK: A1",
+     "hemma_klubb": "Umeå Bordtennisklubb",
+     "borta_klubb": "Umeå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 1",
+     "hemma": "Östersunds GIF",
+     "borta": "PK Sundsvall",
+     "hemma_klubb": "Östersunds GIF",
+     "borta_klubb": "Pingisklubben Sundsvall",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 1",
+     "hemma": "Alfta BTK",
+     "borta": "Ås IF: A2",
+     "hemma_klubb": "Alfta Bordtennisklubb",
+     "borta_klubb": "Ås Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 1",
+     "hemma": "Skellefteå AIK BTF: B",
+     "borta": "Höga Kusten AIF",
+     "hemma_klubb": "Skellefteå AIK BTF",
+     "borta_klubb": "Höga Kusten Allmänna Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 2",
+     "hemma": "Umeå BTK: A1",
+     "borta": "Höga Kusten AIF",
+     "hemma_klubb": "Umeå Bordtennisklubb",
+     "borta_klubb": "Höga Kusten Allmänna Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 2",
+     "hemma": "Ås IF: A2",
+     "borta": "Skellefteå AIK BTF: B",
+     "hemma_klubb": "Ås Idrottsförening",
+     "borta_klubb": "Skellefteå AIK BTF",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 2",
+     "hemma": "PK Sundsvall",
+     "borta": "Alfta BTK",
+     "hemma_klubb": "Pingisklubben Sundsvall",
+     "borta_klubb": "Alfta Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 2",
+     "hemma": "Umeå BTK: A2",
+     "borta": "Östersunds GIF",
+     "hemma_klubb": "Umeå Bordtennisklubb",
+     "borta_klubb": "Östersunds GIF",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSNÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Östersunds GIF",
+     "borta": "Umeå BTK: A1",
+     "hemma_klubb": "Östersunds GIF",
+     "borta_klubb": "Umeå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Alfta BTK",
+     "borta": "Umeå BTK: A2",
+     "hemma_klubb": "Alfta Bordtennisklubb",
+     "borta_klubb": "Umeå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Skellefteå AIK BTF: B",
+     "borta": "PK Sundsvall",
+     "hemma_klubb": "Skellefteå AIK BTF",
+     "borta_klubb": "Pingisklubben Sundsvall",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Höga Kusten AIF",
+     "borta": "Ås IF: A2",
+     "hemma_klubb": "Höga Kusten Allmänna Idrottsförening",
+     "borta_klubb": "Ås Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSNÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Skellefteå AIK BTF: B",
+     "borta": "Umeå BTK: A1",
+     "hemma_klubb": "Skellefteå AIK BTF",
+     "borta_klubb": "Umeå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Höga Kusten AIF",
+     "borta": "Alfta BTK",
+     "hemma_klubb": "Höga Kusten Allmänna Idrottsförening",
+     "borta_klubb": "Alfta Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Ås IF: A2",
+     "borta": "Östersunds GIF",
+     "hemma_klubb": "Ås Idrottsförening",
+     "borta_klubb": "Östersunds GIF",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 7",
+     "hemma": "PK Sundsvall",
+     "borta": "Umeå BTK: A2",
+     "hemma_klubb": "Pingisklubben Sundsvall",
+     "borta_klubb": "Umeå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Umeå BTK: A1",
+     "borta": "Umeå BTK: A2",
+     "hemma_klubb": "Umeå Bordtennisklubb",
+     "borta_klubb": "Umeå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 8",
+     "hemma": "PK Sundsvall",
+     "borta": "Östersunds GIF",
+     "hemma_klubb": "Pingisklubben Sundsvall",
+     "borta_klubb": "Östersunds GIF",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Ås IF: A2",
+     "borta": "Alfta BTK",
+     "hemma_klubb": "Ås Idrottsförening",
+     "borta_klubb": "Alfta Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 3 NSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Höga Kusten AIF",
+     "borta": "Skellefteå AIK BTF: B",
+     "hemma_klubb": "Höga Kusten Allmänna Idrottsförening",
+     "borta_klubb": "Skellefteå AIK BTF",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 1 N Dam"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 13",
+     "hemma": "Djurgårdens IF BTF: A1",
+     "borta": "Ängby SK: C1",
+     "hemma_klubb": "Djurgårdens IF BTF",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 13",
+     "hemma": "IK Sirius/SUIF: B",
+     "borta": "IFK Täby BTK",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "IFK Täby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 13",
+     "hemma": "Stratos Enköping BTK: A2",
+     "borta": "Umeå BTK",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Umeå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 13",
+     "hemma": "Spårvägens BTK: C3",
+     "borta": "IFK Österåkers BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "IFK Österåkers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 14",
+     "hemma": "Ängby SK: C1",
+     "borta": "Spårvägens BTK: C3",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 14",
+     "hemma": "IFK Österåkers BTK",
+     "borta": "Stratos Enköping BTK: A2",
+     "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 14",
+     "hemma": "Umeå BTK",
+     "borta": "IK Sirius/SUIF: B",
+     "hemma_klubb": "Umeå Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 14",
+     "hemma": "IFK Täby BTK",
+     "borta": "Djurgårdens IF BTF: A1",
+     "hemma_klubb": "IFK Täby Bordtennisklubb",
+     "borta_klubb": "Djurgårdens IF BTF",
+     "plats": "Hall 1",
+     "arrangor": "Umeå Bordtennisklubb",
+     "arrangorer": [
+      "Umeå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 1 N Dam",

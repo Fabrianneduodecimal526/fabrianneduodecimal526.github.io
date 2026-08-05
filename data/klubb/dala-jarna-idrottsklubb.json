@@ -4,7 +4,7 @@
   "namn": "Dala-Järna Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Dala-Järna IK",
@@ -241,6 +241,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSNV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSNV",
+     "omgang": "Round 11",
+     "hemma": "Dala-Järna IK",
+     "borta": "Upplands-Ekeby IF: A2",
+     "hemma_klubb": "Dala-Järna Idrottsklubb",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Dala-Järna Idrottsklubb",
+     "arrangorer": [
+      "Dala-Järna Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSNV",
+     "omgang": "Round 11",
+     "hemma": "Söderhamns UIF: D1",
+     "borta": "Gefle PK: B",
+     "hemma_klubb": "Söderhamns Ungdomsgårds IF",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dala-Järna Idrottsklubb",
+     "arrangorer": [
+      "Dala-Järna Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSNV",
+     "omgang": "Round 11",
+     "hemma": "KFUM Gävle BT",
+     "borta": "Heby AIF",
+     "hemma_klubb": "KFUM Gävle Bordtennis",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Dala-Järna Idrottsklubb",
+     "arrangorer": [
+      "Dala-Järna Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSNV",
+     "omgang": "Round 11",
+     "hemma": "Jägarnäs-Ludvika BTK",
+     "borta": "Falu BTK: B",
+     "hemma_klubb": "Jägarnäs/Ludvika BTK",
+     "borta_klubb": "Falu Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dala-Järna Idrottsklubb",
+     "arrangorer": [
+      "Dala-Järna Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSNV",
+     "omgang": "Round 12",
+     "hemma": "Upplands-Ekeby IF: A2",
+     "borta": "Jägarnäs-Ludvika BTK",
+     "hemma_klubb": "Upplands-Ekeby Idrottsförening",
+     "borta_klubb": "Jägarnäs/Ludvika BTK",
+     "plats": "Hall 1",
+     "arrangor": "Dala-Järna Idrottsklubb",
+     "arrangorer": [
+      "Dala-Järna Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSNV",
+     "omgang": "Round 12",
+     "hemma": "Falu BTK: B",
+     "borta": "KFUM Gävle BT",
+     "hemma_klubb": "Falu Bordtennisklubb",
+     "borta_klubb": "KFUM Gävle Bordtennis",
+     "plats": "Hall 1",
+     "arrangor": "Dala-Järna Idrottsklubb",
+     "arrangorer": [
+      "Dala-Järna Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSNV",
+     "omgang": "Round 12",
+     "hemma": "Heby AIF",
+     "borta": "Söderhamns UIF: D1",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Söderhamns Ungdomsgårds IF",
+     "plats": "Hall 1",
+     "arrangor": "Dala-Järna Idrottsklubb",
+     "arrangorer": [
+      "Dala-Järna Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSNV",
+     "omgang": "Round 12",
+     "hemma": "Gefle PK: B",
+     "borta": "Dala-Järna IK",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Dala-Järna Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dala-Järna Idrottsklubb",
+     "arrangorer": [
+      "Dala-Järna Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 NSNV",

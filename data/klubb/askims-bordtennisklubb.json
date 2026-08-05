@@ -4,8 +4,15 @@
   "namn": "Askims Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "Askims BTK",
+   "serie": {
+    "namn": "Div 1 V Herr"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Askims BTK",
    "serie": {
@@ -532,6 +539,300 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/943/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSSÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 1",
+     "hemma": "Askims BTK: B",
+     "borta": "Alingsås PK: B",
+     "hemma_klubb": "Askims Bordtennisklubb",
+     "borta_klubb": "Alingsås Pingis Klubb",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 1",
+     "hemma": "BTK Linné: C1",
+     "borta": "IF Ifo",
+     "hemma_klubb": "Bordtennisklubben Linné",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 2",
+     "hemma": "Askims BTK: B",
+     "borta": "BTK Linné: C1",
+     "hemma_klubb": "Askims Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 2",
+     "hemma": "Alingsås PK: B",
+     "borta": "IF Ifo",
+     "hemma_klubb": "Alingsås Pingis Klubb",
+     "borta_klubb": "Idrottsföreningen Ifo",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSSÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 9",
+     "hemma": "BTK Linné: C1",
+     "borta": "Askims BTK: B",
+     "hemma_klubb": "Bordtennisklubben Linné",
+     "borta_klubb": "Askims Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 9",
+     "hemma": "IF Ifo",
+     "borta": "Alingsås PK: B",
+     "hemma_klubb": "Idrottsföreningen Ifo",
+     "borta_klubb": "Alingsås Pingis Klubb",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 10",
+     "hemma": "Alingsås PK: B",
+     "borta": "Askims BTK: B",
+     "hemma_klubb": "Alingsås Pingis Klubb",
+     "borta_klubb": "Askims Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 3 VSSÖ",
+     "omgang": "Round 10",
+     "hemma": "IF Ifo",
+     "borta": "BTK Linné: C1",
+     "hemma_klubb": "Idrottsföreningen Ifo",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 1 V Herr"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 1 V Herr",
+     "omgang": "Round 13",
+     "hemma": "Lekstorps IF",
+     "borta": "BTK Linné",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 1 V Herr",
+     "omgang": "Round 13",
+     "hemma": "Horreds BTK",
+     "borta": "BTK Dalen",
+     "hemma_klubb": "Horreds Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Dalen",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 1 V Herr",
+     "omgang": "Round 13",
+     "hemma": "Askims BTK",
+     "borta": "Mölndals BTK",
+     "hemma_klubb": "Askims Bordtennisklubb",
+     "borta_klubb": "Mölndals Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 1 V Herr",
+     "omgang": "Round 13",
+     "hemma": "Svanesunds GIF",
+     "borta": "Mariedals IK",
+     "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 1 V Herr",
+     "omgang": "Round 14",
+     "hemma": "BTK Linné",
+     "borta": "Svanesunds GIF",
+     "hemma_klubb": "Bordtennisklubben Linné",
+     "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 1 V Herr",
+     "omgang": "Round 14",
+     "hemma": "Mariedals IK",
+     "borta": "Askims BTK",
+     "hemma_klubb": "Mariedals Idrottsklubb",
+     "borta_klubb": "Askims Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 1 V Herr",
+     "omgang": "Round 14",
+     "hemma": "Mölndals BTK",
+     "borta": "Horreds BTK",
+     "hemma_klubb": "Mölndals Bordtennisklubb",
+     "borta_klubb": "Horreds Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 1 V Herr",
+     "omgang": "Round 14",
+     "hemma": "BTK Dalen",
+     "borta": "Lekstorps IF",
+     "hemma_klubb": "Bordtennisklubben Dalen",
+     "borta_klubb": "Lekstorps Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Askims Bordtennisklubb",
+     "arrangorer": [
+      "Askims Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
+    }
+   ]
   }
  ],
  "tabeller": [

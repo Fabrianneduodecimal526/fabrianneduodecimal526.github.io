@@ -4,8 +4,15 @@
   "namn": "IFK Lidköping"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "IFK Lidköping: A1",
+   "serie": {
+    "namn": "Div 3 VSNV"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "IFK Lidköping: A1",
    "serie": {
@@ -491,6 +498,160 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/942/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSNV"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 5",
+     "hemma": "Grästorps BTK",
+     "borta": "Stenungsunds BTK",
+     "hemma_klubb": "Grästorps Bordtennisklubb",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "IFK Lidköping",
+     "arrangorer": [
+      "IFK Lidköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 5",
+     "hemma": "IFK Lidköping: A1",
+     "borta": "Mariedals IK: B",
+     "hemma_klubb": "IFK Lidköping",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "IFK Lidköping",
+     "arrangorer": [
+      "IFK Lidköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 6",
+     "hemma": "Grästorps BTK",
+     "borta": "Mariedals IK: B",
+     "hemma_klubb": "Grästorps Bordtennisklubb",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "IFK Lidköping",
+     "arrangorer": [
+      "IFK Lidköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 6",
+     "hemma": "IFK Lidköping: A1",
+     "borta": "Stenungsunds BTK",
+     "hemma_klubb": "IFK Lidköping",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "IFK Lidköping",
+     "arrangorer": [
+      "IFK Lidköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSNÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 11",
+     "hemma": "Ulricehamns IF",
+     "borta": "Blikstorps AIK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Blikstorps Allmänna IK",
+     "plats": "Hall 1",
+     "arrangor": "IFK Lidköping",
+     "arrangorer": [
+      "IFK Lidköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 11",
+     "hemma": "IFK Lidköping: A2",
+     "borta": "Larvs FK",
+     "hemma_klubb": "IFK Lidköping",
+     "borta_klubb": "Larvs Fotbollklubb",
+     "plats": "Hall 1",
+     "arrangor": "IFK Lidköping",
+     "arrangorer": [
+      "IFK Lidköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 12",
+     "hemma": "Ulricehamns IF",
+     "borta": "Larvs FK",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Larvs Fotbollklubb",
+     "plats": "Hall 1",
+     "arrangor": "IFK Lidköping",
+     "arrangorer": [
+      "IFK Lidköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 12",
+     "hemma": "IFK Lidköping: A2",
+     "borta": "Blikstorps AIK",
+     "hemma_klubb": "IFK Lidköping",
+     "borta_klubb": "Blikstorps Allmänna IK",
+     "plats": "Hall 1",
+     "arrangor": "IFK Lidköping",
+     "arrangorer": [
+      "IFK Lidköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    }
+   ]
   }
  ],
  "tabeller": [

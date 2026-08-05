@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Safir"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "BTK Safir",
@@ -472,6 +472,428 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 ÖSS"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 1",
+     "hemma": "Ljungsbro BTK",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "Ljungsbro Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 1",
+     "hemma": "Västerås BTK",
+     "borta": "Linköpings PK: B",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Linköpings Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 1",
+     "hemma": "Eskilstuna BTK",
+     "borta": "BTK Safir",
+     "hemma_klubb": "Eskilstuna Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Safir",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 1",
+     "hemma": "Kristinehamns BTF",
+     "borta": "Västers BTK: C",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Västers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 2",
+     "hemma": "IF Norcopensarna",
+     "borta": "Västers BTK: C",
+     "hemma_klubb": "Idrottsföreningen Norcopensarna",
+     "borta_klubb": "Västers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 2",
+     "hemma": "BTK Safir",
+     "borta": "Kristinehamns BTF",
+     "hemma_klubb": "Bordtennisklubben Safir",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 2",
+     "hemma": "Linköpings PK: B",
+     "borta": "Eskilstuna BTK",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Eskilstuna Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 2",
+     "hemma": "Ljungsbro BTK",
+     "borta": "Västerås BTK",
+     "hemma_klubb": "Ljungsbro Bordtennisklubb",
+     "borta_klubb": "Västerås Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 3",
+     "hemma": "Kristinehamns BTF: B2",
+     "borta": "Storå BTK",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Storå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 3",
+     "hemma": "Kristinehamns BTF: B1",
+     "borta": "Aga BTK: A1",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 3",
+     "hemma": "Bortans IK",
+     "borta": "Carlstads BTK: B",
+     "hemma_klubb": "Bortans Idrottsklubb",
+     "borta_klubb": "Carlstads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 3",
+     "hemma": "BTK Safir: B",
+     "borta": "Skoghalls BTK",
+     "hemma_klubb": "Bordtennisklubben Safir",
+     "borta_klubb": "Skoghalls Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 4",
+     "hemma": "Storå BTK",
+     "borta": "Skoghalls BTK",
+     "hemma_klubb": "Storå Bordtennisklubb",
+     "borta_klubb": "Skoghalls Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 4",
+     "hemma": "Carlstads BTK: B",
+     "borta": "BTK Safir: B",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Safir",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 4",
+     "hemma": "Aga BTK: A1",
+     "borta": "Bortans IK",
+     "hemma_klubb": "Aga Bordtennisklubb",
+     "borta_klubb": "Bortans Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 4",
+     "hemma": "Kristinehamns BTF: B2",
+     "borta": "Kristinehamns BTF: B1",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 7",
+     "hemma": "Bortans IK",
+     "borta": "Storå BTK",
+     "hemma_klubb": "Bortans Idrottsklubb",
+     "borta_klubb": "Storå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 7",
+     "hemma": "BTK Safir: B",
+     "borta": "Kristinehamns BTF: B1",
+     "hemma_klubb": "Bordtennisklubben Safir",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 7",
+     "hemma": "Skoghalls BTK",
+     "borta": "Kristinehamns BTF: B2",
+     "hemma_klubb": "Skoghalls Bordtennisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 7",
+     "hemma": "Carlstads BTK: B",
+     "borta": "Aga BTK: A1",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 8",
+     "hemma": "Storå BTK",
+     "borta": "Aga BTK: A1",
+     "hemma_klubb": "Storå Bordtennisklubb",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 8",
+     "hemma": "Carlstads BTK: B",
+     "borta": "Kristinehamns BTF: B2",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 8",
+     "hemma": "Skoghalls BTK",
+     "borta": "Kristinehamns BTF: B1",
+     "hemma_klubb": "Skoghalls Bordtennisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 8",
+     "hemma": "BTK Safir: B",
+     "borta": "Bortans IK",
+     "hemma_klubb": "Bordtennisklubben Safir",
+     "borta_klubb": "Bortans Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Safir",
+     "arrangorer": [
+      "Bordtennisklubben Safir"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 ÖSS",

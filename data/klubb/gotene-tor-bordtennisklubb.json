@@ -4,7 +4,7 @@
   "namn": "Götene/Tor Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Götene/Tor BTK",
@@ -241,6 +241,84 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-15",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSNÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 5",
+     "hemma": "Götene/Tor BTK",
+     "borta": "Mariestads BTK",
+     "hemma_klubb": "Götene/Tor Bordtennisklubb",
+     "borta_klubb": "Mariestads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Götene/Tor Bordtennisklubb",
+     "arrangorer": [
+      "Götene/Tor Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 5",
+     "hemma": "Karlsborgs BTK",
+     "borta": "Skövde PK: B",
+     "hemma_klubb": "Karlsborgs Bordtennisklubb",
+     "borta_klubb": "Skövde Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Götene/Tor Bordtennisklubb",
+     "arrangorer": [
+      "Götene/Tor Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 6",
+     "hemma": "Götene/Tor BTK",
+     "borta": "Skövde PK: B",
+     "hemma_klubb": "Götene/Tor Bordtennisklubb",
+     "borta_klubb": "Skövde Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Götene/Tor Bordtennisklubb",
+     "arrangorer": [
+      "Götene/Tor Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 6",
+     "hemma": "Karlsborgs BTK",
+     "borta": "Mariestads BTK",
+     "hemma_klubb": "Karlsborgs Bordtennisklubb",
+     "borta_klubb": "Mariestads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Götene/Tor Bordtennisklubb",
+     "arrangorer": [
+      "Götene/Tor Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 VSNÖ",

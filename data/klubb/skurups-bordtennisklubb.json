@@ -4,7 +4,7 @@
   "namn": "Skurups Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Skurups BTK",
@@ -241,6 +241,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSSÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 13",
+     "hemma": "BTK Scania",
+     "borta": "Sölvesborgs BTK",
+     "hemma_klubb": "Bordtennisklubben Scania",
+     "borta_klubb": "Sölvesborgs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 13",
+     "hemma": "Malmö IF: B",
+     "borta": "IF Ale",
+     "hemma_klubb": "Malmö Idrottsförening",
+     "borta_klubb": "Idrottsföreningen Ale",
+     "plats": "Hall 1",
+     "arrangor": "Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 13",
+     "hemma": "KFUM Kristianstad BTF",
+     "borta": "Skurups BTK",
+     "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+     "borta_klubb": "Skurups Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 13",
+     "hemma": "Degeberga GOIF",
+     "borta": "IFK Lund Bordtennis: C1",
+     "hemma_klubb": "Degeberga Gymnastik O IF",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Hall 1",
+     "arrangor": "Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 14",
+     "hemma": "Sölvesborgs BTK",
+     "borta": "Skurups BTK",
+     "hemma_klubb": "Sölvesborgs Bordtennisklubb",
+     "borta_klubb": "Skurups Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 14",
+     "hemma": "IF Ale",
+     "borta": "IFK Lund Bordtennis: C1",
+     "hemma_klubb": "Idrottsföreningen Ale",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Hall 1",
+     "arrangor": "Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 14",
+     "hemma": "Malmö IF: B",
+     "borta": "Degeberga GOIF",
+     "hemma_klubb": "Malmö Idrottsförening",
+     "borta_klubb": "Degeberga Gymnastik O IF",
+     "plats": "Hall 1",
+     "arrangor": "Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 14",
+     "hemma": "KFUM Kristianstad BTF",
+     "borta": "BTK Scania",
+     "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+     "borta_klubb": "Bordtennisklubben Scania",
+     "plats": "Hall 1",
+     "arrangor": "Skurups Bordtennisklubb",
+     "arrangorer": [
+      "Skurups Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 SSSÖ",

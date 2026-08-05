@@ -4,7 +4,7 @@
   "namn": "Storå Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Storå BTK",
@@ -241,6 +241,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 13",
+     "hemma": "Carlstads BTK: B",
+     "borta": "Storå BTK",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Storå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Storå Bordtennisklubb",
+     "arrangorer": [
+      "Storå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 13",
+     "hemma": "Skoghalls BTK",
+     "borta": "Aga BTK: A1",
+     "hemma_klubb": "Skoghalls Bordtennisklubb",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Storå Bordtennisklubb",
+     "arrangorer": [
+      "Storå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 13",
+     "hemma": "BTK Safir: B",
+     "borta": "Kristinehamns BTF: B2",
+     "hemma_klubb": "Bordtennisklubben Safir",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Storå Bordtennisklubb",
+     "arrangorer": [
+      "Storå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 13",
+     "hemma": "Bortans IK",
+     "borta": "Kristinehamns BTF: B1",
+     "hemma_klubb": "Bortans Idrottsklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Storå Bordtennisklubb",
+     "arrangorer": [
+      "Storå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 14",
+     "hemma": "Storå BTK",
+     "borta": "Bortans IK",
+     "hemma_klubb": "Storå Bordtennisklubb",
+     "borta_klubb": "Bortans Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Storå Bordtennisklubb",
+     "arrangorer": [
+      "Storå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 14",
+     "hemma": "Kristinehamns BTF: B1",
+     "borta": "BTK Safir: B",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Bordtennisklubben Safir",
+     "plats": "Hall 1",
+     "arrangor": "Storå Bordtennisklubb",
+     "arrangorer": [
+      "Storå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 14",
+     "hemma": "Kristinehamns BTF: B2",
+     "borta": "Skoghalls BTK",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Skoghalls Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Storå Bordtennisklubb",
+     "arrangorer": [
+      "Storå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 14",
+     "hemma": "Aga BTK: A1",
+     "borta": "Carlstads BTK: B",
+     "hemma_klubb": "Aga Bordtennisklubb",
+     "borta_klubb": "Carlstads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Storå Bordtennisklubb",
+     "arrangorer": [
+      "Storå Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 NSSV",

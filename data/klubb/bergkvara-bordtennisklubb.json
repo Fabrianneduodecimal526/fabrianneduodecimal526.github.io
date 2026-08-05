@@ -4,7 +4,7 @@
   "namn": "Bergkvara Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Bergkvara BTK",
@@ -241,6 +241,160 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 SSÖ Dam"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 2 SSÖ Dam",
+     "omgang": "Round 5",
+     "hemma": "Kosta SK: B",
+     "borta": "BTK Rekord",
+     "hemma_klubb": "Kosta Sportklubb",
+     "borta_klubb": "Bordtennisklubben Rekord",
+     "plats": "Hall 1",
+     "arrangor": "Bergkvara Bordtennisklubb",
+     "arrangorer": [
+      "Bergkvara Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 2 SSÖ Dam",
+     "omgang": "Round 5",
+     "hemma": "Bergkvara BTK",
+     "borta": "Kalmar BTK",
+     "hemma_klubb": "Bergkvara Bordtennisklubb",
+     "borta_klubb": "Kalmar Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bergkvara Bordtennisklubb",
+     "arrangorer": [
+      "Bergkvara Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 2 SSÖ Dam",
+     "omgang": "Round 6",
+     "hemma": "BTK Rekord",
+     "borta": "Bergkvara BTK",
+     "hemma_klubb": "Bordtennisklubben Rekord",
+     "borta_klubb": "Bergkvara Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bergkvara Bordtennisklubb",
+     "arrangorer": [
+      "Bergkvara Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 2 SSÖ Dam",
+     "omgang": "Round 6",
+     "hemma": "Kalmar BTK",
+     "borta": "Kosta SK: B",
+     "hemma_klubb": "Kalmar Bordtennisklubb",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bergkvara Bordtennisklubb",
+     "arrangorer": [
+      "Bergkvara Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 SSÖ Dam"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 SSÖ Dam",
+     "omgang": "Round 9",
+     "hemma": "Bergkvara BTK",
+     "borta": "BTK Rekord",
+     "hemma_klubb": "Bergkvara Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Rekord",
+     "plats": "Hall 1",
+     "arrangor": "Bergkvara Bordtennisklubb",
+     "arrangorer": [
+      "Bergkvara Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 SSÖ Dam",
+     "omgang": "Round 9",
+     "hemma": "Kosta SK: B",
+     "borta": "Kalmar BTK",
+     "hemma_klubb": "Kosta Sportklubb",
+     "borta_klubb": "Kalmar Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bergkvara Bordtennisklubb",
+     "arrangorer": [
+      "Bergkvara Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 SSÖ Dam",
+     "omgang": "Round 10",
+     "hemma": "Kosta SK: B",
+     "borta": "Bergkvara BTK",
+     "hemma_klubb": "Kosta Sportklubb",
+     "borta_klubb": "Bergkvara Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bergkvara Bordtennisklubb",
+     "arrangorer": [
+      "Bergkvara Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 SSÖ Dam",
+     "omgang": "Round 10",
+     "hemma": "BTK Rekord",
+     "borta": "Kalmar BTK",
+     "hemma_klubb": "Bordtennisklubben Rekord",
+     "borta_klubb": "Kalmar Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bergkvara Bordtennisklubb",
+     "arrangorer": [
+      "Bergkvara Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1149/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 SSÖ Dam",

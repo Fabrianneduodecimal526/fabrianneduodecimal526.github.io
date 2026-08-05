@@ -4,7 +4,7 @@
   "namn": "Kågeröds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Kågeröds BTK",
@@ -870,6 +870,84 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSSV"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSSV",
+     "omgang": "Round 5",
+     "hemma": "Kullahalvöns BTK",
+     "borta": "Åstorps BTK: C",
+     "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+     "borta_klubb": "Åstorps Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kågeröds Bordtennisklubb",
+     "arrangorer": [
+      "Kågeröds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSSV",
+     "omgang": "Round 5",
+     "hemma": "Kågeröds BTK: B",
+     "borta": "Halmstad BTK: D",
+     "hemma_klubb": "Kågeröds Bordtennisklubb",
+     "borta_klubb": "Halmstad Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kågeröds Bordtennisklubb",
+     "arrangorer": [
+      "Kågeröds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSSV",
+     "omgang": "Round 6",
+     "hemma": "Kullahalvöns BTK",
+     "borta": "Halmstad BTK: D",
+     "hemma_klubb": "Kullahalvöns Bordtennisklubb",
+     "borta_klubb": "Halmstad Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kågeröds Bordtennisklubb",
+     "arrangorer": [
+      "Kågeröds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSSV",
+     "omgang": "Round 6",
+     "hemma": "Kågeröds BTK: B",
+     "borta": "Åstorps BTK: C",
+     "hemma_klubb": "Kågeröds Bordtennisklubb",
+     "borta_klubb": "Åstorps Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kågeröds Bordtennisklubb",
+     "arrangorer": [
+      "Kågeröds Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 1 V Dam",

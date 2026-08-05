@@ -4,7 +4,7 @@
   "namn": "Börje Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Börje SK A",
@@ -472,6 +472,7 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Division 4B",

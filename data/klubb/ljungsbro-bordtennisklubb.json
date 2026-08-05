@@ -4,7 +4,7 @@
   "namn": "Ljungsbro Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Ljungsbro BTK",
@@ -472,6 +472,7 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 2 ÖSS",

@@ -1,891 +1,1068 @@
 {
- "genererad": "2026-08-05T10:14:24Z",
+ "genererad": "2026-08-05T10:31:00Z",
  "sasong": "2026/2027",
  "klubbar": [
   {
    "slug": "aga-bordtennisklubb",
    "namn": "Aga Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "alfta-bordtennisklubb",
    "namn": "Alfta Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "alingsas-pingis-klubb",
    "namn": "Alingsås Pingis Klubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "askims-bordtennisklubb",
    "namn": "Askims Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 4,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "back-bordtennisklubb",
    "namn": "Back Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "backa-bordtennis-klubb",
    "namn": "Backa Bordtennis Klubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "bergkvara-bordtennisklubb",
    "namn": "Bergkvara Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "bjarreds-bordtennisklubb",
    "namn": "Bjärreds Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "blikstorps-allmanna-ik",
    "namn": "Blikstorps Allmänna IK",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "boo-racketklubb",
    "namn": "Boo Racketklubb",
-   "antal_lag": 4
+   "antal_lag": 5,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "bordtennisklubben-dalen",
    "namn": "Bordtennisklubben Dalen",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "bordtennisklubben-frej",
    "namn": "Bordtennisklubben Frej",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "bordtennisklubben-kungsor",
    "namn": "Bordtennisklubben Kungsör",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "bordtennisklubben-kalom",
    "namn": "Bordtennisklubben Kälom",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "bordtennisklubben-kavlinge",
    "namn": "Bordtennisklubben Kävlinge",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 6
   },
   {
    "slug": "bordtennisklubben-linne",
    "namn": "Bordtennisklubben Linné",
-   "antal_lag": 4
+   "antal_lag": 5,
+   "arrangerar_dagar": 9
   },
   {
    "slug": "bordtennisklubben-ratic",
    "namn": "Bordtennisklubben Ratic",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "bordtennisklubben-rekord",
    "namn": "Bordtennisklubben Rekord",
-   "antal_lag": 2
+   "antal_lag": 4,
+   "arrangerar_dagar": 8
   },
   {
    "slug": "bordtennisklubben-safir",
    "namn": "Bordtennisklubben Safir",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "bordtennisklubben-scania",
    "namn": "Bordtennisklubben Scania",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "bordtennisklubben-warta",
    "namn": "Bordtennisklubben Warta",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "borgstena-if",
    "namn": "Borgstena IF",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "bortans-idrottsklubb",
    "namn": "Bortans Idrottsklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "bro-idrottsklubb",
    "namn": "Bro Idrottsklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "byttorps-idrottsforening",
    "namn": "Byttorps Idrottsförening",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "balinge-idrottsforening",
    "namn": "Bälinge Idrottsförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "balsta-bordtennisklubb",
    "namn": "Bålsta Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "borje-sportklubb",
    "namn": "Börje Sportklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "carlshamns-bordtennisklubb",
    "namn": "Carlshamns Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "carlstads-bordtennisklubb",
    "namn": "Carlstads Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 4,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "dala-jarna-idrottsklubb",
    "namn": "Dala-Järna Idrottsklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "degeberga-gymnastik-o-if",
    "namn": "Degeberga Gymnastik O IF",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "djurgardens-if-btf",
    "namn": "Djurgårdens IF BTF",
-   "antal_lag": 4
+   "antal_lag": 4,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "danningelanda-bordtennisklubb",
    "namn": "Dänningelanda Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "enkopings-pingisveteraner",
    "namn": "Enköpings Pingisveteraner",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "eskilstuna-bordtennisklubb",
    "namn": "Eskilstuna Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "eslovs-ai-bordtennisklubb",
    "namn": "Eslövs AI Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 5,
+   "arrangerar_dagar": 8
   },
   {
    "slug": "faggemala-bordtennisklubb",
    "namn": "Faggemåla Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "falkenbergs-bordtennisklubb",
    "namn": "Falkenbergs Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 6
   },
   {
    "slug": "falu-bordtennisklubb",
    "namn": "Falu Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "farila-bordtennisklubb",
    "namn": "Färila Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "gefle-pingisklubb",
    "namn": "Gefle Pingisklubb",
-   "antal_lag": 8
+   "antal_lag": 8,
+   "arrangerar_dagar": 9
   },
   {
    "slug": "grastorps-bordtennisklubb",
    "namn": "Grästorps Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "gotene-tor-bordtennisklubb",
    "namn": "Götene/Tor Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "hallstahammars-bordtennisklubb",
    "namn": "Hallstahammars Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "halmstad-bordtennisklubb",
    "namn": "Halmstad Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 7,
+   "arrangerar_dagar": 11
   },
   {
    "slug": "hammarby-if-bordtennisforening",
    "namn": "Hammarby IF Bordtennisförening",
-   "antal_lag": 6
+   "antal_lag": 7,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "haparanda-sportklubb-taktik",
    "namn": "Haparanda Sportklubb Taktik",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "heby-allmanna-idrottsforening",
    "namn": "Heby Allmänna Idrottsförening",
-   "antal_lag": 5
+   "antal_lag": 5,
+   "arrangerar_dagar": 8
   },
   {
    "slug": "herrljunga-bordtennisklubb",
    "namn": "Herrljunga Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "horreds-bordtennisklubb",
    "namn": "Horreds Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "huskvarna-sodra-idrottssallskap",
    "namn": "Huskvarna Södra Idrottssällskap",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "hyssna-bordtennisklubb",
    "namn": "Hyssna Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "hacksviks-idrottsforening",
    "namn": "Håcksviks Idrottsförening",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "halta-idrottsklubb",
    "namn": "Hålta Idrottsklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "hoga-kusten-allmanna-idrottsforening",
    "namn": "Höga Kusten Allmänna Idrottsförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "hogsby-bordtennisklubb",
    "namn": "Högsby Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "ifk-falkoping-bordtennisklubb",
    "namn": "IFK Falköping Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "ifk-lidingo-bordtennisklubb",
    "namn": "IFK Lidingö Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "ifk-lidkoping",
    "namn": "IFK Lidköping",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "ifk-lund-bordtennis",
    "namn": "IFK Lund Bordtennis",
-   "antal_lag": 6
+   "antal_lag": 8,
+   "arrangerar_dagar": 5
   },
   {
    "slug": "ifk-taby-bordtennisklubb",
    "namn": "IFK Täby Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "ifk-visby",
    "namn": "IFK Visby",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "ifk-osterakers-bordtennisklubb",
    "namn": "IFK Österåkers Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 6,
+   "arrangerar_dagar": 8
   },
   {
    "slug": "ik-sirius-bordtennisklubb",
    "namn": "IK Sirius Bordtennisklubb",
-   "antal_lag": 18
+   "antal_lag": 19,
+   "arrangerar_dagar": 14
   },
   {
    "slug": "idrottsforeningen-ale",
    "namn": "Idrottsföreningen Ale",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "idrottsforeningen-for-alla-eskilstuna",
    "namn": "Idrottsföreningen För Alla Eskilstuna",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "idrottsforeningen-ifo",
    "namn": "Idrottsföreningen Ifo",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "idrottsforeningen-norcopensarna",
    "namn": "Idrottsföreningen Norcopensarna",
-   "antal_lag": 2
+   "antal_lag": 4,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "idrottsklubben-juno",
    "namn": "Idrottsklubben Juno",
-   "antal_lag": 2
+   "antal_lag": 4,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "jagarnas-ludvika-btk",
    "namn": "Jägarnäs/Ludvika BTK",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "jamjo-bordtennisklubb",
    "namn": "Jämjö Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "jarfalla-bordtennisforening",
    "namn": "Järfälla Bordtennisförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "kfum-gavle-bordtennis",
    "namn": "KFUM Gävle Bordtennis",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "kfum-jonkoping",
    "namn": "KFUM Jönköping",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "kfum-kristianstad-bordtennisforening",
    "namn": "KFUM Kristianstad Bordtennisförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "kfum-stocksund-ia",
    "namn": "KFUM Stocksund IA",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "kalmar-bordtennisklubb",
    "namn": "Kalmar Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "karlsborgs-bordtennisklubb",
    "namn": "Karlsborgs Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "katrineholms-bordtennisklubb",
    "namn": "Katrineholms Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "kils-bordtennisklubb",
    "namn": "Kils Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "kinna-bordtennisklubb",
    "namn": "Kinna Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "knutby-idrottsforening",
    "namn": "Knutby Idrottsförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "kosta-sportklubb",
    "namn": "Kosta Sportklubb",
-   "antal_lag": 2
+   "antal_lag": 5,
+   "arrangerar_dagar": 12
   },
   {
    "slug": "kristinehamns-bordtennisforening",
    "namn": "Kristinehamns Bordtennisförening",
-   "antal_lag": 3
+   "antal_lag": 4,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "kullahalvons-bordtennisklubb",
    "namn": "Kullahalvöns Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "kungsbacka-bordtennisklubb",
    "namn": "Kungsbacka Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "kungalvs-bordtennisklubb",
    "namn": "Kungälvs Bordtennisklubb",
-   "antal_lag": 5
+   "antal_lag": 5,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "kattilsmala-bordtennisklubb",
    "namn": "Kättilsmåla Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "kagerods-bordtennisklubb",
    "namn": "Kågeröds Bordtennisklubb",
-   "antal_lag": 4
+   "antal_lag": 4,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "kopings-btk-dam",
    "namn": "Köpings BTK Dam",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "laholms-bordtennisklubb-serve",
    "namn": "Laholms Bordtennisklubb Serve",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "larvs-fotbollklubb",
    "namn": "Larvs Fotbollklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "lekstorps-idrottsforening",
    "namn": "Lekstorps Idrottsförening",
-   "antal_lag": 4
+   "antal_lag": 4,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "lessebo-bordtennisklubb",
    "namn": "Lessebo Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 6
   },
   {
    "slug": "linden-bordtennisklubb-eskilstuna",
    "namn": "Linden Bordtennisklubb Eskilstuna",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 6
   },
   {
    "slug": "lindome-bordtennisklubb",
    "namn": "Lindome Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "linkopings-pingisklubb",
    "namn": "Linköpings Pingisklubb",
-   "antal_lag": 4
+   "antal_lag": 5,
+   "arrangerar_dagar": 7
   },
   {
    "slug": "listerby-idrottsklubb",
    "namn": "Listerby Idrottsklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "ljungsbro-bordtennisklubb",
    "namn": "Ljungsbro Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "lyckeby-bordtennisklubb",
    "namn": "Lyckeby Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 7,
+   "arrangerar_dagar": 10
   },
   {
    "slug": "langemala-bordtennisklubb",
    "namn": "Långemåla Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "malmo-idrottsforening",
    "namn": "Malmö Idrottsförening",
-   "antal_lag": 4
+   "antal_lag": 5,
+   "arrangerar_dagar": 6
   },
   {
    "slug": "mariedals-idrottsklubb",
    "namn": "Mariedals Idrottsklubb",
-   "antal_lag": 4
+   "antal_lag": 6,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "mariestads-bordtennisklubb",
    "namn": "Mariestads Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "munkedals-bordtennisklubb",
    "namn": "Munkedals Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "molndals-bordtennisklubb",
    "namn": "Mölndals Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "nerikes-kils-sportklubb",
    "namn": "Nerikes Kils Sportklubb",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 6
   },
   {
    "slug": "norrtulls-sportklubb",
    "namn": "Norrtulls Sportklubb",
-   "antal_lag": 4
+   "antal_lag": 5,
+   "arrangerar_dagar": 7
   },
   {
    "slug": "norrtalje-bordtennisklubb",
    "namn": "Norrtälje Bordtennisklubb",
-   "antal_lag": 7
+   "antal_lag": 8,
+   "arrangerar_dagar": 9
   },
   {
    "slug": "nykoping-oxelosund-bordtennisklubb",
    "namn": "Nyköping Oxelösund Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "ortvikens-pingisklubb",
    "namn": "Ortvikens Pingisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "oskarshamns-bordtennisklubb",
    "namn": "Oskarshamns Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "pingisklubben-sundsvall",
    "namn": "Pingisklubben Sundsvall",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "rimbo-idrottsforening",
    "namn": "Rimbo Idrottsförening",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "rotebro-bordtennisklubb",
    "namn": "Rotebro Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "rudalens-idrottsforening",
    "namn": "Rudalens Idrottsförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "sandareds-bordtennisklubb",
    "namn": "Sandareds Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "sandvikens-bordtennisklubb",
    "namn": "Sandvikens Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "sigtuna-if-bordtennisklubb",
    "namn": "Sigtuna IF Bordtennisklubb",
-   "antal_lag": 4
+   "antal_lag": 4,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "sjobo-bordtennisklubb",
    "namn": "Sjöbo Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "sjomarkens-bordtennisklubb",
    "namn": "Sjömarkens Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "skagersviks-bordtennisklubb",
    "namn": "Skagersviks Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "skelleftea-aik-btf",
    "namn": "Skellefteå AIK BTF",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "skoghalls-bordtennisklubb",
    "namn": "Skoghalls Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "skurups-bordtennisklubb",
    "namn": "Skurups Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "skuttunge-sportklubb",
    "namn": "Skuttunge Sportklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "skyttorps-idrottsforening",
    "namn": "Skyttorps Idrottsförening",
-   "antal_lag": 4
+   "antal_lag": 4,
+   "arrangerar_dagar": 7
   },
   {
    "slug": "skovde-pingisklubb",
    "namn": "Skövde Pingisklubb",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "solna-bordtennisklubb",
    "namn": "Solna Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "sportklubben-frigg",
    "namn": "Sportklubben Frigg",
-   "antal_lag": 1
-  },
-  {
-   "slug": "sparvagens-btk",
-   "namn": "Spårvägens BTK",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "sparvagens-bordtennisklubb",
    "namn": "Spårvägens Bordtennisklubb",
-   "antal_lag": 9
+   "antal_lag": 14,
+   "arrangerar_dagar": 18
   },
   {
    "slug": "stenungsunds-bordtennisforening",
    "namn": "Stenungsunds Bordtennisförening",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "storvreta-idrottsklubb",
    "namn": "Storvreta Idrottsklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "stora-bordtennisklubb",
    "namn": "Storå Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "stratos-enkoping-bordtennisklubb",
    "namn": "Stratos Enköping Bordtennisklubb",
-   "antal_lag": 9
+   "antal_lag": 10,
+   "arrangerar_dagar": 11
   },
   {
    "slug": "sunnersta-allmanna-if",
    "namn": "Sunnersta Allmänna IF",
-   "antal_lag": 8
+   "antal_lag": 8,
+   "arrangerar_dagar": 8
   },
   {
    "slug": "svanesunds-gymnastik-o-idrottsforening",
    "namn": "Svanesunds Gymnastik o Idrottsförening",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "saro-kullavik-idrottsforening",
    "namn": "Särö Kullavik Idrottsförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "soderhamns-ungdomsgards-if",
    "namn": "Söderhamns Ungdomsgårds IF",
-   "antal_lag": 4
+   "antal_lag": 6,
+   "arrangerar_dagar": 14
   },
   {
    "slug": "sodertalje-bordtennisklubb",
    "namn": "Södertälje Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "solvesborgs-bordtennisklubb",
    "namn": "Sölvesborgs Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "tibble-kungsangen-bordtennisklubb",
    "namn": "Tibble-Kungsängen Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 6
   },
   {
    "slug": "topspeed-bordtennisklubb",
    "namn": "TopSpeed Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "trelleborgs-bordtennisklubb",
    "namn": "Trelleborgs Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 7
   },
   {
    "slug": "trollhattans-bordtennisklubb",
    "namn": "Trollhättans Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "tullinge-triangelpojkar-bordtennisklubb",
    "namn": "Tullinge Triangelpojkar Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "tyreso-bordtennisklubb",
    "namn": "Tyresö Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 3,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "tarnsjo-bordtennisklubb",
    "namn": "Tärnsjö Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 6
   },
   {
    "slug": "uddevalla-bordtennisklubb",
    "namn": "Uddevalla Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "ulricehamns-idrottsforening",
    "namn": "Ulricehamns Idrottsförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "umea-bordtennisklubb",
    "namn": "Umeå Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "upplands-ekeby-idrottsforening",
    "namn": "Upplands-Ekeby Idrottsförening",
-   "antal_lag": 5
+   "antal_lag": 5,
+   "arrangerar_dagar": 6
   },
   {
    "slug": "uppsala-life-idrottsforening",
    "namn": "Uppsala Life Idrottsförening",
-   "antal_lag": 5
+   "antal_lag": 5,
+   "arrangerar_dagar": 3
   },
   {
    "slug": "vaggeryds-bordtennisklubb",
    "namn": "Vaggeryds Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "varbergs-bordtennisklubb",
    "namn": "Varbergs Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 4,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "vassunda-idrottsforening",
    "namn": "Vassunda Idrottsförening",
-   "antal_lag": 6
+   "antal_lag": 7,
+   "arrangerar_dagar": 8
+  },
+  {
+   "slug": "vedums-allmanna-is",
+   "namn": "Vedums Allmänna IS",
+   "antal_lag": 0,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "vetlanda-bordtennisklubb",
    "namn": "Vetlanda Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 1
   },
   {
    "slug": "visby-bordtennisklubb",
    "namn": "Visby Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "visby-if-gute-bordtennisklubb",
    "namn": "Visby IF Gute Bordtennisklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "vanersborgs-bordtennisklubb",
    "namn": "Vänersborgs Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "vasters-bordtennisklubb",
    "namn": "Västers Bordtennisklubb",
-   "antal_lag": 4
+   "antal_lag": 5,
+   "arrangerar_dagar": 12
   },
   {
    "slug": "vasterviks-bordtennisklubb",
    "namn": "Västerviks Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 2,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "vasteras-bordtennisklubb",
    "namn": "Västerås Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 4,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "vaxtorps-boll-o-is",
    "namn": "Våxtorps Boll O IS",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "angby-sportklubb",
    "namn": "Ängby Sportklubb",
-   "antal_lag": 10
+   "antal_lag": 11,
+   "arrangerar_dagar": 13
   },
   {
    "slug": "adalslidens-sportklubb",
    "namn": "Ådalslidens Sportklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "alsta-bordtennisklubb",
    "namn": "Ålsta Bordtennisklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "as-idrottsforening",
    "namn": "Ås Idrottsförening",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "asa-idrottsforening",
    "namn": "Åsa Idrottsförening",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "astorps-bordtennisklubb",
    "namn": "Åstorps Bordtennisklubb",
-   "antal_lag": 3
+   "antal_lag": 3,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "ockero-idrottsforening",
    "namn": "Öckerö Idrottsförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 0
   },
   {
    "slug": "orbyhus-idrottsforening",
    "namn": "Örbyhus Idrottsförening",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "oregrunds-idrottsklubb",
    "namn": "Öregrunds Idrottsklubb",
-   "antal_lag": 2
+   "antal_lag": 2,
+   "arrangerar_dagar": 4
   },
   {
    "slug": "orans-sportklubb",
    "namn": "Öråns Sportklubb",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   },
   {
    "slug": "ostersunds-gif",
    "namn": "Östersunds GIF",
-   "antal_lag": 1
+   "antal_lag": 1,
+   "arrangerar_dagar": 2
   }
  ]
 }

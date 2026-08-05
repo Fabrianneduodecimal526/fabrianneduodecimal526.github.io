@@ -4,7 +4,7 @@
   "namn": "Mariestads Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Mariestads BTK",
@@ -241,6 +241,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSNÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Götene/Tor BTK",
+     "borta": "Blikstorps AIK",
+     "hemma_klubb": "Götene/Tor Bordtennisklubb",
+     "borta_klubb": "Blikstorps Allmänna IK",
+     "plats": "Hall 1",
+     "arrangor": "Mariestads Bordtennisklubb",
+     "arrangorer": [
+      "Mariestads Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Karlsborgs BTK",
+     "borta": "Larvs FK",
+     "hemma_klubb": "Karlsborgs Bordtennisklubb",
+     "borta_klubb": "Larvs Fotbollklubb",
+     "plats": "Hall 1",
+     "arrangor": "Mariestads Bordtennisklubb",
+     "arrangorer": [
+      "Mariestads Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Ulricehamns IF",
+     "borta": "Skövde PK: B",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "Skövde Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Mariestads Bordtennisklubb",
+     "arrangorer": [
+      "Mariestads Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Mariestads BTK",
+     "borta": "IFK Lidköping: A2",
+     "hemma_klubb": "Mariestads Bordtennisklubb",
+     "borta_klubb": "IFK Lidköping",
+     "plats": "Hall 1",
+     "arrangor": "Mariestads Bordtennisklubb",
+     "arrangorer": [
+      "Mariestads Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Karlsborgs BTK",
+     "borta": "Götene/Tor BTK",
+     "hemma_klubb": "Karlsborgs Bordtennisklubb",
+     "borta_klubb": "Götene/Tor Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Mariestads Bordtennisklubb",
+     "arrangorer": [
+      "Mariestads Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Blikstorps AIK",
+     "borta": "Larvs FK",
+     "hemma_klubb": "Blikstorps Allmänna IK",
+     "borta_klubb": "Larvs Fotbollklubb",
+     "plats": "Hall 1",
+     "arrangor": "Mariestads Bordtennisklubb",
+     "arrangorer": [
+      "Mariestads Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Mariestads BTK",
+     "borta": "Skövde PK: B",
+     "hemma_klubb": "Mariestads Bordtennisklubb",
+     "borta_klubb": "Skövde Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Mariestads Bordtennisklubb",
+     "arrangorer": [
+      "Mariestads Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Ulricehamns IF",
+     "borta": "IFK Lidköping: A2",
+     "hemma_klubb": "Ulricehamns Idrottsförening",
+     "borta_klubb": "IFK Lidköping",
+     "plats": "Hall 1",
+     "arrangor": "Mariestads Bordtennisklubb",
+     "arrangorer": [
+      "Mariestads Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 VSNÖ",

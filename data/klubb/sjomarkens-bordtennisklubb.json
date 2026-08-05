@@ -4,7 +4,7 @@
   "namn": "Sjömarkens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Sjömarkens BTK",
@@ -134,7 +134,7 @@
    "omgang": "Round 8",
    "hemma": "Spårvägens BTK",
    "borta": "Sjömarkens BTK",
-   "hemma_klubb": "Spårvägens BTK",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Sjömarkens Bordtennisklubb",
    "plats": "Hall 1",
    "arrangor": "Spårvägens Bordtennisklubb",
@@ -177,6 +177,7 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Pingisligan (dam)",
@@ -297,7 +298,7 @@
     {
      "placering": 11,
      "lag": "Spårvägens BTK",
-     "klubb": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

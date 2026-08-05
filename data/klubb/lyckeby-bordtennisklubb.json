@@ -4,12 +4,40 @@
   "namn": "Lyckeby Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Lyckeby BTK",
    "serie": {
+    "namn": "Div 1 S Dam"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lyckeby BTK",
+   "serie": {
+    "namn": "Kval Superettan damer"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lyckeby BTK",
+   "serie": {
     "namn": "Kval Superettan herrar"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lyckeby BTK",
+   "serie": {
+    "namn": "Superettan (dam)"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Lyckeby BTK",
+   "serie": {
+    "namn": "Superettan (herr)"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
@@ -1224,6 +1252,560 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNV"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 1",
+     "hemma": "BTK Frej: B",
+     "borta": "Jämjö BTK: B",
+     "hemma_klubb": "Bordtennisklubben Frej",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 1",
+     "hemma": "Lyckeby BTK: C",
+     "borta": "Listerby IK",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Listerby Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 2",
+     "hemma": "BTK Frej: B",
+     "borta": "Listerby IK",
+     "hemma_klubb": "Bordtennisklubben Frej",
+     "borta_klubb": "Listerby Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 2",
+     "hemma": "Lyckeby BTK: C",
+     "borta": "Jämjö BTK: B",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Lyckeby BTK"
+   ],
+   "serier": [
+    "Superettan (herr)"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Superettan (herr)",
+     "omgang": "Round 6",
+     "hemma": "Lyckeby BTK",
+     "borta": "Falkenbergs BTK",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Falkenbergs Bordtennisklubb",
+     "plats": "Lyckeby BTK",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "16:00",
+     "serie": "Superettan (herr)",
+     "omgang": "Round 6",
+     "hemma": "Falkenbergs BTK",
+     "borta": "BTK Kävlinge",
+     "hemma_klubb": "Falkenbergs Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Kävlinge",
+     "plats": "Lyckeby BTK",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-15",
+   "platser": [
+    "Lyckeby BTK"
+   ],
+   "serier": [
+    "Superettan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Superettan (herr)",
+     "omgang": "Round 7",
+     "hemma": "BTK Kävlinge",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Bordtennisklubben Kävlinge",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Lyckeby BTK",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "Lyckeby BTK"
+   ],
+   "serier": [
+    "Superettan (herr)"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Superettan (herr)",
+     "omgang": "Round 8",
+     "hemma": "Lyckeby BTK",
+     "borta": "Norrtulls SK",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Norrtulls Sportklubb",
+     "plats": "Lyckeby BTK",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "16:00",
+     "serie": "Superettan (herr)",
+     "omgang": "Round 8",
+     "hemma": "Norrtulls SK",
+     "borta": "Nerikes Kils SK",
+     "hemma_klubb": "Norrtulls Sportklubb",
+     "borta_klubb": "Nerikes Kils Sportklubb",
+     "plats": "Lyckeby BTK",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Lyckeby BTK"
+   ],
+   "serier": [
+    "Superettan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Superettan (herr)",
+     "omgang": "Round 9",
+     "hemma": "Nerikes Kils SK",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Nerikes Kils Sportklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Lyckeby BTK",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Superettan (dam)"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 7",
+     "hemma": "Lessebo BTK",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 7",
+     "hemma": "Kungsbacka BTK",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Kungsbacka Bordtennisklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 8",
+     "hemma": "Lessebo BTK",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 8",
+     "hemma": "Jämjö BTK",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNV"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 13",
+     "hemma": "Listerby IK",
+     "borta": "BTK Frej: B",
+     "hemma_klubb": "Listerby Idrottsklubb",
+     "borta_klubb": "Bordtennisklubben Frej",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 13",
+     "hemma": "Jämjö BTK: B",
+     "borta": "Lyckeby BTK: C",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 14",
+     "hemma": "Jämjö BTK: B",
+     "borta": "BTK Frej: B",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Frej",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 14",
+     "hemma": "Listerby IK",
+     "borta": "Lyckeby BTK: C",
+     "hemma_klubb": "Listerby Idrottsklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 1 S Dam"
+   ],
+   "antal": 6,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 1 S Dam",
+     "omgang": "Round 9",
+     "hemma": "Malmö IF: A1",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Malmö Idrottsförening",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 1 S Dam",
+     "omgang": "Round 9",
+     "hemma": "Carlshamns BTK",
+     "borta": "Kättilsmåla BTK",
+     "hemma_klubb": "Carlshamns Bordtennisklubb",
+     "borta_klubb": "Kättilsmåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 1 S Dam",
+     "omgang": "Round 9",
+     "hemma": "IFK Lund Bordtennis",
+     "borta": "Malmö IF: A2",
+     "hemma_klubb": "IFK Lund Bordtennis",
+     "borta_klubb": "Malmö Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 1 S Dam",
+     "omgang": "Round 10",
+     "hemma": "Lyckeby BTK",
+     "borta": "IFK Lund Bordtennis",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 1 S Dam",
+     "omgang": "Round 10",
+     "hemma": "Malmö IF: A2",
+     "borta": "Carlshamns BTK",
+     "hemma_klubb": "Malmö Idrottsförening",
+     "borta_klubb": "Carlshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 1 S Dam",
+     "omgang": "Round 10",
+     "hemma": "Kättilsmåla BTK",
+     "borta": "Malmö IF: A1",
+     "hemma_klubb": "Kättilsmåla Bordtennisklubb",
+     "borta_klubb": "Malmö Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1128/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-10",
+   "platser": [
+    "Lyckeby BTK"
+   ],
+   "serier": [
+    "Superettan (herr)"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2027-04-10",
+     "tid": "11:00",
+     "serie": "Superettan (herr)",
+     "omgang": "Round 17",
+     "hemma": "Lyckeby BTK",
+     "borta": "Nerikes Kils SK",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Nerikes Kils Sportklubb",
+     "plats": "Lyckeby BTK",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+    },
+    {
+     "datum": "2027-04-10",
+     "tid": "16:00",
+     "serie": "Superettan (herr)",
+     "omgang": "Round 17",
+     "hemma": "Nerikes Kils SK",
+     "borta": "Norrtulls SK",
+     "hemma_klubb": "Nerikes Kils Sportklubb",
+     "borta_klubb": "Norrtulls Sportklubb",
+     "plats": "Lyckeby BTK",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-04-11",
+   "platser": [
+    "Lyckeby BTK"
+   ],
+   "serier": [
+    "Superettan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-04-11",
+     "tid": "11:00",
+     "serie": "Superettan (herr)",
+     "omgang": "Round 18",
+     "hemma": "Norrtulls SK",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Norrtulls Sportklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Lyckeby BTK",
+     "arrangor": "Lyckeby Bordtennisklubb",
+     "arrangorer": [
+      "Lyckeby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
+    }
+   ]
   }
  ],
  "tabeller": [

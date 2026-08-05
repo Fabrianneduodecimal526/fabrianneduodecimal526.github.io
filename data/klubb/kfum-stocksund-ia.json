@@ -4,7 +4,7 @@
   "namn": "KFUM Stocksund IA"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "KFUM Stocksund",
@@ -472,6 +472,84 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSSÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 13",
+     "hemma": "Sunnersta AIF: A2",
+     "borta": "Boo Racketklubb: B2",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Boo Racketklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Stocksund IA",
+     "arrangorer": [
+      "KFUM Stocksund IA"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 13",
+     "hemma": "KFUM Stocksund: B",
+     "borta": "IK Sirius BTK: C",
+     "hemma_klubb": "KFUM Stocksund IA",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Stocksund IA",
+     "arrangorer": [
+      "KFUM Stocksund IA"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 14",
+     "hemma": "Boo Racketklubb: B2",
+     "borta": "IK Sirius BTK: C",
+     "hemma_klubb": "Boo Racketklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Stocksund IA",
+     "arrangorer": [
+      "KFUM Stocksund IA"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 14",
+     "hemma": "Sunnersta AIF: A2",
+     "borta": "KFUM Stocksund: B",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "KFUM Stocksund IA",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Stocksund IA",
+     "arrangorer": [
+      "KFUM Stocksund IA"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 NSS",

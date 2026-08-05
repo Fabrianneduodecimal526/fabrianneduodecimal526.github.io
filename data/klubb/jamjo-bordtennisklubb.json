@@ -4,8 +4,15 @@
   "namn": "Jämjö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "Jämjö BTK",
+   "serie": {
+    "namn": "Div 2 SSN"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Jämjö BTK",
    "serie": {
@@ -694,6 +701,160 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Superettan (dam)"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 5",
+     "hemma": "Kungsbacka BTK",
+     "borta": "Lessebo BTK",
+     "hemma_klubb": "Kungsbacka Bordtennisklubb",
+     "borta_klubb": "Lessebo Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Jämjö Bordtennisklubb",
+     "arrangorer": [
+      "Jämjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 5",
+     "hemma": "Lyckeby BTK",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Jämjö Bordtennisklubb",
+     "arrangorer": [
+      "Jämjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 6",
+     "hemma": "Lessebo BTK",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Jämjö Bordtennisklubb",
+     "arrangorer": [
+      "Jämjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 6",
+     "hemma": "Jämjö BTK",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Jämjö Bordtennisklubb",
+     "arrangorer": [
+      "Jämjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNV"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 9",
+     "hemma": "Dänningelanda BTK",
+     "borta": "BTK Frej: B",
+     "hemma_klubb": "Dänningelanda Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Frej",
+     "plats": "Hall 1",
+     "arrangor": "Jämjö Bordtennisklubb",
+     "arrangorer": [
+      "Jämjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 9",
+     "hemma": "Högsby BTK",
+     "borta": "Jämjö BTK: B",
+     "hemma_klubb": "Högsby Bordtennisklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Jämjö Bordtennisklubb",
+     "arrangorer": [
+      "Jämjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 10",
+     "hemma": "Jämjö BTK: B",
+     "borta": "Dänningelanda BTK",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Dänningelanda Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Jämjö Bordtennisklubb",
+     "arrangorer": [
+      "Jämjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 10",
+     "hemma": "Högsby BTK",
+     "borta": "BTK Frej: B",
+     "hemma_klubb": "Högsby Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Frej",
+     "plats": "Hall 1",
+     "arrangor": "Jämjö Bordtennisklubb",
+     "arrangorer": [
+      "Jämjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 SSN",

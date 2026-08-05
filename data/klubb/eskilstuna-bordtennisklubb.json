@@ -4,8 +4,15 @@
   "namn": "Eskilstuna Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "Eskilstuna BTK",
+   "serie": {
+    "namn": "Div 2 ÖSS"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Eskilstuna BTK",
    "serie": {
@@ -241,6 +248,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 ÖSS"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 11",
+     "hemma": "BTK Safir",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "Bordtennisklubben Safir",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Eskilstuna Bordtennisklubb",
+     "arrangorer": [
+      "Eskilstuna Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 11",
+     "hemma": "Västers BTK: C",
+     "borta": "Linköpings PK: B",
+     "hemma_klubb": "Västers Bordtennisklubb",
+     "borta_klubb": "Linköpings Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Eskilstuna Bordtennisklubb",
+     "arrangorer": [
+      "Eskilstuna Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 11",
+     "hemma": "Kristinehamns BTF",
+     "borta": "Ljungsbro BTK",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Ljungsbro Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Eskilstuna Bordtennisklubb",
+     "arrangorer": [
+      "Eskilstuna Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 11",
+     "hemma": "Eskilstuna BTK",
+     "borta": "Västerås BTK",
+     "hemma_klubb": "Eskilstuna Bordtennisklubb",
+     "borta_klubb": "Västerås Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Eskilstuna Bordtennisklubb",
+     "arrangorer": [
+      "Eskilstuna Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 12",
+     "hemma": "IF Norcopensarna",
+     "borta": "Eskilstuna BTK",
+     "hemma_klubb": "Idrottsföreningen Norcopensarna",
+     "borta_klubb": "Eskilstuna Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Eskilstuna Bordtennisklubb",
+     "arrangorer": [
+      "Eskilstuna Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 12",
+     "hemma": "Västerås BTK",
+     "borta": "Kristinehamns BTF",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Eskilstuna Bordtennisklubb",
+     "arrangorer": [
+      "Eskilstuna Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 12",
+     "hemma": "Ljungsbro BTK",
+     "borta": "Västers BTK: C",
+     "hemma_klubb": "Ljungsbro Bordtennisklubb",
+     "borta_klubb": "Västers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Eskilstuna Bordtennisklubb",
+     "arrangorer": [
+      "Eskilstuna Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 12",
+     "hemma": "Linköpings PK: B",
+     "borta": "BTK Safir",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Bordtennisklubben Safir",
+     "plats": "Hall 1",
+     "arrangor": "Eskilstuna Bordtennisklubb",
+     "arrangorer": [
+      "Eskilstuna Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 ÖSS",

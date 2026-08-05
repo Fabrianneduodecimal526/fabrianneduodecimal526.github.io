@@ -197,11 +197,26 @@ Varje lag bär sin kanoniska förening i `selected_parents`:
 ]
 ```
 
-Detta är värt att uppmärksamma: det problem som `thelinkan/bt-serier` lägger
-mest möda på — att gissa vilken förening ett lagnamn tillhör genom
-normaliseringsregler — **existerar inte** när man går via API:et. Föreningen
-följer med som strukturerad data. `get_role_parents?role_id=590` returnerar
-dessutom hela det svenska klubbregistret.
+Det problem som `thelinkan/bt-serier` lägger mest möda på — att gissa vilken
+förening ett lagnamn tillhör — är därmed till 99 % löst. Föreningen följer med
+som strukturerad data.
+
+Men bara till 99 %. Enstaka lag är taggade med kortnamn i stället för
+föreningens registrerade namn: ett lag i Pingisligan dam bär *"Spårvägens
+BTK"* medan alla andra Spårvägslag bär *"Spårvägens Bordtennisklubb"*. Utan
+åtgärd blir det två klubbar i listan, och användaren som söker "Spårvägen"
+får välja mellan dem utan att veta vilken som är rätt.
+
+Lösningen är dock inte fri namnmatchning. `get_role_parents?role_id=590`
+returnerar STUPA:s eget klubbregister — 590 föreningar — och det är
+auktoritativt. Hämtaren normaliserar bort fyllnadsord ("BTK", "Idrottsförening"),
+slår upp resultatet i registret och använder det registrerade namnet. Nycklar
+som inte är entydiga används inte, så *"Spårvägens Veteran Bordtennisklubb"*
+slås inte ihop med *"Spårvägens Bordtennisklubb"*.
+
+Samma lagnamn kan dessutom förekomma i flera serier — "Spårvägens BTK" spelar
+både Pingisligan herr och dam. Lag måste därför identifieras av namn *och*
+serie, annars försvinner det ena.
 
 ### URL-strukturen, dekodad
 

@@ -101,11 +101,63 @@ def slugga(namn: str) -> str:
     return t or "okand"
 
 
+# Ord som skiljer namnvarianter åt utan att ändra vilken förening som avses.
+# "Spårvägens BTK" och "Spårvägens Bordtennisklubb" ska ge samma nyckel.
+FYLLNADSORD = [
+    "bordtennisklubben", "bordtennisklubb", "bordtennisförening", "bordtennis",
+    "idrottsförening", "idrottssällskap", "idrottsklubb", "sportklubb",
+    "pingisklubb", "pingis", "allmänna", "btk", "btf", "aif", "pk", "sk",
+    "if", "ik", "bt", "klubb",
+]
+
+
+def namnyckel(namn: str) -> str:
+    t = (namn or "").lower()
+    for ord_ in FYLLNADSORD:
+        t = re.sub(r"\b" + ord_ + r"\b", " ", t)
+    t = t.replace("å", "a").replace("ä", "a").replace("ö", "o")
+    return re.sub(r"[^a-z0-9]", "", t)
+
+
+def hamta_klubbregister(api: Stupa) -> dict[str, str]:
+    """
+    STUPA för ett eget klubbregister. Det är auktoritativt och används för
+    att slå ihop namnvarianter.
+
+    Behovet är litet men verkligt: enstaka lag är taggade med kortnamn i
+    stället för föreningens registrerade namn. Ett lag i Pingisligan dam bär
+    "Spårvägens BTK" medan alla andra Spårvägslag bär "Spårvägens
+    Bordtennisklubb" — utan sammanslagning blir det två klubbar i listan.
+
+    Nyckeln måste vara entydig för att användas. "Spårvägens Veteran
+    Bordtennisklubb" får en egen nyckel och slås alltså inte ihop.
+    """
+    register: dict[str, list[str]] = defaultdict(list)
+    for blk in api.data("get_role_parents", role_id=590):
+        if blk.get("parent_role_name") != "Club":
+            continue
+        for u in blk.get("parent_user_roles") or []:
+            namn = u.get("parent_role_linked_field_value")
+            if namn:
+                register[namnyckel(namn)].append(namn)
+
+    entydiga = {k: v[0] for k, v in register.items() if len(v) == 1 and k}
+    print(f"  klubbregister: {sum(len(v) for v in register.values())} föreningar, "
+          f"{len(entydiga)} entydiga namnnycklar")
+    return entydiga
+
+
+KLUBBREGISTER: dict[str, str] = {}
+
+
 def klubb_for(deltagare: dict) -> str | None:
     """Plockar ut kanoniskt klubbnamn ur selected_parents."""
     for f in deltagare.get("selected_parents") or []:
         if f.get("parent_role") == "Club":
-            return f.get("parent_name")
+            namn = f.get("parent_name")
+            if not namn:
+                return None
+            return KLUBBREGISTER.get(namnyckel(namn), namn)
     return None
 
 
@@ -366,7 +418,8 @@ def hamta_turneringar(api: Stupa, evenemang: Iterable[dict]) -> list[dict]:
 def bygg(matcher: list[dict], tabeller: list[dict], turneringar: list[dict],
          sasong: str) -> tuple[dict, dict[str, dict]]:
     per_klubb: dict[str, dict] = defaultdict(
-        lambda: {"lag": {}, "kommande": [], "resultat": [], "serier": set()}
+        lambda: {"lag": set(), "kommande": [], "resultat": [],
+                 "arrangerar": [], "serier": set()}
     )
 
     for m in matcher:
@@ -375,9 +428,18 @@ def bygg(matcher: list[dict], tabeller: list[dict], turneringar: list[dict],
             if not klubb:
                 continue
             k = per_klubb[klubb]
-            k["lag"][m[sida]] = m["serie"]
+            # Nyckeln måste innehålla serien. Samma lagnamn förekommer i
+            # olika serier — "Spårvägens BTK" spelar både Pingisligan herr
+            # och Pingisligan dam — och skulle annars skriva över varandra.
+            k["lag"].add((m[sida], m["serie"]))
             k["serier"].add(m["serie"])
             (k["resultat"] if "hemma_poang" in m else k["kommande"]).append(m)
+
+        # En arrangör är värd för hela seriehelgen, även matcher där inget
+        # av de egna lagen spelar. De matcherna finns alltså inte i listorna
+        # ovan och måste samlas separat.
+        for klubb in m.get("arrangorer") or []:
+            per_klubb[klubb]["arrangerar"].append(m)
 
     tabell_per_serie: dict[str, dict] = {t["serie"]: t for t in tabeller}
     dagens = idag()
@@ -393,22 +455,42 @@ def bygg(matcher: list[dict], tabeller: list[dict], turneringar: list[dict],
         )
         resultat = sorted(d["resultat"], key=lambda m: (m["datum"], m["tid"]))
 
+        # Arrangörsvyn grupperas per speldag — det är så en klubb planerar
+        # hallpass, funktionärer och domare.
+        per_dag: dict[str, list[dict]] = defaultdict(list)
+        for m in d["arrangerar"]:
+            if m["datum"] >= dagens:
+                per_dag[m["datum"]].append(m)
+
+        arrangerar = []
+        for datum in sorted(per_dag):
+            rader = sorted(per_dag[datum], key=lambda m: (m["tid"], m["serie"]))
+            arrangerar.append({
+                "datum": datum,
+                "platser": sorted({m["plats"] for m in rader if m["plats"]}),
+                "serier": sorted({m["serie"] for m in rader}),
+                "antal": len(rader),
+                "matcher": rader,
+            })
+
         filer[slug] = {
             "klubb": {"slug": slug, "namn": klubb},
             "sasong": sasong,
             "uppdaterad": nu(),
             "lag": [
                 {"namn": namn, "serie": {"namn": serie}, "stupa_url": WEBB}
-                for namn, serie in sorted(d["lag"].items())
+                for namn, serie in sorted(d["lag"])
             ],
             "kommande": kommande,
             "resultat": resultat,
+            "arrangerar": arrangerar,
             "tabeller": [tabell_per_serie[s] for s in sorted(d["serier"])
                          if s in tabell_per_serie],
             "turneringar": turneringar[:40],
         }
         index_klubbar.append({
             "slug": slug, "namn": klubb, "antal_lag": len(d["lag"]),
+            "arrangerar_dagar": len(arrangerar),
         })
 
     index = {
@@ -430,6 +512,10 @@ def main() -> int:
     args = p.parse_args()
 
     api = Stupa()
+
+    print("Hämtar klubbregister…")
+    global KLUBBREGISTER
+    KLUBBREGISTER = hamta_klubbregister(api)
 
     print("Hämtar evenemangslista…")
     serier, turneringar_ev = hamta_evenemang(api)

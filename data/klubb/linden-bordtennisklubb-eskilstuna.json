@@ -4,7 +4,7 @@
   "namn": "Linden Bordtennisklubb Eskilstuna"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Eskilstuna by STIGA",
@@ -209,6 +209,176 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-12",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-12",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 4",
+     "hemma": "Eskilstuna by STIGA",
+     "borta": "BTK Rekord",
+     "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+     "borta_klubb": "Bordtennisklubben Rekord",
+     "plats": "Hall 1",
+     "arrangor": "Linden Bordtennisklubb Eskilstuna",
+     "arrangorer": [
+      "Linden Bordtennisklubb Eskilstuna"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-08",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-08",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 6",
+     "hemma": "Eskilstuna by STIGA",
+     "borta": "Eslövs AI BTK",
+     "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+     "borta_klubb": "Eslövs AI Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Linden Bordtennisklubb Eskilstuna",
+     "arrangorer": [
+      "Linden Bordtennisklubb Eskilstuna"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-15",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-15",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 7",
+     "hemma": "Eskilstuna by STIGA",
+     "borta": "Kosta SK",
+     "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Linden Bordtennisklubb Eskilstuna",
+     "arrangorer": [
+      "Linden Bordtennisklubb Eskilstuna"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-21",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-01-21",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 9",
+     "hemma": "Eskilstuna by STIGA",
+     "borta": "Spårvägens BTK",
+     "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Linden Bordtennisklubb Eskilstuna",
+     "arrangorer": [
+      "Linden Bordtennisklubb Eskilstuna"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-09",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-09",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 10",
+     "hemma": "Eskilstuna by STIGA",
+     "borta": "Söderhamns UIF",
+     "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+     "borta_klubb": "Söderhamns Ungdomsgårds IF",
+     "plats": "Hall 1",
+     "arrangor": "Linden Bordtennisklubb Eskilstuna",
+     "arrangorer": [
+      "Linden Bordtennisklubb Eskilstuna"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-02",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-02",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 12",
+     "hemma": "Eskilstuna by STIGA",
+     "borta": "Halmstad BTK",
+     "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
+     "borta_klubb": "Halmstad Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Linden Bordtennisklubb Eskilstuna",
+     "arrangorer": [
+      "Linden Bordtennisklubb Eskilstuna"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Pingisligan (herr)",

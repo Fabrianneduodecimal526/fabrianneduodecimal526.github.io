@@ -4,7 +4,7 @@
   "namn": "Uddevalla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Uddevalla BTK",
@@ -86,6 +86,38 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Arrangörens"
+   ],
+   "serier": [
+    "Västra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "18:00",
+     "serie": "Västra",
+     "omgang": "Round 4",
+     "hemma": "Uddevalla BTK",
+     "borta": "Munkedals BTK",
+     "hemma_klubb": "Uddevalla Bordtennisklubb",
+     "borta_klubb": "Munkedals Bordtennisklubb",
+     "plats": "Arrangörens",
+     "arrangor": "Uddevalla Bordtennisklubb",
+     "arrangorer": [
+      "Uddevalla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
+    }
+   ]
   }
  ],
  "tabeller": [

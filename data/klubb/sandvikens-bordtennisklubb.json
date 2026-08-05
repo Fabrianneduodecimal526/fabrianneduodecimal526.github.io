@@ -4,7 +4,7 @@
   "namn": "Sandvikens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Sandvikens BTK A",
@@ -703,6 +703,568 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Sandviken"
+   ],
+   "serier": [
+    "Division 6C"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 6C",
+     "omgang": "Round 1",
+     "hemma": "Bålsta BTK B",
+     "borta": "Vassunda IF C3",
+     "hemma_klubb": "Bålsta Bordtennisklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 6C",
+     "omgang": "Round 1",
+     "hemma": "IK Sirius BTK F5",
+     "borta": "Uppsala Life IF C2",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 6C",
+     "omgang": "Round 1",
+     "hemma": "Sandvikens BTK C",
+     "borta": "IK Sirius BTK F4",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 6C",
+     "omgang": "Round 1",
+     "hemma": "Gefle PK E2",
+     "borta": "Norrtälje BTK E2",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 6C",
+     "omgang": "Round 2",
+     "hemma": "Bålsta BTK B",
+     "borta": "Uppsala Life IF C2",
+     "hemma_klubb": "Bålsta Bordtennisklubb",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 6C",
+     "omgang": "Round 2",
+     "hemma": "Vassunda IF C3",
+     "borta": "IK Sirius BTK F4",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 6C",
+     "omgang": "Round 2",
+     "hemma": "IK Sirius BTK F5",
+     "borta": "Norrtälje BTK E2",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 6C",
+     "omgang": "Round 2",
+     "hemma": "Sandvikens BTK C",
+     "borta": "Gefle PK E2",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Sandviken"
+   ],
+   "serier": [
+    "Division 4A"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 11",
+     "hemma": "Gefle PK C",
+     "borta": "Skyttorps IF A",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 11",
+     "hemma": "Sandvikens BTK A",
+     "borta": "KFUM Gävle BT B",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "KFUM Gävle Bordtennis",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 11",
+     "hemma": "Upplands-Ekeby IF B",
+     "borta": "IK Sirius BTK D1",
+     "hemma_klubb": "Upplands-Ekeby Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 11",
+     "hemma": "Öregrunds IK A",
+     "borta": "Örbyhus IF",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "Örbyhus Idrottsförening",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 12",
+     "hemma": "Gefle PK C",
+     "borta": "IK Sirius BTK D1",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 12",
+     "hemma": "Öregrunds IK A",
+     "borta": "KFUM Gävle BT B",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "KFUM Gävle Bordtennis",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 12",
+     "hemma": "Sandvikens BTK A",
+     "borta": "Örbyhus IF",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "Örbyhus Idrottsförening",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 12",
+     "hemma": "Upplands-Ekeby IF B",
+     "borta": "Skyttorps IF A",
+     "hemma_klubb": "Upplands-Ekeby Idrottsförening",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Sandviken"
+   ],
+   "serier": [
+    "Division 5B"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 11",
+     "hemma": "Rimbo IF A",
+     "borta": "IK Sirius BTK E2",
+     "hemma_klubb": "Rimbo Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 11",
+     "hemma": "Skuttunge SK",
+     "borta": "Gefle PK D2",
+     "hemma_klubb": "Skuttunge Sportklubb",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 11",
+     "hemma": "Öregrunds IK B",
+     "borta": "Sandvikens BTK B",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "Sandvikens Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 11",
+     "hemma": "Sunnersta AIF C2",
+     "borta": "Norrtälje BTK D",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 12",
+     "hemma": "Rimbo IF A",
+     "borta": "Sandvikens BTK B",
+     "hemma_klubb": "Rimbo Idrottsförening",
+     "borta_klubb": "Sandvikens Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 12",
+     "hemma": "Sunnersta AIF C2",
+     "borta": "Gefle PK D2",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 12",
+     "hemma": "Skuttunge SK",
+     "borta": "Norrtälje BTK D",
+     "hemma_klubb": "Skuttunge Sportklubb",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 12",
+     "hemma": "Öregrunds IK B",
+     "borta": "IK Sirius BTK E2",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Sandviken"
+   ],
+   "serier": [
+    "Division 5B"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 13",
+     "hemma": "Skuttunge SK",
+     "borta": "Sandvikens BTK B",
+     "hemma_klubb": "Skuttunge Sportklubb",
+     "borta_klubb": "Sandvikens Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 13",
+     "hemma": "Sunnersta AIF C2",
+     "borta": "IK Sirius BTK E2",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 13",
+     "hemma": "Rimbo IF A",
+     "borta": "Norrtälje BTK D",
+     "hemma_klubb": "Rimbo Idrottsförening",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 13",
+     "hemma": "Öregrunds IK B",
+     "borta": "Gefle PK D2",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 14",
+     "hemma": "IK Sirius BTK E2",
+     "borta": "Sandvikens BTK B",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Sandvikens Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 14",
+     "hemma": "Gefle PK D2",
+     "borta": "Norrtälje BTK D",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 14",
+     "hemma": "Skuttunge SK",
+     "borta": "Sunnersta AIF C2",
+     "hemma_klubb": "Skuttunge Sportklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 14",
+     "hemma": "Öregrunds IK B",
+     "borta": "Rimbo IF A",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "Rimbo Idrottsförening",
+     "plats": "Sandviken",
+     "arrangor": "Sandvikens Bordtennisklubb",
+     "arrangorer": [
+      "Sandvikens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Division 4A",

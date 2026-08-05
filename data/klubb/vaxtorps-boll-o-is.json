@@ -4,7 +4,7 @@
   "namn": "Våxtorps Boll O IS"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Våxtorps BOIS",
@@ -119,7 +119,7 @@
    "hemma": "Våxtorps BOIS",
    "borta": "Spårvägens BTK",
    "hemma_klubb": "Våxtorps Boll O IS",
-   "borta_klubb": "Spårvägens BTK",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
    "arrangor": "Spårvägens Bordtennisklubb",
    "arrangorer": [
@@ -177,6 +177,176 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (dam)"
+   ],
+   "antal": 6,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 3",
+     "hemma": "Kosta SK",
+     "borta": "Halmstad BTK",
+     "hemma_klubb": "Kosta Sportklubb",
+     "borta_klubb": "Halmstad Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 3",
+     "hemma": "Sjömarkens BTK",
+     "borta": "Eslövs AI BTK: A2",
+     "hemma_klubb": "Sjömarkens Bordtennisklubb",
+     "borta_klubb": "Eslövs AI Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 3",
+     "hemma": "Eslövs AI BTK: A1",
+     "borta": "Våxtorps BOIS",
+     "hemma_klubb": "Eslövs AI Bordtennisklubb",
+     "borta_klubb": "Våxtorps Boll O IS",
+     "plats": "Hall 1",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 4",
+     "hemma": "Halmstad BTK",
+     "borta": "Eslövs AI BTK: A1",
+     "hemma_klubb": "Halmstad Bordtennisklubb",
+     "borta_klubb": "Eslövs AI Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 4",
+     "hemma": "Våxtorps BOIS",
+     "borta": "Sjömarkens BTK",
+     "hemma_klubb": "Våxtorps Boll O IS",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 4",
+     "hemma": "Eslövs AI BTK: A2",
+     "borta": "Kosta SK",
+     "hemma_klubb": "Eslövs AI Bordtennisklubb",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (dam)"
+   ],
+   "antal": 3,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 5",
+     "hemma": "Halmstad BTK",
+     "borta": "Sjömarkens BTK",
+     "hemma_klubb": "Halmstad Bordtennisklubb",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 5",
+     "hemma": "Våxtorps BOIS",
+     "borta": "Eslövs AI BTK: A2",
+     "hemma_klubb": "Våxtorps Boll O IS",
+     "borta_klubb": "Eslövs AI Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 5",
+     "hemma": "Eslövs AI BTK: A1",
+     "borta": "Kosta SK",
+     "hemma_klubb": "Eslövs AI Bordtennisklubb",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Våxtorps Boll O IS",
+     "arrangorer": [
+      "Våxtorps Boll O IS"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Pingisligan (dam)",
@@ -297,7 +467,7 @@
     {
      "placering": 11,
      "lag": "Spårvägens BTK",
-     "klubb": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

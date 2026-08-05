@@ -4,7 +4,7 @@
   "namn": "Degeberga Gymnastik O IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Degeberga GOIF",
@@ -241,6 +241,84 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSSÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 11",
+     "hemma": "Degeberga GOIF",
+     "borta": "Sölvesborgs BTK",
+     "hemma_klubb": "Degeberga Gymnastik O IF",
+     "borta_klubb": "Sölvesborgs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Degeberga Gymnastik O IF",
+     "arrangorer": [
+      "Degeberga Gymnastik O IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 11",
+     "hemma": "KFUM Kristianstad BTF",
+     "borta": "IF Ale",
+     "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+     "borta_klubb": "Idrottsföreningen Ale",
+     "plats": "Hall 1",
+     "arrangor": "Degeberga Gymnastik O IF",
+     "arrangorer": [
+      "Degeberga Gymnastik O IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 12",
+     "hemma": "Degeberga GOIF",
+     "borta": "IF Ale",
+     "hemma_klubb": "Degeberga Gymnastik O IF",
+     "borta_klubb": "Idrottsföreningen Ale",
+     "plats": "Hall 1",
+     "arrangor": "Degeberga Gymnastik O IF",
+     "arrangorer": [
+      "Degeberga Gymnastik O IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSSÖ",
+     "omgang": "Round 12",
+     "hemma": "KFUM Kristianstad BTF",
+     "borta": "Sölvesborgs BTK",
+     "hemma_klubb": "KFUM Kristianstad Bordtennisförening",
+     "borta_klubb": "Sölvesborgs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Degeberga Gymnastik O IF",
+     "arrangorer": [
+      "Degeberga Gymnastik O IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1174/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 SSSÖ",

@@ -148,6 +148,24 @@
   .num { text-align: right; }
   .not-started { color: var(--muted); font-size: 13px; margin: 0 0 8px; }
 
+  /* ---- Arrangerar ---- */
+  .sammanfattning {
+    color: var(--muted); font-size: 13px; margin: 0 0 18px;
+    padding-bottom: 12px; border-bottom: 1px solid var(--border);
+  }
+  .dag-block {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: var(--radius); margin-bottom: 12px; overflow: hidden;
+  }
+  .dag-topp { padding: 12px 14px; background: var(--accent-soft); }
+  .dag-datum { font-weight: 700; font-size: 15px; color: var(--accent); }
+  .dag-fakta { color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .arr-tabell { font-size: 14px; }
+  .arr-tabell td { padding: 8px 14px; border-bottom: 1px solid var(--border); }
+  .arr-tabell tr:last-child td { border-bottom: none; }
+  .arr-tabell .tid { width: 1%; white-space: nowrap; font-weight: 600; }
+  .arr-tabell .serie-cell { width: 1%; white-space: nowrap; color: var(--muted); }
+
   /* ---- Tournaments ---- */
   .tourn {
     display: block; text-decoration: none; color: inherit;
@@ -206,6 +224,7 @@
       <button role="tab" data-tab="tabeller"    aria-selected="false">Tabeller</button>
       <button role="tab" data-tab="resultat"    aria-selected="false">Resultat</button>
       <button role="tab" data-tab="turneringar" aria-selected="false">Turneringar</button>
+      <button role="tab" data-tab="arrangerar"  aria-selected="false">Arrangerar</button>
     </nav>
 
     <div id="panel"></div>
@@ -376,6 +395,46 @@
     }).join("");
   }
 
+  function renderaArrangerar() {
+    const dagar = klubb.arrangerar || [];
+    if (!dagar.length) {
+      return tomtBesked("Klubben arrangerar inga kommande seriehelger.");
+    }
+
+    const totalt = dagar.reduce((n, d) => n + d.antal, 0);
+
+    return `
+      <p class="sammanfattning">
+        ${dagar.length} speldag${dagar.length === 1 ? "" : "ar"} ·
+        ${totalt} matcher att arrangera
+      </p>` + dagar.map((dag) => {
+      // Matcher där ett eget lag spelar markeras — resten är rena värdmatcher.
+      const egna = dag.matcher.filter(
+        (m) => mittLag(m.hemma) || mittLag(m.borta)).length;
+
+      return `
+      <div class="dag-block">
+        <div class="dag-topp">
+          <div class="dag-datum">${esc(datumEtikett(dag.datum))}</div>
+          <div class="dag-fakta">
+            ${dag.antal} matcher${egna ? ` · ${egna} med egna lag` : ""}
+            ${dag.platser.length ? " · " + esc(dag.platser.join(", ")) : ""}
+          </div>
+          <div class="dag-fakta">${esc(dag.serier.join(" · "))}</div>
+        </div>
+        <table class="arr-tabell">
+          <tbody>${dag.matcher.map((m) => `
+            <tr>
+              <td class="tid">${esc(m.tid)}</td>
+              <td class="serie-cell">${esc(m.serie)}</td>
+              <td>${lagHtml(m.hemma)} <span class="vs">mot</span> ${lagHtml(m.borta)}</td>
+            </tr>`).join("")}
+          </tbody>
+        </table>
+      </div>`;
+    }).join("");
+  }
+
   function renderaPanel() {
     if (aktivFlik === "kommande") {
       el.panel.innerHTML = renderaMatcher(klubb.kommande, false,
@@ -385,8 +444,10 @@
     } else if (aktivFlik === "resultat") {
       const spelade = (klubb.resultat || []).slice().reverse();
       el.panel.innerHTML = renderaMatcher(spelade, true, "Inga spelade matcher än.");
-    } else {
+    } else if (aktivFlik === "turneringar") {
       el.panel.innerHTML = renderaTurneringar();
+    } else {
+      el.panel.innerHTML = renderaArrangerar();
     }
   }
 

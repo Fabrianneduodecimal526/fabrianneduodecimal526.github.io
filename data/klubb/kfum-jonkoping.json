@@ -4,7 +4,7 @@
   "namn": "KFUM Jönköping"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "KFUM Jönköping IA",
@@ -488,6 +488,224 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Faggemåla BTK",
+     "borta": "Vaggeryds BTK",
+     "hemma_klubb": "Faggemåla Bordtennisklubb",
+     "borta_klubb": "Vaggeryds Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Visby BTK",
+     "borta": "KFUM Jönköping IA: B",
+     "hemma_klubb": "Visby Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Visby BTK",
+     "borta": "Faggemåla BTK",
+     "hemma_klubb": "Visby Bordtennisklubb",
+     "borta_klubb": "Faggemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 8",
+     "hemma": "KFUM Jönköping IA: B",
+     "borta": "Vaggeryds BTK",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Vaggeryds Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 SSN"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 13",
+     "hemma": "Huskvarna Södra IS",
+     "borta": "Kosta SK: B",
+     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 13",
+     "hemma": "Lyckeby BTK: B",
+     "borta": "Carlshamns BTK",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Carlshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 13",
+     "hemma": "Lessebo BTK",
+     "borta": "KFUM Jönköping IA",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 13",
+     "hemma": "SK Frigg",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Sportklubben Frigg",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 14",
+     "hemma": "Carlshamns BTK",
+     "borta": "Kosta SK: B",
+     "hemma_klubb": "Carlshamns Bordtennisklubb",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 14",
+     "hemma": "Jämjö BTK",
+     "borta": "KFUM Jönköping IA",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 14",
+     "hemma": "Huskvarna Södra IS",
+     "borta": "Lyckeby BTK: B",
+     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 14",
+     "hemma": "SK Frigg",
+     "borta": "Lessebo BTK",
+     "hemma_klubb": "Sportklubben Frigg",
+     "borta_klubb": "Lessebo Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "KFUM Jönköping",
+     "arrangorer": [
+      "KFUM Jönköping"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 SSN",

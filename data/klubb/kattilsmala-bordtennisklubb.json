@@ -4,7 +4,7 @@
   "namn": "Kättilsmåla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Kättilsmåla BTK",
@@ -177,6 +177,7 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 1 S Dam",

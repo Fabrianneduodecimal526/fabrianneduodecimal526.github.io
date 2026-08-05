@@ -4,7 +4,7 @@
   "namn": "Grästorps Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Grästorps BTK",
@@ -225,6 +225,288 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSNV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 3",
+     "hemma": "Kungälvs BTK: B",
+     "borta": "Mariedals IK: B",
+     "hemma_klubb": "Kungälvs Bordtennisklubb",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 3",
+     "hemma": "Svanesunds GIF: B",
+     "borta": "Stenungsunds BTK",
+     "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 3",
+     "hemma": "Grästorps BTK",
+     "borta": "Vänersborgs BTK",
+     "hemma_klubb": "Grästorps Bordtennisklubb",
+     "borta_klubb": "Vänersborgs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 3",
+     "hemma": "IFK Lidköping: A1",
+     "borta": "Hålta IK",
+     "hemma_klubb": "IFK Lidköping",
+     "borta_klubb": "Hålta Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 4",
+     "hemma": "Kungälvs BTK: B",
+     "borta": "Stenungsunds BTK",
+     "hemma_klubb": "Kungälvs Bordtennisklubb",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 4",
+     "hemma": "Svanesunds GIF: B",
+     "borta": "Mariedals IK: B",
+     "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 4",
+     "hemma": "Grästorps BTK",
+     "borta": "Hålta IK",
+     "hemma_klubb": "Grästorps Bordtennisklubb",
+     "borta_klubb": "Hålta Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 4",
+     "hemma": "IFK Lidköping: A1",
+     "borta": "Vänersborgs BTK",
+     "hemma_klubb": "IFK Lidköping",
+     "borta_klubb": "Vänersborgs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSNV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 13",
+     "hemma": "Mariedals IK: B",
+     "borta": "Grästorps BTK",
+     "hemma_klubb": "Mariedals Idrottsklubb",
+     "borta_klubb": "Grästorps Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 13",
+     "hemma": "Vänersborgs BTK",
+     "borta": "Kungälvs BTK: B",
+     "hemma_klubb": "Vänersborgs Bordtennisklubb",
+     "borta_klubb": "Kungälvs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 13",
+     "hemma": "Stenungsunds BTK",
+     "borta": "IFK Lidköping: A1",
+     "hemma_klubb": "Stenungsunds Bordtennisförening",
+     "borta_klubb": "IFK Lidköping",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 13",
+     "hemma": "Hålta IK",
+     "borta": "Svanesunds GIF: B",
+     "hemma_klubb": "Hålta Idrottsklubb",
+     "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 14",
+     "hemma": "Kungälvs BTK: B",
+     "borta": "Grästorps BTK",
+     "hemma_klubb": "Kungälvs Bordtennisklubb",
+     "borta_klubb": "Grästorps Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 14",
+     "hemma": "Svanesunds GIF: B",
+     "borta": "IFK Lidköping: A1",
+     "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
+     "borta_klubb": "IFK Lidköping",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 14",
+     "hemma": "Mariedals IK: B",
+     "borta": "Vänersborgs BTK",
+     "hemma_klubb": "Mariedals Idrottsklubb",
+     "borta_klubb": "Vänersborgs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 VSNV",
+     "omgang": "Round 14",
+     "hemma": "Hålta IK",
+     "borta": "Stenungsunds BTK",
+     "hemma_klubb": "Hålta Idrottsklubb",
+     "borta_klubb": "Stenungsunds Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Grästorps Bordtennisklubb",
+     "arrangorer": [
+      "Grästorps Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 VSNV",

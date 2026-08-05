@@ -4,12 +4,19 @@
   "namn": "Kristinehamns Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Kristinehamns BTF",
    "serie": {
     "namn": "Div 2 VSV Dam"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Kristinehamns BTF",
+   "serie": {
+    "namn": "Div 2 ÖSS"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
@@ -799,6 +806,428 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 ÖSS"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 3",
+     "hemma": "Västerås BTK",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 3",
+     "hemma": "Eskilstuna BTK",
+     "borta": "Ljungsbro BTK",
+     "hemma_klubb": "Eskilstuna Bordtennisklubb",
+     "borta_klubb": "Ljungsbro Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 3",
+     "hemma": "Kristinehamns BTF",
+     "borta": "Linköpings PK: B",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Linköpings Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 3",
+     "hemma": "Västers BTK: C",
+     "borta": "BTK Safir",
+     "hemma_klubb": "Västers Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Safir",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 4",
+     "hemma": "IF Norcopensarna",
+     "borta": "BTK Safir",
+     "hemma_klubb": "Idrottsföreningen Norcopensarna",
+     "borta_klubb": "Bordtennisklubben Safir",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 4",
+     "hemma": "Linköpings PK: B",
+     "borta": "Västers BTK: C",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Västers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 4",
+     "hemma": "Ljungsbro BTK",
+     "borta": "Kristinehamns BTF",
+     "hemma_klubb": "Ljungsbro Bordtennisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 4",
+     "hemma": "Västerås BTK",
+     "borta": "Eskilstuna BTK",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Eskilstuna Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 9",
+     "hemma": "BTK Safir: B",
+     "borta": "Storå BTK",
+     "hemma_klubb": "Bordtennisklubben Safir",
+     "borta_klubb": "Storå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 9",
+     "hemma": "Bortans IK",
+     "borta": "Skoghalls BTK",
+     "hemma_klubb": "Bortans Idrottsklubb",
+     "borta_klubb": "Skoghalls Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 9",
+     "hemma": "Kristinehamns BTF: B1",
+     "borta": "Carlstads BTK: B",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Carlstads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 9",
+     "hemma": "Kristinehamns BTF: B2",
+     "borta": "Aga BTK: A1",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 10",
+     "hemma": "Storå BTK",
+     "borta": "Kristinehamns BTF: B2",
+     "hemma_klubb": "Storå Bordtennisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 10",
+     "hemma": "Aga BTK: A1",
+     "borta": "Kristinehamns BTF: B1",
+     "hemma_klubb": "Aga Bordtennisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 10",
+     "hemma": "Carlstads BTK: B",
+     "borta": "Bortans IK",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Bortans Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 10",
+     "hemma": "Skoghalls BTK",
+     "borta": "BTK Safir: B",
+     "hemma_klubb": "Skoghalls Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Safir",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 11",
+     "hemma": "Skoghalls BTK",
+     "borta": "Storå BTK",
+     "hemma_klubb": "Skoghalls Bordtennisklubb",
+     "borta_klubb": "Storå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 11",
+     "hemma": "BTK Safir: B",
+     "borta": "Carlstads BTK: B",
+     "hemma_klubb": "Bordtennisklubben Safir",
+     "borta_klubb": "Carlstads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 11",
+     "hemma": "Bortans IK",
+     "borta": "Aga BTK: A1",
+     "hemma_klubb": "Bortans Idrottsklubb",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 11",
+     "hemma": "Kristinehamns BTF: B1",
+     "borta": "Kristinehamns BTF: B2",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 12",
+     "hemma": "Storå BTK",
+     "borta": "Kristinehamns BTF: B1",
+     "hemma_klubb": "Storå Bordtennisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 12",
+     "hemma": "Kristinehamns BTF: B2",
+     "borta": "Bortans IK",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Bortans Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 12",
+     "hemma": "Aga BTK: A1",
+     "borta": "BTK Safir: B",
+     "hemma_klubb": "Aga Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Safir",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 3 NSSV",
+     "omgang": "Round 12",
+     "hemma": "Carlstads BTK: B",
+     "borta": "Skoghalls BTK",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Skoghalls Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kristinehamns Bordtennisförening",
+     "arrangorer": [
+      "Kristinehamns Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1164/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 VSV Dam",

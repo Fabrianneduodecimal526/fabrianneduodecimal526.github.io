@@ -4,8 +4,15 @@
   "namn": "IK Sirius Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "IK Sirius BTK",
+   "serie": {
+    "namn": "Div 1 N Herr"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "IK Sirius BTK",
    "serie": {
@@ -4051,6 +4058,2003 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/919/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "UTK-hallen"
+   ],
+   "serier": [
+    "Division 7B"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 7B",
+     "omgang": "Round 1",
+     "hemma": "Vassunda IF D",
+     "borta": "Bälinge IF",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Bälinge Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 7B",
+     "omgang": "Round 1",
+     "hemma": "Uppsala Life IF D",
+     "borta": "Enköpings Pingisveteraner B",
+     "hemma_klubb": "Uppsala Life Idrottsförening",
+     "borta_klubb": "Enköpings Pingisveteraner",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 7B",
+     "omgang": "Round 1",
+     "hemma": "Sigtuna IF BTK B2",
+     "borta": "IK Sirius BTK G2",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 7B",
+     "omgang": "Round 1",
+     "hemma": "Sunnersta AIF E2",
+     "borta": "Stratos Enköping BTK F1",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 7B",
+     "omgang": "Round 2",
+     "hemma": "Vassunda IF D",
+     "borta": "Enköpings Pingisveteraner B",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Enköpings Pingisveteraner",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 7B",
+     "omgang": "Round 2",
+     "hemma": "Bälinge IF",
+     "borta": "IK Sirius BTK G2",
+     "hemma_klubb": "Bälinge Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 7B",
+     "omgang": "Round 2",
+     "hemma": "Uppsala Life IF D",
+     "borta": "Stratos Enköping BTK F1",
+     "hemma_klubb": "Uppsala Life Idrottsförening",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 7B",
+     "omgang": "Round 2",
+     "hemma": "Sigtuna IF BTK B2",
+     "borta": "Sunnersta AIF E2",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 1 N Dam"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 1",
+     "hemma": "IFK Täby BTK",
+     "borta": "Ängby SK: C1",
+     "hemma_klubb": "IFK Täby Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 1",
+     "hemma": "Umeå BTK",
+     "borta": "Djurgårdens IF BTF: A1",
+     "hemma_klubb": "Umeå Bordtennisklubb",
+     "borta_klubb": "Djurgårdens IF BTF",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 1",
+     "hemma": "IFK Österåkers BTK",
+     "borta": "IK Sirius/SUIF: B",
+     "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 1",
+     "hemma": "Spårvägens BTK: C3",
+     "borta": "Stratos Enköping BTK: A2",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 2",
+     "hemma": "Ängby SK: C1",
+     "borta": "Stratos Enköping BTK: A2",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 2",
+     "hemma": "IK Sirius/SUIF: B",
+     "borta": "Spårvägens BTK: C3",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 2",
+     "hemma": "Djurgårdens IF BTF: A1",
+     "borta": "IFK Österåkers BTK",
+     "hemma_klubb": "Djurgårdens IF BTF",
+     "borta_klubb": "IFK Österåkers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 2",
+     "hemma": "IFK Täby BTK",
+     "borta": "Umeå BTK",
+     "hemma_klubb": "IFK Täby Bordtennisklubb",
+     "borta_klubb": "Umeå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSSÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 3",
+     "hemma": "Boo Racketklubb: B2",
+     "borta": "Sunnersta AIF: A2",
+     "hemma_klubb": "Boo Racketklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 3",
+     "hemma": "Järfälla BTF",
+     "borta": "Vassunda IF",
+     "hemma_klubb": "Järfälla Bordtennisförening",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 3",
+     "hemma": "IK Sirius BTK: C",
+     "borta": "KFUM Stocksund: B",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "KFUM Stocksund IA",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 3",
+     "hemma": "Upplands-Ekeby IF: A1",
+     "borta": "Bro IK: B",
+     "hemma_klubb": "Upplands-Ekeby Idrottsförening",
+     "borta_klubb": "Bro Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 4",
+     "hemma": "Boo Racketklubb: B2",
+     "borta": "Vassunda IF",
+     "hemma_klubb": "Boo Racketklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 4",
+     "hemma": "Järfälla BTF",
+     "borta": "Sunnersta AIF: A2",
+     "hemma_klubb": "Järfälla Bordtennisförening",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 4",
+     "hemma": "IK Sirius BTK: C",
+     "borta": "Bro IK: B",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Bro Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 4",
+     "hemma": "Upplands-Ekeby IF: A1",
+     "borta": "KFUM Stocksund: B",
+     "hemma_klubb": "Upplands-Ekeby Idrottsförening",
+     "borta_klubb": "KFUM Stocksund IA",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "UTK-hallen"
+   ],
+   "serier": [
+    "Division 7C"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "09:00",
+     "serie": "Division 7C",
+     "omgang": "Round 3",
+     "hemma": "Stratos Enköping BTK F2",
+     "borta": "IK Sirius BTK G3",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "09:00",
+     "serie": "Division 7C",
+     "omgang": "Round 3",
+     "hemma": "Sigtuna IF BTK B3",
+     "borta": "Knutby IF",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Knutby Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "09:00",
+     "serie": "Division 7C",
+     "omgang": "Round 3",
+     "hemma": "Skyttorps IF C2",
+     "borta": "Rimbo IF B",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Rimbo Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "09:00",
+     "serie": "Division 7C",
+     "omgang": "Round 3",
+     "hemma": "Norrtälje BTK F",
+     "borta": "Upplands-Ekeby IF C",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "12:00",
+     "serie": "Division 7C",
+     "omgang": "Round 4",
+     "hemma": "Stratos Enköping BTK F2",
+     "borta": "Knutby IF",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Knutby Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "12:00",
+     "serie": "Division 7C",
+     "omgang": "Round 4",
+     "hemma": "Sigtuna IF BTK B3",
+     "borta": "IK Sirius BTK G3",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "12:00",
+     "serie": "Division 7C",
+     "omgang": "Round 4",
+     "hemma": "Skyttorps IF C2",
+     "borta": "Upplands-Ekeby IF C",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "12:00",
+     "serie": "Division 7C",
+     "omgang": "Round 4",
+     "hemma": "Norrtälje BTK F",
+     "borta": "Rimbo IF B",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Rimbo Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "UTK-hallen"
+   ],
+   "serier": [
+    "Division 5B"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 5",
+     "hemma": "Sandvikens BTK B",
+     "borta": "Rimbo IF A",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "Rimbo Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 5",
+     "hemma": "Gefle PK D2",
+     "borta": "Sunnersta AIF C2",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 5",
+     "hemma": "Norrtälje BTK D",
+     "borta": "Skuttunge SK",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Skuttunge Sportklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 5",
+     "hemma": "IK Sirius BTK E2",
+     "borta": "Öregrunds IK B",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 6",
+     "hemma": "Sandvikens BTK B",
+     "borta": "Skuttunge SK",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "Skuttunge Sportklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 6",
+     "hemma": "IK Sirius BTK E2",
+     "borta": "Sunnersta AIF C2",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 6",
+     "hemma": "Norrtälje BTK D",
+     "borta": "Rimbo IF A",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Rimbo Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 6",
+     "hemma": "Gefle PK D2",
+     "borta": "Öregrunds IK B",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-15",
+   "platser": [
+    "UTK-hallen"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-11-15",
+     "tid": "09:00",
+     "serie": "Division 6A",
+     "omgang": "Round 5",
+     "hemma": "Stratos Enköping BTK E",
+     "borta": "Heby AIF C1",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "09:00",
+     "serie": "Division 6A",
+     "omgang": "Round 5",
+     "hemma": "Tärnsjö BTK B",
+     "borta": "Heby AIF C2",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "09:00",
+     "serie": "Division 6A",
+     "omgang": "Round 5",
+     "hemma": "Skyttorps IF B",
+     "borta": "Vassunda IF C1",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "09:00",
+     "serie": "Division 6A",
+     "omgang": "Round 5",
+     "hemma": "Börje SK B",
+     "borta": "IK Sirius BTK F1",
+     "hemma_klubb": "Börje Sportklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "12:00",
+     "serie": "Division 6A",
+     "omgang": "Round 6",
+     "hemma": "Stratos Enköping BTK E",
+     "borta": "Vassunda IF C1",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "12:00",
+     "serie": "Division 6A",
+     "omgang": "Round 6",
+     "hemma": "Börje SK B",
+     "borta": "Heby AIF C2",
+     "hemma_klubb": "Börje Sportklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "12:00",
+     "serie": "Division 6A",
+     "omgang": "Round 6",
+     "hemma": "Skyttorps IF B",
+     "borta": "Heby AIF C1",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "12:00",
+     "serie": "Division 6A",
+     "omgang": "Round 6",
+     "hemma": "Tärnsjö BTK B",
+     "borta": "IK Sirius BTK F1",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "Hall 1",
+    "UTK-hallen"
+   ],
+   "serier": [
+    "Div 1 N Herr",
+    "Div 2 NSN",
+    "Division 6B"
+   ],
+   "antal": 20,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 6B",
+     "omgang": "Round 7",
+     "hemma": "IK Sirius BTK F3",
+     "borta": "Uppsala Life IF C1",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 6B",
+     "omgang": "Round 7",
+     "hemma": "Norrtälje BTK E1",
+     "borta": "Vassunda IF C2",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 6B",
+     "omgang": "Round 7",
+     "hemma": "IK Sirius BTK F2",
+     "borta": "Gefle PK E1",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 6B",
+     "omgang": "Round 7",
+     "hemma": "Sigtuna IF BTK A",
+     "borta": "Sunnersta AIF D",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 1 N Herr",
+     "omgang": "Round 8",
+     "hemma": "Haparanda SKT",
+     "borta": "Skellefteå AIK BTF",
+     "hemma_klubb": "Haparanda Sportklubb Taktik",
+     "borta_klubb": "Skellefteå AIK BTF",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 1 N Herr",
+     "omgang": "Round 8",
+     "hemma": "Söderhamns UIF: C",
+     "borta": "IK Sirius BTK",
+     "hemma_klubb": "Söderhamns Ungdomsgårds IF",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 7",
+     "hemma": "Öråns SK",
+     "borta": "IK Sirius BTK: B1",
+     "hemma_klubb": "Öråns Sportklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 7",
+     "hemma": "Ås IF",
+     "borta": "Ortvikens PK",
+     "hemma_klubb": "Ås Idrottsförening",
+     "borta_klubb": "Ortvikens Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 7",
+     "hemma": "Gefle PK",
+     "borta": "Färila BTK",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Färila Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 7",
+     "hemma": "BTK Kälom",
+     "borta": "IK Juno: A1",
+     "hemma_klubb": "Bordtennisklubben Kälom",
+     "borta_klubb": "Idrottsklubben Juno",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "13:00",
+     "serie": "Division 6B",
+     "omgang": "Round 8",
+     "hemma": "Vassunda IF C2",
+     "borta": "IK Sirius BTK F3",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "13:00",
+     "serie": "Division 6B",
+     "omgang": "Round 8",
+     "hemma": "Gefle PK E1",
+     "borta": "Uppsala Life IF C1",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "13:00",
+     "serie": "Division 6B",
+     "omgang": "Round 8",
+     "hemma": "Sunnersta AIF D",
+     "borta": "Norrtälje BTK E1",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "13:00",
+     "serie": "Division 6B",
+     "omgang": "Round 8",
+     "hemma": "Sigtuna IF BTK A",
+     "borta": "IK Sirius BTK F2",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1191/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 1 N Herr",
+     "omgang": "Round 9",
+     "hemma": "Söderhamns UIF: C",
+     "borta": "Haparanda SKT",
+     "hemma_klubb": "Söderhamns Ungdomsgårds IF",
+     "borta_klubb": "Haparanda Sportklubb Taktik",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 1 N Herr",
+     "omgang": "Round 9",
+     "hemma": "IK Sirius BTK",
+     "borta": "Skellefteå AIK BTF",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Skellefteå AIK BTF",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 8",
+     "hemma": "IK Sirius BTK: B1",
+     "borta": "IK Juno: A1",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Idrottsklubben Juno",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 8",
+     "hemma": "BTK Kälom",
+     "borta": "Färila BTK",
+     "hemma_klubb": "Bordtennisklubben Kälom",
+     "borta_klubb": "Färila Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 8",
+     "hemma": "Gefle PK",
+     "borta": "Ortvikens PK",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Ortvikens Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 8",
+     "hemma": "Ås IF",
+     "borta": "Öråns SK",
+     "hemma_klubb": "Ås Idrottsförening",
+     "borta_klubb": "Öråns Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 1 N Herr"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 1 N Herr",
+     "omgang": "Round 10",
+     "hemma": "Skellefteå AIK BTF",
+     "borta": "Söderhamns UIF: C",
+     "hemma_klubb": "Skellefteå AIK BTF",
+     "borta_klubb": "Söderhamns Ungdomsgårds IF",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 1 N Herr",
+     "omgang": "Round 10",
+     "hemma": "Haparanda SKT",
+     "borta": "IK Sirius BTK",
+     "hemma_klubb": "Haparanda Sportklubb Taktik",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1145/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Superettan (dam)"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 7",
+     "hemma": "Ängby SK: B",
+     "borta": "IK Sirius/SUIF",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 7",
+     "hemma": "Spårvägens BTK: B",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 8",
+     "hemma": "IK Sirius/SUIF",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 8",
+     "hemma": "Ängby SK: B",
+     "borta": "Spårvägens BTK: B",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "UTK-hallen"
+   ],
+   "serier": [
+    "Division 6C"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "09:00",
+     "serie": "Division 6C",
+     "omgang": "Round 9",
+     "hemma": "Uppsala Life IF C2",
+     "borta": "Bålsta BTK B",
+     "hemma_klubb": "Uppsala Life Idrottsförening",
+     "borta_klubb": "Bålsta Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "09:00",
+     "serie": "Division 6C",
+     "omgang": "Round 9",
+     "hemma": "IK Sirius BTK F4",
+     "borta": "Vassunda IF C3",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "09:00",
+     "serie": "Division 6C",
+     "omgang": "Round 9",
+     "hemma": "Norrtälje BTK E2",
+     "borta": "IK Sirius BTK F5",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "09:00",
+     "serie": "Division 6C",
+     "omgang": "Round 9",
+     "hemma": "Gefle PK E2",
+     "borta": "Sandvikens BTK C",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Sandvikens Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "12:00",
+     "serie": "Division 6C",
+     "omgang": "Round 10",
+     "hemma": "IK Sirius BTK F4",
+     "borta": "Bålsta BTK B",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Bålsta Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "12:00",
+     "serie": "Division 6C",
+     "omgang": "Round 10",
+     "hemma": "Norrtälje BTK E2",
+     "borta": "Uppsala Life IF C2",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "12:00",
+     "serie": "Division 6C",
+     "omgang": "Round 10",
+     "hemma": "Gefle PK E2",
+     "borta": "Vassunda IF C3",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "12:00",
+     "serie": "Division 6C",
+     "omgang": "Round 10",
+     "hemma": "Sandvikens BTK C",
+     "borta": "IK Sirius BTK F5",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSSÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 11",
+     "hemma": "Vassunda IF",
+     "borta": "Boo Racketklubb: B2",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Boo Racketklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 11",
+     "hemma": "Sunnersta AIF: A2",
+     "borta": "Järfälla BTF",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Järfälla Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 11",
+     "hemma": "Bro IK: B",
+     "borta": "IK Sirius BTK: C",
+     "hemma_klubb": "Bro Idrottsklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 11",
+     "hemma": "KFUM Stocksund: B",
+     "borta": "Upplands-Ekeby IF: A1",
+     "hemma_klubb": "KFUM Stocksund IA",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 12",
+     "hemma": "Järfälla BTF",
+     "borta": "IK Sirius BTK: C",
+     "hemma_klubb": "Järfälla Bordtennisförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 12",
+     "hemma": "Boo Racketklubb: B2",
+     "borta": "Upplands-Ekeby IF: A1",
+     "hemma_klubb": "Boo Racketklubb",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 12",
+     "hemma": "Bro IK: B",
+     "borta": "Sunnersta AIF: A2",
+     "hemma_klubb": "Bro Idrottsklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 12",
+     "hemma": "KFUM Stocksund: B",
+     "borta": "Vassunda IF",
+     "hemma_klubb": "KFUM Stocksund IA",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "UTK-hallen"
+   ],
+   "serier": [
+    "Division 6C"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "09:00",
+     "serie": "Division 6C",
+     "omgang": "Round 11",
+     "hemma": "Norrtälje BTK E2",
+     "borta": "Bålsta BTK B",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Bålsta Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "09:00",
+     "serie": "Division 6C",
+     "omgang": "Round 11",
+     "hemma": "Gefle PK E2",
+     "borta": "IK Sirius BTK F4",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "09:00",
+     "serie": "Division 6C",
+     "omgang": "Round 11",
+     "hemma": "Sandvikens BTK C",
+     "borta": "Uppsala Life IF C2",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "09:00",
+     "serie": "Division 6C",
+     "omgang": "Round 11",
+     "hemma": "IK Sirius BTK F5",
+     "borta": "Vassunda IF C3",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "12:00",
+     "serie": "Division 6C",
+     "omgang": "Round 12",
+     "hemma": "Gefle PK E2",
+     "borta": "Bålsta BTK B",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Bålsta Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "12:00",
+     "serie": "Division 6C",
+     "omgang": "Round 12",
+     "hemma": "Sandvikens BTK C",
+     "borta": "Norrtälje BTK E2",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "12:00",
+     "serie": "Division 6C",
+     "omgang": "Round 12",
+     "hemma": "IK Sirius BTK F5",
+     "borta": "IK Sirius BTK F4",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "12:00",
+     "serie": "Division 6C",
+     "omgang": "Round 12",
+     "hemma": "Vassunda IF C3",
+     "borta": "Uppsala Life IF C2",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1192/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "UTK-hallen"
+   ],
+   "serier": [
+    "Division 4A"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 13",
+     "hemma": "Sandvikens BTK A",
+     "borta": "IK Sirius BTK D1",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 13",
+     "hemma": "Öregrunds IK A",
+     "borta": "Skyttorps IF A",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 13",
+     "hemma": "Gefle PK C",
+     "borta": "Örbyhus IF",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Örbyhus Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 13",
+     "hemma": "Upplands-Ekeby IF B",
+     "borta": "KFUM Gävle BT B",
+     "hemma_klubb": "Upplands-Ekeby Idrottsförening",
+     "borta_klubb": "KFUM Gävle Bordtennis",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 14",
+     "hemma": "Skyttorps IF A",
+     "borta": "IK Sirius BTK D1",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 14",
+     "hemma": "KFUM Gävle BT B",
+     "borta": "Örbyhus IF",
+     "hemma_klubb": "KFUM Gävle Bordtennis",
+     "borta_klubb": "Örbyhus Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 14",
+     "hemma": "Sandvikens BTK A",
+     "borta": "Öregrunds IK A",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 14",
+     "hemma": "Upplands-Ekeby IF B",
+     "borta": "Gefle PK C",
+     "hemma_klubb": "Upplands-Ekeby Idrottsförening",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "UTK-hallen"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "09:00",
+     "serie": "Division 6A",
+     "omgang": "Round 13",
+     "hemma": "Vassunda IF C1",
+     "borta": "Stratos Enköping BTK E",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "09:00",
+     "serie": "Division 6A",
+     "omgang": "Round 13",
+     "hemma": "Heby AIF C2",
+     "borta": "Börje SK B",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Börje Sportklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "09:00",
+     "serie": "Division 6A",
+     "omgang": "Round 13",
+     "hemma": "Heby AIF C1",
+     "borta": "Skyttorps IF B",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "09:00",
+     "serie": "Division 6A",
+     "omgang": "Round 13",
+     "hemma": "IK Sirius BTK F1",
+     "borta": "Tärnsjö BTK B",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Tärnsjö Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "12:00",
+     "serie": "Division 6A",
+     "omgang": "Round 14",
+     "hemma": "Börje SK B",
+     "borta": "Stratos Enköping BTK E",
+     "hemma_klubb": "Börje Sportklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "12:00",
+     "serie": "Division 6A",
+     "omgang": "Round 14",
+     "hemma": "Tärnsjö BTK B",
+     "borta": "Skyttorps IF B",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "12:00",
+     "serie": "Division 6A",
+     "omgang": "Round 14",
+     "hemma": "Vassunda IF C1",
+     "borta": "Heby AIF C2",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "12:00",
+     "serie": "Division 6A",
+     "omgang": "Round 14",
+     "hemma": "IK Sirius BTK F1",
+     "borta": "Heby AIF C1",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "UTK-hallen",
+     "arrangor": "IK Sirius Bordtennisklubb",
+     "arrangorer": [
+      "IK Sirius Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
   }
  ],
  "tabeller": [

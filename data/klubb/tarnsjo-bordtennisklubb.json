@@ -4,7 +4,7 @@
   "namn": "Tärnsjö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Tärnsjö BTK A",
@@ -703,6 +703,464 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Tärnsjö"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 1",
+     "hemma": "Stratos Enköping BTK E",
+     "borta": "Skyttorps IF B",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 1",
+     "hemma": "Tärnsjö BTK B",
+     "borta": "Börje SK B",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Börje Sportklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 2",
+     "hemma": "Stratos Enköping BTK E",
+     "borta": "Tärnsjö BTK B",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Tärnsjö Bordtennisklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 2",
+     "hemma": "Skyttorps IF B",
+     "borta": "Börje SK B",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Börje Sportklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Tärnsjö"
+   ],
+   "serier": [
+    "Division 4B"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "10:00",
+     "serie": "Division 4B",
+     "omgang": "Round 1",
+     "hemma": "Tärnsjö BTK A",
+     "borta": "Uppsala Life IF A",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "10:00",
+     "serie": "Division 4B",
+     "omgang": "Round 1",
+     "hemma": "Börje SK A",
+     "borta": "Sunnersta AIF B",
+     "hemma_klubb": "Börje Sportklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "14:00",
+     "serie": "Division 4B",
+     "omgang": "Round 2",
+     "hemma": "Tärnsjö BTK A",
+     "borta": "Börje SK A",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Börje Sportklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "14:00",
+     "serie": "Division 4B",
+     "omgang": "Round 2",
+     "hemma": "Uppsala Life IF A",
+     "borta": "Sunnersta AIF B",
+     "hemma_klubb": "Uppsala Life Idrottsförening",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "Tärnsjö"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 7",
+     "hemma": "Stratos Enköping BTK E",
+     "borta": "Börje SK B",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Börje Sportklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 7",
+     "hemma": "Skyttorps IF B",
+     "borta": "Tärnsjö BTK B",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Tärnsjö Bordtennisklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 8",
+     "hemma": "Skyttorps IF B",
+     "borta": "Stratos Enköping BTK E",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 8",
+     "hemma": "Börje SK B",
+     "borta": "Tärnsjö BTK B",
+     "hemma_klubb": "Börje Sportklubb",
+     "borta_klubb": "Tärnsjö Bordtennisklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Tärnsjö"
+   ],
+   "serier": [
+    "Division 4B"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 4B",
+     "omgang": "Round 7",
+     "hemma": "Sunnersta AIF B",
+     "borta": "Tärnsjö BTK A",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Tärnsjö Bordtennisklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 4B",
+     "omgang": "Round 7",
+     "hemma": "Uppsala Life IF A",
+     "borta": "Börje SK A",
+     "hemma_klubb": "Uppsala Life Idrottsförening",
+     "borta_klubb": "Börje Sportklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "14:00",
+     "serie": "Division 4B",
+     "omgang": "Round 8",
+     "hemma": "Uppsala Life IF A",
+     "borta": "Tärnsjö BTK A",
+     "hemma_klubb": "Uppsala Life Idrottsförening",
+     "borta_klubb": "Tärnsjö Bordtennisklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "14:00",
+     "serie": "Division 4B",
+     "omgang": "Round 8",
+     "hemma": "Sunnersta AIF B",
+     "borta": "Börje SK A",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Börje Sportklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1187/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Tärnsjö"
+   ],
+   "serier": [
+    "Division 7A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 9",
+     "hemma": "Sunnersta AIF E1",
+     "borta": "Storvreta IK",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Storvreta Idrottsklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 9",
+     "hemma": "Tärnsjö BTK C",
+     "borta": "Sigtuna IF BTK B1",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Sigtuna IF Bordtennisklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 10",
+     "hemma": "Sigtuna IF BTK B1",
+     "borta": "Sunnersta AIF E1",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 10",
+     "hemma": "Tärnsjö BTK C",
+     "borta": "Storvreta IK",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Storvreta Idrottsklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Tärnsjö"
+   ],
+   "serier": [
+    "Division 7A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 11",
+     "hemma": "Heby AIF D",
+     "borta": "Sunnersta AIF E1",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 11",
+     "hemma": "Tärnsjö BTK C",
+     "borta": "IK Sirius BTK G1",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 12",
+     "hemma": "Tärnsjö BTK C",
+     "borta": "Sunnersta AIF E1",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 12",
+     "hemma": "Heby AIF D",
+     "borta": "IK Sirius BTK G1",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Tärnsjö",
+     "arrangor": "Tärnsjö Bordtennisklubb",
+     "arrangorer": [
+      "Tärnsjö Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Division 4B",

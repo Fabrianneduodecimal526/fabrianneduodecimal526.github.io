@@ -4,12 +4,19 @@
   "namn": "Vänersborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Vänersborgs BTK",
    "serie": {
     "namn": "Div 3 VSNV"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Vänersborgs BTK",
+   "serie": {
+    "namn": "Västra"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   }
@@ -298,6 +305,7 @@
    "borta_poang": 0
   }
  ],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 3 VSNV",

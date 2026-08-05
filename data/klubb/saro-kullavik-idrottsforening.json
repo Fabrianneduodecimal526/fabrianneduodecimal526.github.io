@@ -4,7 +4,7 @@
   "namn": "Särö Kullavik Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Särö Kullavik IF",
@@ -241,6 +241,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSSV",
+     "omgang": "Round 5",
+     "hemma": "Särö Kullavik IF",
+     "borta": "Kungsbacka BTK: B",
+     "hemma_klubb": "Särö Kullavik Idrottsförening",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Särö Kullavik Idrottsförening",
+     "arrangorer": [
+      "Särö Kullavik Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSSV",
+     "omgang": "Round 5",
+     "hemma": "BTK Linné: C2",
+     "borta": "Mölndals BTK: B",
+     "hemma_klubb": "Bordtennisklubben Linné",
+     "borta_klubb": "Mölndals Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Särö Kullavik Idrottsförening",
+     "arrangorer": [
+      "Särö Kullavik Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSSV",
+     "omgang": "Round 5",
+     "hemma": "Åsa IF: A1",
+     "borta": "Lindome BTK",
+     "hemma_klubb": "Åsa Idrottsförening",
+     "borta_klubb": "Lindome Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Särö Kullavik Idrottsförening",
+     "arrangorer": [
+      "Särö Kullavik Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 VSSV",
+     "omgang": "Round 5",
+     "hemma": "Öckerö IF",
+     "borta": "Varbergs BTK: B2",
+     "hemma_klubb": "Öckerö Idrottsförening",
+     "borta_klubb": "Varbergs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Särö Kullavik Idrottsförening",
+     "arrangorer": [
+      "Särö Kullavik Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSSV",
+     "omgang": "Round 6",
+     "hemma": "Särö Kullavik IF",
+     "borta": "Lindome BTK",
+     "hemma_klubb": "Särö Kullavik Idrottsförening",
+     "borta_klubb": "Lindome Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Särö Kullavik Idrottsförening",
+     "arrangorer": [
+      "Särö Kullavik Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSSV",
+     "omgang": "Round 6",
+     "hemma": "Öckerö IF",
+     "borta": "Mölndals BTK: B",
+     "hemma_klubb": "Öckerö Idrottsförening",
+     "borta_klubb": "Mölndals Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Särö Kullavik Idrottsförening",
+     "arrangorer": [
+      "Särö Kullavik Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSSV",
+     "omgang": "Round 6",
+     "hemma": "Åsa IF: A1",
+     "borta": "Kungsbacka BTK: B",
+     "hemma_klubb": "Åsa Idrottsförening",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Särö Kullavik Idrottsförening",
+     "arrangorer": [
+      "Särö Kullavik Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 VSSV",
+     "omgang": "Round 6",
+     "hemma": "BTK Linné: C2",
+     "borta": "Varbergs BTK: B2",
+     "hemma_klubb": "Bordtennisklubben Linné",
+     "borta_klubb": "Varbergs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Särö Kullavik Idrottsförening",
+     "arrangorer": [
+      "Särö Kullavik Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 VSSV",

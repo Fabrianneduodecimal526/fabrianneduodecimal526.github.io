@@ -4,7 +4,7 @@
   "namn": "Dänningelanda Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Dänningelanda BTK",
@@ -235,6 +235,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 5",
+     "hemma": "BTK Frej: B",
+     "borta": "Lyckeby BTK: C",
+     "hemma_klubb": "Bordtennisklubben Frej",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dänningelanda Bordtennisklubb",
+     "arrangorer": [
+      "Dänningelanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 5",
+     "hemma": "Dänningelanda BTK",
+     "borta": "Långemåla BTK",
+     "hemma_klubb": "Dänningelanda Bordtennisklubb",
+     "borta_klubb": "Långemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dänningelanda Bordtennisklubb",
+     "arrangorer": [
+      "Dänningelanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 5",
+     "hemma": "Listerby IK",
+     "borta": "Jämjö BTK: B",
+     "hemma_klubb": "Listerby Idrottsklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dänningelanda Bordtennisklubb",
+     "arrangorer": [
+      "Dänningelanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 5",
+     "hemma": "Vetlanda BTK: B",
+     "borta": "Högsby BTK",
+     "hemma_klubb": "Vetlanda Bordtennisklubb",
+     "borta_klubb": "Högsby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dänningelanda Bordtennisklubb",
+     "arrangorer": [
+      "Dänningelanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 6",
+     "hemma": "BTK Frej: B",
+     "borta": "Dänningelanda BTK",
+     "hemma_klubb": "Bordtennisklubben Frej",
+     "borta_klubb": "Dänningelanda Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dänningelanda Bordtennisklubb",
+     "arrangorer": [
+      "Dänningelanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 6",
+     "hemma": "Lyckeby BTK: C",
+     "borta": "Långemåla BTK",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Långemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dänningelanda Bordtennisklubb",
+     "arrangorer": [
+      "Dänningelanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 6",
+     "hemma": "Listerby IK",
+     "borta": "Vetlanda BTK: B",
+     "hemma_klubb": "Listerby Idrottsklubb",
+     "borta_klubb": "Vetlanda Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dänningelanda Bordtennisklubb",
+     "arrangorer": [
+      "Dänningelanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 6",
+     "hemma": "Jämjö BTK: B",
+     "borta": "Högsby BTK",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Högsby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Dänningelanda Bordtennisklubb",
+     "arrangorer": [
+      "Dänningelanda Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 SSNV",

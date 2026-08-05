@@ -4,7 +4,7 @@
   "namn": "Öregrunds Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Öregrunds IK A",
@@ -472,6 +472,312 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Sven-Persson Hallen"
+   ],
+   "serier": [
+    "Division 5B"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 1",
+     "hemma": "Skuttunge SK",
+     "borta": "Rimbo IF A",
+     "hemma_klubb": "Skuttunge Sportklubb",
+     "borta_klubb": "Rimbo Idrottsförening",
+     "plats": "Sven-Persson Hallen",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 1",
+     "hemma": "Öregrunds IK B",
+     "borta": "Sunnersta AIF C2",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Sven-Persson Hallen",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 2",
+     "hemma": "Skuttunge SK",
+     "borta": "Öregrunds IK B",
+     "hemma_klubb": "Skuttunge Sportklubb",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "Sven-Persson Hallen",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 2",
+     "hemma": "Rimbo IF A",
+     "borta": "Sunnersta AIF C2",
+     "hemma_klubb": "Rimbo Idrottsförening",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Sven-Persson Hallen",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Öregrund"
+   ],
+   "serier": [
+    "Division 4A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 1",
+     "hemma": "Sandvikens BTK A",
+     "borta": "Gefle PK C",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Öregrund",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 1",
+     "hemma": "Upplands-Ekeby IF B",
+     "borta": "Öregrunds IK A",
+     "hemma_klubb": "Upplands-Ekeby Idrottsförening",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "Öregrund",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 2",
+     "hemma": "Sandvikens BTK A",
+     "borta": "Upplands-Ekeby IF B",
+     "hemma_klubb": "Sandvikens Bordtennisklubb",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Öregrund",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 2",
+     "hemma": "Gefle PK C",
+     "borta": "Öregrunds IK A",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "Öregrund",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "Sven-Persson Hallen"
+   ],
+   "serier": [
+    "Division 5B"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 7",
+     "hemma": "Sunnersta AIF C2",
+     "borta": "Skuttunge SK",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Skuttunge Sportklubb",
+     "plats": "Sven-Persson Hallen",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 5B",
+     "omgang": "Round 7",
+     "hemma": "Rimbo IF A",
+     "borta": "Öregrunds IK B",
+     "hemma_klubb": "Rimbo Idrottsförening",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "Sven-Persson Hallen",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 8",
+     "hemma": "Rimbo IF A",
+     "borta": "Skuttunge SK",
+     "hemma_klubb": "Rimbo Idrottsförening",
+     "borta_klubb": "Skuttunge Sportklubb",
+     "plats": "Sven-Persson Hallen",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "14:00",
+     "serie": "Division 5B",
+     "omgang": "Round 8",
+     "hemma": "Sunnersta AIF C2",
+     "borta": "Öregrunds IK B",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "Sven-Persson Hallen",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1189/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Öregrund"
+   ],
+   "serier": [
+    "Division 4A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 7",
+     "hemma": "Öregrunds IK A",
+     "borta": "Sandvikens BTK A",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "Sandvikens Bordtennisklubb",
+     "plats": "Öregrund",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 7",
+     "hemma": "Gefle PK C",
+     "borta": "Upplands-Ekeby IF B",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Öregrund",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 8",
+     "hemma": "Gefle PK C",
+     "borta": "Sandvikens BTK A",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Sandvikens Bordtennisklubb",
+     "plats": "Öregrund",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 8",
+     "hemma": "Öregrunds IK A",
+     "borta": "Upplands-Ekeby IF B",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Öregrund",
+     "arrangor": "Öregrunds Idrottsklubb",
+     "arrangorer": [
+      "Öregrunds Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Division 4A",

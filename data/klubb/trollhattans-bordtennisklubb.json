@@ -4,7 +4,7 @@
   "namn": "Trollhättans Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Trollhättans BTK",
@@ -87,6 +87,38 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Arrangörens"
+   ],
+   "serier": [
+    "Västra"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "18:00",
+     "serie": "Västra",
+     "omgang": "Round 4",
+     "hemma": "Trollhättans BTK",
+     "borta": "Vänersborgs BTK",
+     "hemma_klubb": "Trollhättans Bordtennisklubb",
+     "borta_klubb": "Vänersborgs Bordtennisklubb",
+     "plats": "Arrangörens",
+     "arrangor": "Trollhättans Bordtennisklubb",
+     "arrangorer": [
+      "Trollhättans Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
+    }
+   ]
   }
  ],
  "tabeller": [

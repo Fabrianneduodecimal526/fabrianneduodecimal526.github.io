@@ -4,8 +4,15 @@
   "namn": "Västerås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "Västerås BTK",
+   "serie": {
+    "namn": "Div 2 ÖSS"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Västerås BTK",
    "serie": {
@@ -514,6 +521,568 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/939/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 ÖSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 1",
+     "hemma": "Ålsta BTK",
+     "borta": "Nyköpings BTK",
+     "hemma_klubb": "Ålsta Bordtennisklubb",
+     "borta_klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 1",
+     "hemma": "Hallstahammars BTK",
+     "borta": "BTK Kungsör",
+     "hemma_klubb": "Hallstahammars Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Kungsör",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 1",
+     "hemma": "Västerås BTK: B",
+     "borta": "Aga BTK: A2",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 1",
+     "hemma": "Katrineholms BTK: B2",
+     "borta": "Spårvägens BTK: D4",
+     "hemma_klubb": "Katrineholms Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 2",
+     "hemma": "Nyköpings BTK",
+     "borta": "Spårvägens BTK: D4",
+     "hemma_klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 2",
+     "hemma": "Aga BTK: A2",
+     "borta": "Katrineholms BTK: B2",
+     "hemma_klubb": "Aga Bordtennisklubb",
+     "borta_klubb": "Katrineholms Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 2",
+     "hemma": "BTK Kungsör",
+     "borta": "Västerås BTK: B",
+     "hemma_klubb": "Bordtennisklubben Kungsör",
+     "borta_klubb": "Västerås Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 2",
+     "hemma": "Ålsta BTK",
+     "borta": "Hallstahammars BTK",
+     "hemma_klubb": "Ålsta Bordtennisklubb",
+     "borta_klubb": "Hallstahammars Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 ÖSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 5",
+     "hemma": "Västerås BTK: B",
+     "borta": "Nyköpings BTK",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 5",
+     "hemma": "Katrineholms BTK: B2",
+     "borta": "Hallstahammars BTK",
+     "hemma_klubb": "Katrineholms Bordtennisklubb",
+     "borta_klubb": "Hallstahammars Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 5",
+     "hemma": "Spårvägens BTK: D4",
+     "borta": "Ålsta BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Ålsta Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 5",
+     "hemma": "Aga BTK: A2",
+     "borta": "BTK Kungsör",
+     "hemma_klubb": "Aga Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Kungsör",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 6",
+     "hemma": "Nyköpings BTK",
+     "borta": "BTK Kungsör",
+     "hemma_klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Kungsör",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 6",
+     "hemma": "Ålsta BTK",
+     "borta": "Aga BTK: A2",
+     "hemma_klubb": "Ålsta Bordtennisklubb",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 6",
+     "hemma": "Hallstahammars BTK",
+     "borta": "Spårvägens BTK: D4",
+     "hemma_klubb": "Hallstahammars Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 6",
+     "hemma": "Västerås BTK: B",
+     "borta": "Katrineholms BTK: B2",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Katrineholms Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 ÖSS"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 9",
+     "hemma": "Västers BTK: C",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "Västers Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 9",
+     "hemma": "Kristinehamns BTF",
+     "borta": "BTK Safir",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Bordtennisklubben Safir",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 9",
+     "hemma": "Eskilstuna BTK",
+     "borta": "Linköpings PK: B",
+     "hemma_klubb": "Eskilstuna Bordtennisklubb",
+     "borta_klubb": "Linköpings Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 9",
+     "hemma": "Västerås BTK",
+     "borta": "Ljungsbro BTK",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Ljungsbro Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 10",
+     "hemma": "IF Norcopensarna",
+     "borta": "Västerås BTK",
+     "hemma_klubb": "Idrottsföreningen Norcopensarna",
+     "borta_klubb": "Västerås Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 10",
+     "hemma": "Ljungsbro BTK",
+     "borta": "Eskilstuna BTK",
+     "hemma_klubb": "Ljungsbro Bordtennisklubb",
+     "borta_klubb": "Eskilstuna Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 10",
+     "hemma": "Linköpings PK: B",
+     "borta": "Kristinehamns BTF",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSS",
+     "omgang": "Round 10",
+     "hemma": "BTK Safir",
+     "borta": "Västers BTK: C",
+     "hemma_klubb": "Bordtennisklubben Safir",
+     "borta_klubb": "Västers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 ÖSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 11",
+     "hemma": "Aga BTK: A2",
+     "borta": "Nyköpings BTK",
+     "hemma_klubb": "Aga Bordtennisklubb",
+     "borta_klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 11",
+     "hemma": "Spårvägens BTK: D4",
+     "borta": "BTK Kungsör",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Kungsör",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 11",
+     "hemma": "Katrineholms BTK: B2",
+     "borta": "Ålsta BTK",
+     "hemma_klubb": "Katrineholms Bordtennisklubb",
+     "borta_klubb": "Ålsta Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 11",
+     "hemma": "Västerås BTK: B",
+     "borta": "Hallstahammars BTK",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Hallstahammars Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 12",
+     "hemma": "Nyköpings BTK",
+     "borta": "Västerås BTK: B",
+     "hemma_klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "borta_klubb": "Västerås Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 12",
+     "hemma": "Hallstahammars BTK",
+     "borta": "Katrineholms BTK: B2",
+     "hemma_klubb": "Hallstahammars Bordtennisklubb",
+     "borta_klubb": "Katrineholms Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 12",
+     "hemma": "Ålsta BTK",
+     "borta": "Spårvägens BTK: D4",
+     "hemma_klubb": "Ålsta Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 12",
+     "hemma": "BTK Kungsör",
+     "borta": "Aga BTK: A2",
+     "hemma_klubb": "Bordtennisklubben Kungsör",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerås Bordtennisklubb",
+     "arrangorer": [
+      "Västerås Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    }
+   ]
   }
  ],
  "tabeller": [

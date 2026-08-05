@@ -104,8 +104,13 @@ Hämtaren varnar när ett distriktsevenemang inte matchar något av de 15 SDF:en
 
 Klart:
 
-- Frontenden — klubbsökning, fyra flikar, mobilanpassad, mörkt läge, sparar
-  klubbval lokalt. 16 automatiska kontroller mot skarp data passerar.
+- Frontenden — klubbsökning, fem flikar, mobilanpassad, mörkt läge, sparar
+  klubbval lokalt. 23 automatiska kontroller mot skarp data passerar
+  (`node test/frontend.test.mjs`).
+- Fliken **Arrangerar** — klubbens egna seriehelger grupperade per speldag,
+  med antal matcher, lokal och vilka serier som spelas. Innehåller även
+  matcher där inget eget lag deltar, vilket är själva poängen: som värd
+  ansvarar man för hela dagen. 139 av 177 klubbar arrangerar minst en dag.
 - Hämtaren — går via API:et, ingen Playwright. Filtrerar testdata och städar
   bort klubbfiler från evenemang som försvunnit.
 - Workflowet — schemalagt, med skyddsnät mot att skriva över fungerande data

@@ -4,8 +4,15 @@
   "namn": "Köpings BTK Dam"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "Köpings BTK Dam",
+   "serie": {
+    "namn": "Pingisligan (dam)"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Köpings BTK Dam",
    "serie": {
@@ -71,7 +78,7 @@
    "hemma": "Köpings BTK Dam",
    "borta": "Spårvägens BTK",
    "hemma_klubb": "Köpings BTK Dam",
-   "borta_klubb": "Spårvägens BTK",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
    "arrangor": "Ängby Sportklubb",
    "arrangorer": [
@@ -251,6 +258,7 @@
    "borta_poang": 1
   }
  ],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Pingisligan (dam)",
@@ -371,7 +379,7 @@
     {
      "placering": 11,
      "lag": "Spårvägens BTK",
-     "klubb": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

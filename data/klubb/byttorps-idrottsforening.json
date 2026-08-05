@@ -4,7 +4,7 @@
   "namn": "Byttorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Byttorps A1",
@@ -218,6 +218,38 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Arrangörens"
+   ],
+   "serier": [
+    "Södra 1"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "18:00",
+     "serie": "Södra 1",
+     "omgang": "Round 3",
+     "hemma": "Byttorps A1",
+     "borta": "Sandareds BTK Patrick",
+     "hemma_klubb": "Byttorps Idrottsförening",
+     "borta_klubb": "Sandareds Bordtennisklubb",
+     "plats": "Arrangörens",
+     "arrangor": "Byttorps Idrottsförening",
+     "arrangorer": [
+      "Byttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
+     "hemma_poang": 2,
+     "borta_poang": 0
+    }
+   ]
   }
  ],
  "tabeller": [

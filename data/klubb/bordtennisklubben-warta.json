@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Warta"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "BTK Warta",
@@ -241,6 +241,288 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 VSS"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 7",
+     "hemma": "Borgstena IF",
+     "borta": "Kungälvs BTK: A1",
+     "hemma_klubb": "Borgstena IF",
+     "borta_klubb": "Kungälvs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 7",
+     "hemma": "Alingsås PK",
+     "borta": "Lekstorps IF: B",
+     "hemma_klubb": "Alingsås Pingis Klubb",
+     "borta_klubb": "Lekstorps Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 7",
+     "hemma": "BTK Linné: B",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "Bordtennisklubben Linné",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 7",
+     "hemma": "Håcksviks IF",
+     "borta": "BTK Warta",
+     "hemma_klubb": "Håcksviks Idrottsförening",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 8",
+     "hemma": "Alingsås PK",
+     "borta": "Borgstena IF",
+     "hemma_klubb": "Alingsås Pingis Klubb",
+     "borta_klubb": "Borgstena IF",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 8",
+     "hemma": "Kungälvs BTK: A1",
+     "borta": "Lekstorps IF: B",
+     "hemma_klubb": "Kungälvs Bordtennisklubb",
+     "borta_klubb": "Lekstorps Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 8",
+     "hemma": "Håcksviks IF",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "Håcksviks Idrottsförening",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 8",
+     "hemma": "BTK Linné: B",
+     "borta": "BTK Warta",
+     "hemma_klubb": "Bordtennisklubben Linné",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 VSS"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 13",
+     "hemma": "Kungsbacka BTK",
+     "borta": "Borgstena IF",
+     "hemma_klubb": "Kungsbacka Bordtennisklubb",
+     "borta_klubb": "Borgstena IF",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 13",
+     "hemma": "BTK Linné: B",
+     "borta": "Kungälvs BTK: A1",
+     "hemma_klubb": "Bordtennisklubben Linné",
+     "borta_klubb": "Kungälvs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 13",
+     "hemma": "Håcksviks IF",
+     "borta": "Alingsås PK",
+     "hemma_klubb": "Håcksviks Idrottsförening",
+     "borta_klubb": "Alingsås Pingis Klubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 13",
+     "hemma": "BTK Warta",
+     "borta": "Lekstorps IF: B",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Lekstorps Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 14",
+     "hemma": "Kungälvs BTK: A1",
+     "borta": "Borgstena IF",
+     "hemma_klubb": "Kungälvs Bordtennisklubb",
+     "borta_klubb": "Borgstena IF",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 14",
+     "hemma": "Lekstorps IF: B",
+     "borta": "Alingsås PK",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Alingsås Pingis Klubb",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 14",
+     "hemma": "Kungsbacka BTK",
+     "borta": "BTK Linné: B",
+     "hemma_klubb": "Kungsbacka Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 14",
+     "hemma": "BTK Warta",
+     "borta": "Håcksviks IF",
+     "hemma_klubb": "Bordtennisklubben Warta",
+     "borta_klubb": "Håcksviks Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Bordtennisklubben Warta",
+     "arrangorer": [
+      "Bordtennisklubben Warta"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 VSS",

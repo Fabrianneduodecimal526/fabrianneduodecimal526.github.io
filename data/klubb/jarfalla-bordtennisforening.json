@@ -4,7 +4,7 @@
   "namn": "Järfälla Bordtennisförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Järfälla BTF",
@@ -241,6 +241,84 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 NSSÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 13",
+     "hemma": "Vassunda IF",
+     "borta": "Järfälla BTF",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Järfälla Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Järfälla Bordtennisförening",
+     "arrangorer": [
+      "Järfälla Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 13",
+     "hemma": "Bro IK: B",
+     "borta": "Upplands-Ekeby IF: A1",
+     "hemma_klubb": "Bro Idrottsklubb",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Järfälla Bordtennisförening",
+     "arrangorer": [
+      "Järfälla Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 14",
+     "hemma": "Järfälla BTF",
+     "borta": "Upplands-Ekeby IF: A1",
+     "hemma_klubb": "Järfälla Bordtennisförening",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Järfälla Bordtennisförening",
+     "arrangorer": [
+      "Järfälla Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 NSSÖ",
+     "omgang": "Round 14",
+     "hemma": "Bro IK: B",
+     "borta": "Vassunda IF",
+     "hemma_klubb": "Bro Idrottsklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Järfälla Bordtennisförening",
+     "arrangorer": [
+      "Järfälla Bordtennisförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 NSSÖ",

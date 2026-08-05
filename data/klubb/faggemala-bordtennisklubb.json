@@ -4,7 +4,7 @@
   "namn": "Faggemåla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Faggemåla BTK",
@@ -257,6 +257,160 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 5",
+     "hemma": "Faggemåla BTK",
+     "borta": "Visby BTK",
+     "hemma_klubb": "Faggemåla Bordtennisklubb",
+     "borta_klubb": "Visby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Faggemåla Bordtennisklubb",
+     "arrangorer": [
+      "Faggemåla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 5",
+     "hemma": "Vaggeryds BTK",
+     "borta": "KFUM Jönköping IA: B",
+     "hemma_klubb": "Vaggeryds Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Faggemåla Bordtennisklubb",
+     "arrangorer": [
+      "Faggemåla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 6",
+     "hemma": "KFUM Jönköping IA: B",
+     "borta": "Faggemåla BTK",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Faggemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Faggemåla Bordtennisklubb",
+     "arrangorer": [
+      "Faggemåla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 6",
+     "hemma": "Visby BTK",
+     "borta": "Vaggeryds BTK",
+     "hemma_klubb": "Visby Bordtennisklubb",
+     "borta_klubb": "Vaggeryds Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Faggemåla Bordtennisklubb",
+     "arrangorer": [
+      "Faggemåla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 9",
+     "hemma": "Faggemåla BTK",
+     "borta": "KFUM Jönköping IA: B",
+     "hemma_klubb": "Faggemåla Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Faggemåla Bordtennisklubb",
+     "arrangorer": [
+      "Faggemåla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 9",
+     "hemma": "Vaggeryds BTK",
+     "borta": "Visby BTK",
+     "hemma_klubb": "Vaggeryds Bordtennisklubb",
+     "borta_klubb": "Visby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Faggemåla Bordtennisklubb",
+     "arrangorer": [
+      "Faggemåla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 10",
+     "hemma": "Vaggeryds BTK",
+     "borta": "Faggemåla BTK",
+     "hemma_klubb": "Vaggeryds Bordtennisklubb",
+     "borta_klubb": "Faggemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Faggemåla Bordtennisklubb",
+     "arrangorer": [
+      "Faggemåla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 10",
+     "hemma": "KFUM Jönköping IA: B",
+     "borta": "Visby BTK",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Visby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Faggemåla Bordtennisklubb",
+     "arrangorer": [
+      "Faggemåla Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 SSNÖ",

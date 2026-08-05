@@ -4,7 +4,7 @@
   "namn": "Tullinge Triangelpojkar Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Tullinge TP BTK",
@@ -241,6 +241,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 ÖSNV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 13",
+     "hemma": "Norrtulls SK: C2",
+     "borta": "Tyresö BTK: B",
+     "hemma_klubb": "Norrtulls Sportklubb",
+     "borta_klubb": "Tyresö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+     "arrangorer": [
+      "Tullinge Triangelpojkar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 13",
+     "hemma": "Boo Racketklubb: B1",
+     "borta": "Hammarby IF BTF: C2",
+     "hemma_klubb": "Boo Racketklubb",
+     "borta_klubb": "Hammarby IF Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+     "arrangorer": [
+      "Tullinge Triangelpojkar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 13",
+     "hemma": "Spårvägens BTK: D2",
+     "borta": "Sundbyberg/Solna BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Solna Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+     "arrangorer": [
+      "Tullinge Triangelpojkar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 13",
+     "hemma": "Ängby SK: D",
+     "borta": "Tullinge TP BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+     "arrangorer": [
+      "Tullinge Triangelpojkar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 14",
+     "hemma": "Tyresö BTK: B",
+     "borta": "Ängby SK: D",
+     "hemma_klubb": "Tyresö Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+     "arrangorer": [
+      "Tullinge Triangelpojkar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 14",
+     "hemma": "Tullinge TP BTK",
+     "borta": "Spårvägens BTK: D2",
+     "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+     "arrangorer": [
+      "Tullinge Triangelpojkar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 14",
+     "hemma": "Sundbyberg/Solna BTK",
+     "borta": "Boo Racketklubb: B1",
+     "hemma_klubb": "Solna Bordtennisklubb",
+     "borta_klubb": "Boo Racketklubb",
+     "plats": "Hall 1",
+     "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+     "arrangorer": [
+      "Tullinge Triangelpojkar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 14",
+     "hemma": "Hammarby IF BTF: C2",
+     "borta": "Norrtulls SK: C2",
+     "hemma_klubb": "Hammarby IF Bordtennisförening",
+     "borta_klubb": "Norrtulls Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+     "arrangorer": [
+      "Tullinge Triangelpojkar Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 ÖSNV",

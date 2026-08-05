@@ -4,8 +4,15 @@
   "namn": "Karlsborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "Karlsborgs BTK",
+   "serie": {
+    "namn": "Div 2 VSV Dam"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Karlsborgs BTK",
    "serie": {
@@ -337,6 +344,268 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 VSV Dam"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 VSV Dam",
+     "omgang": "Round 1",
+     "hemma": "Carlstads BTK",
+     "borta": "Mariedals IK",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 VSV Dam",
+     "omgang": "Round 1",
+     "hemma": "Kristinehamns BTF",
+     "borta": "Karlsborgs BTK",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Karlsborgs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 VSV Dam",
+     "omgang": "Round 2",
+     "hemma": "Mariedals IK",
+     "borta": "Karlsborgs BTK",
+     "hemma_klubb": "Mariedals Idrottsklubb",
+     "borta_klubb": "Karlsborgs Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 VSV Dam",
+     "omgang": "Round 2",
+     "hemma": "Carlstads BTK",
+     "borta": "Kristinehamns BTF",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Kristinehamns Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 VSV Dam"
+   ],
+   "antal": 2,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 2 VSV Dam",
+     "omgang": "Round 3",
+     "hemma": "Kristinehamns BTF",
+     "borta": "Mariedals IK",
+     "hemma_klubb": "Kristinehamns Bordtennisförening",
+     "borta_klubb": "Mariedals Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 2 VSV Dam",
+     "omgang": "Round 3",
+     "hemma": "Karlsborgs BTK",
+     "borta": "Carlstads BTK",
+     "hemma_klubb": "Karlsborgs Bordtennisklubb",
+     "borta_klubb": "Carlstads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 VSNÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Blikstorps AIK",
+     "borta": "Skövde PK: B",
+     "hemma_klubb": "Blikstorps Allmänna IK",
+     "borta_klubb": "Skövde Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Larvs FK",
+     "borta": "Mariestads BTK",
+     "hemma_klubb": "Larvs Fotbollklubb",
+     "borta_klubb": "Mariestads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Götene/Tor BTK",
+     "borta": "Ulricehamns IF",
+     "hemma_klubb": "Götene/Tor Bordtennisklubb",
+     "borta_klubb": "Ulricehamns Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Karlsborgs BTK",
+     "borta": "IFK Lidköping: A2",
+     "hemma_klubb": "Karlsborgs Bordtennisklubb",
+     "borta_klubb": "IFK Lidköping",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Blikstorps AIK",
+     "borta": "Mariestads BTK",
+     "hemma_klubb": "Blikstorps Allmänna IK",
+     "borta_klubb": "Mariestads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Larvs FK",
+     "borta": "Skövde PK: B",
+     "hemma_klubb": "Larvs Fotbollklubb",
+     "borta_klubb": "Skövde Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Götene/Tor BTK",
+     "borta": "IFK Lidköping: A2",
+     "hemma_klubb": "Götene/Tor Bordtennisklubb",
+     "borta_klubb": "IFK Lidköping",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 VSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Karlsborgs BTK",
+     "borta": "Ulricehamns IF",
+     "hemma_klubb": "Karlsborgs Bordtennisklubb",
+     "borta_klubb": "Ulricehamns Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Karlsborgs Bordtennisklubb",
+     "arrangorer": [
+      "Karlsborgs Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 VSV Dam",

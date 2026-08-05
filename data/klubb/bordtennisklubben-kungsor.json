@@ -4,8 +4,15 @@
   "namn": "Bordtennisklubben Kungsör"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "BTK Kungsör",
+   "serie": {
+    "namn": "Div 3 ÖSSV"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "BTK Kungsör",
    "serie": {
@@ -260,6 +267,7 @@
    "borta_poang": 0
   }
  ],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 3 ÖSSV",

@@ -4,8 +4,15 @@
   "namn": "Västerviks Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "Västerviks BTK",
+   "serie": {
+    "namn": "Div 3 SSNÖ"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Västerviks BTK",
    "serie": {
@@ -292,6 +299,160 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/944/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 5",
+     "hemma": "IFK Visby",
+     "borta": "Oskarshamns BTK",
+     "hemma_klubb": "IFK Visby",
+     "borta_klubb": "Oskarshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerviks Bordtennisklubb",
+     "arrangorer": [
+      "Västerviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 5",
+     "hemma": "Visby IF Gute BTK",
+     "borta": "Västerviks BTK",
+     "hemma_klubb": "Visby IF Gute Bordtennisklubb",
+     "borta_klubb": "Västerviks Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerviks Bordtennisklubb",
+     "arrangorer": [
+      "Västerviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 6",
+     "hemma": "Oskarshamns BTK",
+     "borta": "Visby IF Gute BTK",
+     "hemma_klubb": "Oskarshamns Bordtennisklubb",
+     "borta_klubb": "Visby IF Gute Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerviks Bordtennisklubb",
+     "arrangorer": [
+      "Västerviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 6",
+     "hemma": "Västerviks BTK",
+     "borta": "IFK Visby",
+     "hemma_klubb": "Västerviks Bordtennisklubb",
+     "borta_klubb": "IFK Visby",
+     "plats": "Hall 1",
+     "arrangor": "Västerviks Bordtennisklubb",
+     "arrangorer": [
+      "Västerviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNÖ"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Västerviks BTK",
+     "borta": "Oskarshamns BTK",
+     "hemma_klubb": "Västerviks Bordtennisklubb",
+     "borta_klubb": "Oskarshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerviks Bordtennisklubb",
+     "arrangorer": [
+      "Västerviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 7",
+     "hemma": "Visby IF Gute BTK",
+     "borta": "IFK Visby",
+     "hemma_klubb": "Visby IF Gute Bordtennisklubb",
+     "borta_klubb": "IFK Visby",
+     "plats": "Hall 1",
+     "arrangor": "Västerviks Bordtennisklubb",
+     "arrangorer": [
+      "Västerviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Oskarshamns BTK",
+     "borta": "IFK Visby",
+     "hemma_klubb": "Oskarshamns Bordtennisklubb",
+     "borta_klubb": "IFK Visby",
+     "plats": "Hall 1",
+     "arrangor": "Västerviks Bordtennisklubb",
+     "arrangorer": [
+      "Västerviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 8",
+     "hemma": "Västerviks BTK",
+     "borta": "Visby IF Gute BTK",
+     "hemma_klubb": "Västerviks Bordtennisklubb",
+     "borta_klubb": "Visby IF Gute Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Västerviks Bordtennisklubb",
+     "arrangorer": [
+      "Västerviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    }
+   ]
   }
  ],
  "tabeller": [

@@ -4,7 +4,7 @@
   "namn": "Skyttorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Skyttorps IF A",
@@ -934,6 +934,540 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Skyttorp"
+   ],
+   "serier": [
+    "Division 7C"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 7C",
+     "omgang": "Round 1",
+     "hemma": "Skyttorps IF C2",
+     "borta": "Norrtälje BTK F",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 7C",
+     "omgang": "Round 1",
+     "hemma": "Sigtuna IF BTK B3",
+     "borta": "Stratos Enköping BTK F2",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 7C",
+     "omgang": "Round 2",
+     "hemma": "Skyttorps IF C2",
+     "borta": "Sigtuna IF BTK B3",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Sigtuna IF Bordtennisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 7C",
+     "omgang": "Round 2",
+     "hemma": "Norrtälje BTK F",
+     "borta": "Stratos Enköping BTK F2",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Skyttorp"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 3",
+     "hemma": "Stratos Enköping BTK E",
+     "borta": "Heby AIF C2",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 3",
+     "hemma": "Skyttorps IF B",
+     "borta": "IK Sirius BTK F1",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 4",
+     "hemma": "Stratos Enköping BTK E",
+     "borta": "IK Sirius BTK F1",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 4",
+     "hemma": "Skyttorps IF B",
+     "borta": "Heby AIF C2",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "Skyttorp"
+   ],
+   "serier": [
+    "Division 7A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 3",
+     "hemma": "Storvreta IK",
+     "borta": "Tärnsjö BTK C",
+     "hemma_klubb": "Storvreta Idrottsklubb",
+     "borta_klubb": "Tärnsjö Bordtennisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 3",
+     "hemma": "IK Sirius BTK G1",
+     "borta": "Skyttorps IF C1",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 4",
+     "hemma": "Storvreta IK",
+     "borta": "Skyttorps IF C1",
+     "hemma_klubb": "Storvreta Idrottsklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 4",
+     "hemma": "IK Sirius BTK G1",
+     "borta": "Tärnsjö BTK C",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Tärnsjö Bordtennisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-15",
+   "platser": [
+    "Skyttorp"
+   ],
+   "serier": [
+    "Division 4A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-15",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 5",
+     "hemma": "KFUM Gävle BT B",
+     "borta": "Öregrunds IK A",
+     "hemma_klubb": "KFUM Gävle Bordtennis",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 5",
+     "hemma": "Skyttorps IF A",
+     "borta": "Upplands-Ekeby IF B",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 6",
+     "hemma": "Skyttorps IF A",
+     "borta": "Öregrunds IK A",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Öregrunds Idrottsklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 6",
+     "hemma": "KFUM Gävle BT B",
+     "borta": "Upplands-Ekeby IF B",
+     "hemma_klubb": "KFUM Gävle Bordtennis",
+     "borta_klubb": "Upplands-Ekeby Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Skyttorp"
+   ],
+   "serier": [
+    "Division 7C"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "10:00",
+     "serie": "Division 7C",
+     "omgang": "Round 9",
+     "hemma": "Sigtuna IF BTK B3",
+     "borta": "Skyttorps IF C2",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "10:00",
+     "serie": "Division 7C",
+     "omgang": "Round 9",
+     "hemma": "Rimbo IF B",
+     "borta": "Knutby IF",
+     "hemma_klubb": "Rimbo Idrottsförening",
+     "borta_klubb": "Knutby Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "13:00",
+     "serie": "Division 7C",
+     "omgang": "Round 10",
+     "hemma": "Knutby IF",
+     "borta": "Sigtuna IF BTK B3",
+     "hemma_klubb": "Knutby Idrottsförening",
+     "borta_klubb": "Sigtuna IF Bordtennisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "13:00",
+     "serie": "Division 7C",
+     "omgang": "Round 10",
+     "hemma": "Rimbo IF B",
+     "borta": "Skyttorps IF C2",
+     "hemma_klubb": "Rimbo Idrottsförening",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1195/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "Skyttorp"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 9",
+     "hemma": "Börje SK B",
+     "borta": "Skyttorps IF B",
+     "hemma_klubb": "Börje Sportklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 9",
+     "hemma": "IK Sirius BTK F1",
+     "borta": "Vassunda IF C1",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 10",
+     "hemma": "Vassunda IF C1",
+     "borta": "Börje SK B",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Börje Sportklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 10",
+     "hemma": "IK Sirius BTK F1",
+     "borta": "Skyttorps IF B",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Skyttorp"
+   ],
+   "serier": [
+    "Division 7A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 11",
+     "hemma": "Sigtuna IF BTK B1",
+     "borta": "Gefle PK F",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 11",
+     "hemma": "Skyttorps IF C1",
+     "borta": "Storvreta IK",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Storvreta Idrottsklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 12",
+     "hemma": "Sigtuna IF BTK B1",
+     "borta": "Storvreta IK",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Storvreta Idrottsklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 12",
+     "hemma": "Skyttorps IF C1",
+     "borta": "Gefle PK F",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Skyttorp",
+     "arrangor": "Skyttorps Idrottsförening",
+     "arrangorer": [
+      "Skyttorps Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Division 4A",

@@ -4,8 +4,15 @@
   "namn": "Lessebo Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
+  {
+   "namn": "Lessebo BTK",
+   "serie": {
+    "namn": "Div 2 SSN"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
   {
    "namn": "Lessebo BTK",
    "serie": {
@@ -465,6 +472,784 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 SSN"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 1",
+     "hemma": "Kosta SK: B",
+     "borta": "KFUM Jönköping IA",
+     "hemma_klubb": "Kosta Sportklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 1",
+     "hemma": "Jämjö BTK",
+     "borta": "Carlshamns BTK",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Carlshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 1",
+     "hemma": "Huskvarna Södra IS",
+     "borta": "Lessebo BTK",
+     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+     "borta_klubb": "Lessebo Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 1",
+     "hemma": "SK Frigg",
+     "borta": "Lyckeby BTK: B",
+     "hemma_klubb": "Sportklubben Frigg",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 2",
+     "hemma": "Kosta SK: B",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Kosta Sportklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 2",
+     "hemma": "KFUM Jönköping IA",
+     "borta": "Carlshamns BTK",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Carlshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 2",
+     "hemma": "Huskvarna Södra IS",
+     "borta": "SK Frigg",
+     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+     "borta_klubb": "Sportklubben Frigg",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 2",
+     "hemma": "Lessebo BTK",
+     "borta": "Lyckeby BTK: B",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 SSN"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 3",
+     "hemma": "Carlshamns BTK",
+     "borta": "Huskvarna Södra IS",
+     "hemma_klubb": "Carlshamns Bordtennisklubb",
+     "borta_klubb": "Huskvarna Södra Idrottssällskap",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 3",
+     "hemma": "Jämjö BTK",
+     "borta": "Lessebo BTK",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Lessebo Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 3",
+     "hemma": "Kosta SK: B",
+     "borta": "Lyckeby BTK: B",
+     "hemma_klubb": "Kosta Sportklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 3",
+     "hemma": "KFUM Jönköping IA",
+     "borta": "SK Frigg",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Sportklubben Frigg",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 SSN"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 9",
+     "hemma": "Jämjö BTK",
+     "borta": "Kosta SK: B",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 9",
+     "hemma": "Carlshamns BTK",
+     "borta": "KFUM Jönköping IA",
+     "hemma_klubb": "Carlshamns Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 9",
+     "hemma": "SK Frigg",
+     "borta": "Huskvarna Södra IS",
+     "hemma_klubb": "Sportklubben Frigg",
+     "borta_klubb": "Huskvarna Södra Idrottssällskap",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 9",
+     "hemma": "Lyckeby BTK: B",
+     "borta": "Lessebo BTK",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Lessebo Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 10",
+     "hemma": "Huskvarna Södra IS",
+     "borta": "Carlshamns BTK",
+     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+     "borta_klubb": "Carlshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 10",
+     "hemma": "Lessebo BTK",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 10",
+     "hemma": "Lyckeby BTK: B",
+     "borta": "Kosta SK: B",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 10",
+     "hemma": "SK Frigg",
+     "borta": "KFUM Jönköping IA",
+     "hemma_klubb": "Sportklubben Frigg",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 SSN"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 11",
+     "hemma": "Lessebo BTK",
+     "borta": "Carlshamns BTK",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Carlshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 11",
+     "hemma": "Huskvarna Södra IS",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 11",
+     "hemma": "SK Frigg",
+     "borta": "Kosta SK: B",
+     "hemma_klubb": "Sportklubben Frigg",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 11",
+     "hemma": "Lyckeby BTK: B",
+     "borta": "KFUM Jönköping IA",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 12",
+     "hemma": "Lessebo BTK",
+     "borta": "Kosta SK: B",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 12",
+     "hemma": "Lyckeby BTK: B",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 12",
+     "hemma": "Huskvarna Södra IS",
+     "borta": "KFUM Jönköping IA",
+     "hemma_klubb": "Huskvarna Södra Idrottssällskap",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 2 SSN",
+     "omgang": "Round 12",
+     "hemma": "SK Frigg",
+     "borta": "Carlshamns BTK",
+     "hemma_klubb": "Sportklubben Frigg",
+     "borta_klubb": "Carlshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1159/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Superettan (dam)"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 11",
+     "hemma": "Lessebo BTK",
+     "borta": "IK Sirius/SUIF",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 11",
+     "hemma": "Jämjö BTK",
+     "borta": "Ängby SK: B",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 11",
+     "hemma": "Kungsbacka BTK",
+     "borta": "Spårvägens BTK: B",
+     "hemma_klubb": "Kungsbacka Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 11",
+     "hemma": "Lyckeby BTK",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 12",
+     "hemma": "Ängby SK: B",
+     "borta": "Lessebo BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Lessebo Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 12",
+     "hemma": "Spårvägens BTK: B",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 12",
+     "hemma": "IK Sirius/SUIF",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 12",
+     "hemma": "IF Norcopensarna",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "Idrottsföreningen Norcopensarna",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Superettan (dam)"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 13",
+     "hemma": "IF Norcopensarna",
+     "borta": "Lessebo BTK",
+     "hemma_klubb": "Idrottsföreningen Norcopensarna",
+     "borta_klubb": "Lessebo Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 13",
+     "hemma": "Spårvägens BTK: B",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 13",
+     "hemma": "Lyckeby BTK",
+     "borta": "Ängby SK: B",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 13",
+     "hemma": "Kungsbacka BTK",
+     "borta": "IK Sirius/SUIF",
+     "hemma_klubb": "Kungsbacka Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 14",
+     "hemma": "Lessebo BTK",
+     "borta": "Spårvägens BTK: B",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 14",
+     "hemma": "IK Sirius/SUIF",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 14",
+     "hemma": "Jämjö BTK",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 14",
+     "hemma": "Ängby SK: B",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Lessebo Bordtennisklubb",
+     "arrangorer": [
+      "Lessebo Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 SSN",

@@ -4,12 +4,26 @@
   "namn": "Idrottsklubben Juno"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "IK Juno: A1",
    "serie": {
+    "namn": "Div 2 NSN"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "IK Juno: A1",
+   "serie": {
     "namn": "NSN"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "IK Juno: A2",
+   "serie": {
+    "namn": "Div 2 NSS"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
@@ -527,6 +541,7 @@
    "borta_poang": 0
   }
  ],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 2 NSN",

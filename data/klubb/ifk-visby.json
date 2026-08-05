@@ -4,7 +4,7 @@
   "namn": "IFK Visby"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "IFK Visby",
@@ -257,6 +257,632 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 1",
+     "hemma": "Vaggeryds BTK",
+     "borta": "Oskarshamns BTK",
+     "hemma_klubb": "Vaggeryds Bordtennisklubb",
+     "borta_klubb": "Oskarshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 1",
+     "hemma": "Visby IF Gute BTK",
+     "borta": "Visby BTK",
+     "hemma_klubb": "Visby IF Gute Bordtennisklubb",
+     "borta_klubb": "Visby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 1",
+     "hemma": "IFK Visby",
+     "borta": "KFUM Jönköping IA: B",
+     "hemma_klubb": "IFK Visby",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 1",
+     "hemma": "Faggemåla BTK",
+     "borta": "Västerviks BTK",
+     "hemma_klubb": "Faggemåla Bordtennisklubb",
+     "borta_klubb": "Västerviks Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 2",
+     "hemma": "Oskarshamns BTK",
+     "borta": "Faggemåla BTK",
+     "hemma_klubb": "Oskarshamns Bordtennisklubb",
+     "borta_klubb": "Faggemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 2",
+     "hemma": "Visby BTK",
+     "borta": "IFK Visby",
+     "hemma_klubb": "Visby Bordtennisklubb",
+     "borta_klubb": "IFK Visby",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 2",
+     "hemma": "KFUM Jönköping IA: B",
+     "borta": "Visby IF Gute BTK",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Visby IF Gute Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 2",
+     "hemma": "Västerviks BTK",
+     "borta": "Vaggeryds BTK",
+     "hemma_klubb": "Västerviks Bordtennisklubb",
+     "borta_klubb": "Vaggeryds Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Oskarshamns BTK",
+     "borta": "Visby BTK",
+     "hemma_klubb": "Oskarshamns Bordtennisklubb",
+     "borta_klubb": "Visby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 3",
+     "hemma": "IFK Visby",
+     "borta": "Vaggeryds BTK",
+     "hemma_klubb": "IFK Visby",
+     "borta_klubb": "Vaggeryds Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Västerviks BTK",
+     "borta": "KFUM Jönköping IA: B",
+     "hemma_klubb": "Västerviks Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Visby IF Gute BTK",
+     "borta": "Faggemåla BTK",
+     "hemma_klubb": "Visby IF Gute Bordtennisklubb",
+     "borta_klubb": "Faggemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 4",
+     "hemma": "KFUM Jönköping IA: B",
+     "borta": "Oskarshamns BTK",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Oskarshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Visby BTK",
+     "borta": "Västerviks BTK",
+     "hemma_klubb": "Visby Bordtennisklubb",
+     "borta_klubb": "Västerviks Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Faggemåla BTK",
+     "borta": "IFK Visby",
+     "hemma_klubb": "Faggemåla Bordtennisklubb",
+     "borta_klubb": "IFK Visby",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Vaggeryds BTK",
+     "borta": "Visby IF Gute BTK",
+     "hemma_klubb": "Vaggeryds Bordtennisklubb",
+     "borta_klubb": "Visby IF Gute Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 11",
+     "hemma": "Oskarshamns BTK",
+     "borta": "KFUM Jönköping IA: B",
+     "hemma_klubb": "Oskarshamns Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 11",
+     "hemma": "Västerviks BTK",
+     "borta": "Visby BTK",
+     "hemma_klubb": "Västerviks Bordtennisklubb",
+     "borta_klubb": "Visby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 11",
+     "hemma": "IFK Visby",
+     "borta": "Faggemåla BTK",
+     "hemma_klubb": "IFK Visby",
+     "borta_klubb": "Faggemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 11",
+     "hemma": "Visby IF Gute BTK",
+     "borta": "Vaggeryds BTK",
+     "hemma_klubb": "Visby IF Gute Bordtennisklubb",
+     "borta_klubb": "Vaggeryds Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 12",
+     "hemma": "Visby BTK",
+     "borta": "Oskarshamns BTK",
+     "hemma_klubb": "Visby Bordtennisklubb",
+     "borta_klubb": "Oskarshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 12",
+     "hemma": "Vaggeryds BTK",
+     "borta": "IFK Visby",
+     "hemma_klubb": "Vaggeryds Bordtennisklubb",
+     "borta_klubb": "IFK Visby",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 12",
+     "hemma": "KFUM Jönköping IA: B",
+     "borta": "Västerviks BTK",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "Västerviks Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 12",
+     "hemma": "Faggemåla BTK",
+     "borta": "Visby IF Gute BTK",
+     "hemma_klubb": "Faggemåla Bordtennisklubb",
+     "borta_klubb": "Visby IF Gute Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 13",
+     "hemma": "Faggemåla BTK",
+     "borta": "Oskarshamns BTK",
+     "hemma_klubb": "Faggemåla Bordtennisklubb",
+     "borta_klubb": "Oskarshamns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 13",
+     "hemma": "Visby IF Gute BTK",
+     "borta": "KFUM Jönköping IA: B",
+     "hemma_klubb": "Visby IF Gute Bordtennisklubb",
+     "borta_klubb": "KFUM Jönköping",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 13",
+     "hemma": "Vaggeryds BTK",
+     "borta": "Västerviks BTK",
+     "hemma_klubb": "Vaggeryds Bordtennisklubb",
+     "borta_klubb": "Västerviks Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 13",
+     "hemma": "IFK Visby",
+     "borta": "Visby BTK",
+     "hemma_klubb": "IFK Visby",
+     "borta_klubb": "Visby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 14",
+     "hemma": "Oskarshamns BTK",
+     "borta": "Vaggeryds BTK",
+     "hemma_klubb": "Oskarshamns Bordtennisklubb",
+     "borta_klubb": "Vaggeryds Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 14",
+     "hemma": "Visby BTK",
+     "borta": "Visby IF Gute BTK",
+     "hemma_klubb": "Visby Bordtennisklubb",
+     "borta_klubb": "Visby IF Gute Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 14",
+     "hemma": "KFUM Jönköping IA: B",
+     "borta": "IFK Visby",
+     "hemma_klubb": "KFUM Jönköping",
+     "borta_klubb": "IFK Visby",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "15:00",
+     "serie": "Div 3 SSNÖ",
+     "omgang": "Round 14",
+     "hemma": "Västerviks BTK",
+     "borta": "Faggemåla BTK",
+     "hemma_klubb": "Västerviks Bordtennisklubb",
+     "borta_klubb": "Faggemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+     "arrangorer": [
+      "Visby IF Gute Bordtennisklubb",
+      "IFK Visby",
+      "Visby Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 SSNÖ",

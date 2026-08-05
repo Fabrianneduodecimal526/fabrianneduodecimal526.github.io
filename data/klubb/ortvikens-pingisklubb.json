@@ -4,7 +4,7 @@
   "namn": "Ortvikens Pingisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Ortvikens PK",
@@ -241,6 +241,224 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 NSN"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 12",
+     "hemma": "IK Sirius BTK: B1",
+     "borta": "Ortvikens PK",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Ortvikens Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 12",
+     "hemma": "Färila BTK",
+     "borta": "Öråns SK",
+     "hemma_klubb": "Färila Bordtennisklubb",
+     "borta_klubb": "Öråns Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 12",
+     "hemma": "IK Juno: A1",
+     "borta": "Ås IF",
+     "hemma_klubb": "Idrottsklubben Juno",
+     "borta_klubb": "Ås Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 12",
+     "hemma": "BTK Kälom",
+     "borta": "Gefle PK",
+     "hemma_klubb": "Bordtennisklubben Kälom",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 13",
+     "hemma": "BTK Kälom",
+     "borta": "IK Sirius BTK: B1",
+     "hemma_klubb": "Bordtennisklubben Kälom",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 13",
+     "hemma": "Gefle PK",
+     "borta": "IK Juno: A1",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "Idrottsklubben Juno",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 13",
+     "hemma": "Ås IF",
+     "borta": "Färila BTK",
+     "hemma_klubb": "Ås Idrottsförening",
+     "borta_klubb": "Färila Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 13",
+     "hemma": "Öråns SK",
+     "borta": "Ortvikens PK",
+     "hemma_klubb": "Öråns Sportklubb",
+     "borta_klubb": "Ortvikens Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 NSN"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 14",
+     "hemma": "IK Sirius BTK: B1",
+     "borta": "Öråns SK",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Öråns Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 14",
+     "hemma": "Ortvikens PK",
+     "borta": "Ås IF",
+     "hemma_klubb": "Ortvikens Pingisklubb",
+     "borta_klubb": "Ås Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 14",
+     "hemma": "Färila BTK",
+     "borta": "Gefle PK",
+     "hemma_klubb": "Färila Bordtennisklubb",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    },
+    {
+     "datum": "2027-03-14",
+     "tid": "11:00",
+     "serie": "Div 2 NSN",
+     "omgang": "Round 14",
+     "hemma": "IK Juno: A1",
+     "borta": "BTK Kälom",
+     "hemma_klubb": "Idrottsklubben Juno",
+     "borta_klubb": "Bordtennisklubben Kälom",
+     "plats": "Hall 1",
+     "arrangor": "Ortvikens Pingisklubb",
+     "arrangorer": [
+      "Ortvikens Pingisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1153/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 NSN",

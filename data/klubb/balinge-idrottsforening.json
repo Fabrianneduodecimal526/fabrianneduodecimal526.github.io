@@ -4,7 +4,7 @@
   "namn": "Bälinge Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Bälinge IF",
@@ -241,6 +241,148 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Bälinge"
+   ],
+   "serier": [
+    "Division 7B"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 7B",
+     "omgang": "Round 3",
+     "hemma": "Vassunda IF D",
+     "borta": "IK Sirius BTK G2",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Bälinge",
+     "arrangor": "Bälinge Idrottsförening",
+     "arrangorer": [
+      "Bälinge Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 7B",
+     "omgang": "Round 3",
+     "hemma": "Enköpings Pingisveteraner B",
+     "borta": "Stratos Enköping BTK F1",
+     "hemma_klubb": "Enköpings Pingisveteraner",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Bälinge",
+     "arrangor": "Bälinge Idrottsförening",
+     "arrangorer": [
+      "Bälinge Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 7B",
+     "omgang": "Round 3",
+     "hemma": "Bälinge IF",
+     "borta": "Sunnersta AIF E2",
+     "hemma_klubb": "Bälinge Idrottsförening",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Bälinge",
+     "arrangor": "Bälinge Idrottsförening",
+     "arrangorer": [
+      "Bälinge Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 7B",
+     "omgang": "Round 3",
+     "hemma": "Uppsala Life IF D",
+     "borta": "Sigtuna IF BTK B2",
+     "hemma_klubb": "Uppsala Life Idrottsförening",
+     "borta_klubb": "Sigtuna IF Bordtennisklubb",
+     "plats": "Bälinge",
+     "arrangor": "Bälinge Idrottsförening",
+     "arrangorer": [
+      "Bälinge Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "13:00",
+     "serie": "Division 7B",
+     "omgang": "Round 4",
+     "hemma": "Vassunda IF D",
+     "borta": "Stratos Enköping BTK F1",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Bälinge",
+     "arrangor": "Bälinge Idrottsförening",
+     "arrangorer": [
+      "Bälinge Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "13:00",
+     "serie": "Division 7B",
+     "omgang": "Round 4",
+     "hemma": "IK Sirius BTK G2",
+     "borta": "Sunnersta AIF E2",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Bälinge",
+     "arrangor": "Bälinge Idrottsförening",
+     "arrangorer": [
+      "Bälinge Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "13:00",
+     "serie": "Division 7B",
+     "omgang": "Round 4",
+     "hemma": "Enköpings Pingisveteraner B",
+     "borta": "Sigtuna IF BTK B2",
+     "hemma_klubb": "Enköpings Pingisveteraner",
+     "borta_klubb": "Sigtuna IF Bordtennisklubb",
+     "plats": "Bälinge",
+     "arrangor": "Bälinge Idrottsförening",
+     "arrangorer": [
+      "Bälinge Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "13:00",
+     "serie": "Division 7B",
+     "omgang": "Round 4",
+     "hemma": "Bälinge IF",
+     "borta": "Uppsala Life IF D",
+     "hemma_klubb": "Bälinge Idrottsförening",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "Bälinge",
+     "arrangor": "Bälinge Idrottsförening",
+     "arrangorer": [
+      "Bälinge Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Division 7B",

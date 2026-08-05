@@ -4,7 +4,7 @@
   "namn": "Listerby Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Listerby IK",
@@ -239,6 +239,84 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSNV"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 9",
+     "hemma": "Långemåla BTK",
+     "borta": "Lyckeby BTK: C",
+     "hemma_klubb": "Långemåla Bordtennisklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Listerby Idrottsklubb",
+     "arrangorer": [
+      "Listerby Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 9",
+     "hemma": "Vetlanda BTK: B",
+     "borta": "Listerby IK",
+     "hemma_klubb": "Vetlanda Bordtennisklubb",
+     "borta_klubb": "Listerby Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Listerby Idrottsklubb",
+     "arrangorer": [
+      "Listerby Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 10",
+     "hemma": "Listerby IK",
+     "borta": "Långemåla BTK",
+     "hemma_klubb": "Listerby Idrottsklubb",
+     "borta_klubb": "Långemåla Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Listerby Idrottsklubb",
+     "arrangorer": [
+      "Listerby Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 3 SSNV",
+     "omgang": "Round 10",
+     "hemma": "Vetlanda BTK: B",
+     "borta": "Lyckeby BTK: C",
+     "hemma_klubb": "Vetlanda Bordtennisklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Listerby Idrottsklubb",
+     "arrangorer": [
+      "Listerby Idrottsklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1175/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 SSNV",

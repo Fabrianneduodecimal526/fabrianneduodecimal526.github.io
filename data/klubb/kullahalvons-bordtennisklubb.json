@@ -4,7 +4,7 @@
   "namn": "Kullahalvöns Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Kullahalvöns BTK",
@@ -241,6 +241,84 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 SSSV"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 3 SSSV",
+     "omgang": "Round 9",
+     "hemma": "Åstorps BTK: C",
+     "borta": "IFK Lund Bordtennis: C2",
+     "hemma_klubb": "Åstorps Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Hall 1",
+     "arrangor": "Kullahalvöns Bordtennisklubb",
+     "arrangorer": [
+      "Kullahalvöns Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 3 SSSV",
+     "omgang": "Round 9",
+     "hemma": "Varbergs BTK: B1",
+     "borta": "Kullahalvöns BTK",
+     "hemma_klubb": "Varbergs Bordtennisklubb",
+     "borta_klubb": "Kullahalvöns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kullahalvöns Bordtennisklubb",
+     "arrangorer": [
+      "Kullahalvöns Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 3 SSSV",
+     "omgang": "Round 10",
+     "hemma": "Åstorps BTK: C",
+     "borta": "Kullahalvöns BTK",
+     "hemma_klubb": "Åstorps Bordtennisklubb",
+     "borta_klubb": "Kullahalvöns Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Kullahalvöns Bordtennisklubb",
+     "arrangorer": [
+      "Kullahalvöns Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 3 SSSV",
+     "omgang": "Round 10",
+     "hemma": "Varbergs BTK: B1",
+     "borta": "IFK Lund Bordtennis: C2",
+     "hemma_klubb": "Varbergs Bordtennisklubb",
+     "borta_klubb": "IFK Lund Bordtennis",
+     "plats": "Hall 1",
+     "arrangor": "Kullahalvöns Bordtennisklubb",
+     "arrangorer": [
+      "Kullahalvöns Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 SSSV",

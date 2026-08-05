@@ -4,7 +4,7 @@
   "namn": "Heby Allmänna Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Heby AIF",
@@ -1165,6 +1165,616 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Heby"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 1",
+     "hemma": "Vassunda IF C1",
+     "borta": "Heby AIF C1",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 1",
+     "hemma": "IK Sirius BTK F1",
+     "borta": "Heby AIF C2",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 2",
+     "hemma": "Vassunda IF C1",
+     "borta": "IK Sirius BTK F1",
+     "hemma_klubb": "Vassunda Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 2",
+     "hemma": "Heby AIF C1",
+     "borta": "Heby AIF C2",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Heby"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 3",
+     "hemma": "Börje SK B",
+     "borta": "Vassunda IF C1",
+     "hemma_klubb": "Börje Sportklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 3",
+     "hemma": "Tärnsjö BTK B",
+     "borta": "Heby AIF C1",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 4",
+     "hemma": "Börje SK B",
+     "borta": "Heby AIF C1",
+     "hemma_klubb": "Börje Sportklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 4",
+     "hemma": "Tärnsjö BTK B",
+     "borta": "Vassunda IF C1",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Heby"
+   ],
+   "serier": [
+    "Division 5A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "10:00",
+     "serie": "Division 5A",
+     "omgang": "Round 5",
+     "hemma": "Stratos Enköping BTK D",
+     "borta": "Uppsala Life IF B",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "10:00",
+     "serie": "Division 5A",
+     "omgang": "Round 5",
+     "hemma": "Heby AIF B",
+     "borta": "Bålsta BTK A",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Bålsta Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "14:00",
+     "serie": "Division 5A",
+     "omgang": "Round 6",
+     "hemma": "Heby AIF B",
+     "borta": "Uppsala Life IF B",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Uppsala Life Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "14:00",
+     "serie": "Division 5A",
+     "omgang": "Round 6",
+     "hemma": "Stratos Enköping BTK D",
+     "borta": "Bålsta BTK A",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Bålsta Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-12",
+   "platser": [
+    "Heby"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 7",
+     "hemma": "Heby AIF C2",
+     "borta": "Vassunda IF C1",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 7",
+     "hemma": "Heby AIF C1",
+     "borta": "IK Sirius BTK F1",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 8",
+     "hemma": "Heby AIF C1",
+     "borta": "Vassunda IF C1",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Vassunda Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2026-12-12",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 8",
+     "hemma": "Heby AIF C2",
+     "borta": "IK Sirius BTK F1",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Heby"
+   ],
+   "serier": [
+    "Division 7A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 7",
+     "hemma": "Tärnsjö BTK C",
+     "borta": "Heby AIF D",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 7",
+     "hemma": "Sigtuna IF BTK B1",
+     "borta": "Skyttorps IF C1",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 8",
+     "hemma": "Sigtuna IF BTK B1",
+     "borta": "Heby AIF D",
+     "hemma_klubb": "Sigtuna IF Bordtennisklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 8",
+     "hemma": "Tärnsjö BTK C",
+     "borta": "Skyttorps IF C1",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Heby"
+   ],
+   "serier": [
+    "Division 7A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 9",
+     "hemma": "Gefle PK F",
+     "borta": "IK Sirius BTK G1",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "10:00",
+     "serie": "Division 7A",
+     "omgang": "Round 9",
+     "hemma": "Skyttorps IF C1",
+     "borta": "Heby AIF D",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 10",
+     "hemma": "Heby AIF D",
+     "borta": "Gefle PK F",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "13:00",
+     "serie": "Division 7A",
+     "omgang": "Round 10",
+     "hemma": "Skyttorps IF C1",
+     "borta": "IK Sirius BTK G1",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "Heby"
+   ],
+   "serier": [
+    "Division 6A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 9",
+     "hemma": "Tärnsjö BTK B",
+     "borta": "Stratos Enköping BTK E",
+     "hemma_klubb": "Tärnsjö Bordtennisklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "10:00",
+     "serie": "Division 6A",
+     "omgang": "Round 9",
+     "hemma": "Heby AIF C2",
+     "borta": "Heby AIF C1",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 10",
+     "hemma": "Heby AIF C1",
+     "borta": "Tärnsjö BTK B",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Tärnsjö Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "13:00",
+     "serie": "Division 6A",
+     "omgang": "Round 10",
+     "hemma": "Heby AIF C2",
+     "borta": "Stratos Enköping BTK E",
+     "hemma_klubb": "Heby Allmänna Idrottsförening",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1190/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Heby"
+   ],
+   "serier": [
+    "Division 5A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 5A",
+     "omgang": "Round 11",
+     "hemma": "Enköpings Pingisveteraner A",
+     "borta": "Heby AIF B",
+     "hemma_klubb": "Enköpings Pingisveteraner",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "10:00",
+     "serie": "Division 5A",
+     "omgang": "Round 11",
+     "hemma": "Bålsta BTK A",
+     "borta": "Sunnersta AIF C1",
+     "hemma_klubb": "Bålsta Bordtennisklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "14:00",
+     "serie": "Division 5A",
+     "omgang": "Round 12",
+     "hemma": "Enköpings Pingisveteraner A",
+     "borta": "Sunnersta AIF C1",
+     "hemma_klubb": "Enköpings Pingisveteraner",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "14:00",
+     "serie": "Division 5A",
+     "omgang": "Round 12",
+     "hemma": "Bålsta BTK A",
+     "borta": "Heby AIF B",
+     "hemma_klubb": "Bålsta Bordtennisklubb",
+     "borta_klubb": "Heby Allmänna Idrottsförening",
+     "plats": "Heby",
+     "arrangor": "Heby Allmänna Idrottsförening",
+     "arrangorer": [
+      "Heby Allmänna Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 NSNV",

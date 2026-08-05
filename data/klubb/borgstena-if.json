@@ -4,7 +4,7 @@
   "namn": "Borgstena IF"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Borgstena IF",
@@ -390,6 +390,176 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
+  }
+ ],
+ "arrangerar": [
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Arrangörens"
+   ],
+   "serier": [
+    "Södra 3"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "18:00",
+     "serie": "Södra 3",
+     "omgang": "Round 3",
+     "hemma": "Borgstena IF Mattias",
+     "borta": "Byttorps IF A2",
+     "hemma_klubb": "Borgstena IF",
+     "borta_klubb": "Byttorps Idrottsförening",
+     "plats": "Arrangörens",
+     "arrangor": "Borgstena IF",
+     "arrangorer": [
+      "Borgstena IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 VSS"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 3",
+     "hemma": "Kungälvs BTK: A1",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "Kungälvs Bordtennisklubb",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Borgstena IF",
+     "arrangorer": [
+      "Borgstena IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 3",
+     "hemma": "Lekstorps IF: B",
+     "borta": "Håcksviks IF",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Håcksviks Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Borgstena IF",
+     "arrangorer": [
+      "Borgstena IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 3",
+     "hemma": "Borgstena IF",
+     "borta": "BTK Linné: B",
+     "hemma_klubb": "Borgstena IF",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Hall 1",
+     "arrangor": "Borgstena IF",
+     "arrangorer": [
+      "Borgstena IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 3",
+     "hemma": "Alingsås PK",
+     "borta": "BTK Warta",
+     "hemma_klubb": "Alingsås Pingis Klubb",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Hall 1",
+     "arrangor": "Borgstena IF",
+     "arrangorer": [
+      "Borgstena IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 4",
+     "hemma": "Kungälvs BTK: A1",
+     "borta": "Håcksviks IF",
+     "hemma_klubb": "Kungälvs Bordtennisklubb",
+     "borta_klubb": "Håcksviks Idrottsförening",
+     "plats": "Hall 1",
+     "arrangor": "Borgstena IF",
+     "arrangorer": [
+      "Borgstena IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 4",
+     "hemma": "Lekstorps IF: B",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "Lekstorps Idrottsförening",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Borgstena IF",
+     "arrangorer": [
+      "Borgstena IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 4",
+     "hemma": "Borgstena IF",
+     "borta": "BTK Warta",
+     "hemma_klubb": "Borgstena IF",
+     "borta_klubb": "Bordtennisklubben Warta",
+     "plats": "Hall 1",
+     "arrangor": "Borgstena IF",
+     "arrangorer": [
+      "Borgstena IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 2 VSS",
+     "omgang": "Round 4",
+     "hemma": "Alingsås PK",
+     "borta": "BTK Linné: B",
+     "hemma_klubb": "Alingsås Pingis Klubb",
+     "borta_klubb": "Bordtennisklubben Linné",
+     "plats": "Hall 1",
+     "arrangor": "Borgstena IF",
+     "arrangorer": [
+      "Borgstena IF"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
+    }
+   ]
   }
  ],
  "tabeller": [

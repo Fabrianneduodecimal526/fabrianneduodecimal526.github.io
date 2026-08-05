@@ -4,12 +4,26 @@
   "namn": "Spårvägens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Spårvägens BTK",
    "serie": {
+    "namn": "Pingisligan (dam)"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Spårvägens BTK",
+   "serie": {
     "namn": "Pingisligan (herr)"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Spårvägens BTK: B",
+   "serie": {
+    "namn": "Div 1 Ö Herr"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
@@ -23,7 +37,28 @@
   {
    "namn": "Spårvägens BTK: C1",
    "serie": {
+    "namn": "Div 1 Ö Dam"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Spårvägens BTK: C1",
+   "serie": {
     "namn": "Div 2 ÖSN"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Spårvägens BTK: C2",
+   "serie": {
+    "namn": "Div 1 Ö Dam"
+   },
+   "stupa_url": "https://sbtfeventsott.stupaevents.com"
+  },
+  {
+   "namn": "Spårvägens BTK: C2",
+   "serie": {
+    "namn": "Div 2 NSS"
    },
    "stupa_url": "https://sbtfeventsott.stupaevents.com"
   },
@@ -394,6 +429,22 @@
   {
    "datum": "2026-09-20",
    "tid": "11:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 2",
+   "hemma": "Tibble-Kungsängen BTK",
+   "borta": "Spårvägens BTK",
+   "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
+   "arrangorer": [
+    "Tibble-Kungsängen Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+  },
+  {
+   "datum": "2026-09-20",
+   "tid": "11:00",
    "serie": "Superettan (dam)",
    "omgang": "Round 3",
    "hemma": "Lyckeby BTK",
@@ -601,6 +652,22 @@
   },
   {
    "datum": "2026-10-17",
+   "tid": "11:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 3",
+   "hemma": "Spårvägens BTK",
+   "borta": "Västers BTK",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Västers Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+  },
+  {
+   "datum": "2026-10-17",
    "tid": "15:00",
    "serie": "Div 1 Ö Dam",
    "omgang": "Round 4",
@@ -712,6 +779,22 @@
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
+   "datum": "2026-10-17",
+   "tid": "15:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 4",
+   "hemma": "Spårvägens BTK",
+   "borta": "Ängby SK",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Ängby Sportklubb",
+   "plats": "Hall 1",
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+  },
+  {
    "datum": "2026-10-18",
    "tid": "11:00",
    "serie": "Div 1 N Dam",
@@ -758,6 +841,22 @@
     "Spårvägens Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+  },
+  {
+   "datum": "2026-10-18",
+   "tid": "11:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 5",
+   "hemma": "Köpings BTK Dam",
+   "borta": "Spårvägens BTK",
+   "hemma_klubb": "Köpings BTK Dam",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
    "datum": "2026-10-18",
@@ -922,6 +1021,22 @@
   {
    "datum": "2026-11-14",
    "tid": "11:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 6",
+   "hemma": "Spårvägens BTK",
+   "borta": "Eslövs AI BTK: A2",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Eslövs AI Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "11:00",
    "serie": "Superettan (dam)",
    "omgang": "Round 5",
    "hemma": "Spårvägens BTK: B",
@@ -1018,6 +1133,22 @@
   {
    "datum": "2026-11-14",
    "tid": "15:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 7",
+   "hemma": "Våxtorps BOIS",
+   "borta": "Spårvägens BTK",
+   "hemma_klubb": "Våxtorps Boll O IS",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+  },
+  {
+   "datum": "2026-11-14",
+   "tid": "15:00",
    "serie": "Superettan (dam)",
    "omgang": "Round 6",
    "hemma": "IK Sirius/SUIF",
@@ -1110,6 +1241,22 @@
     "Linköpings Pingisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+  },
+  {
+   "datum": "2026-11-15",
+   "tid": "11:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 8",
+   "hemma": "Spårvägens BTK",
+   "borta": "Sjömarkens BTK",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Sjömarkens Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
    "datum": "2026-11-15",
@@ -1305,6 +1452,22 @@
   },
   {
    "datum": "2026-12-12",
+   "tid": "11:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 9",
+   "hemma": "Spårvägens BTK",
+   "borta": "Kosta SK",
+   "hemma_klubb": "Spårvägens Bordtennisklubb",
+   "borta_klubb": "Kosta Sportklubb",
+   "plats": "Hall 1",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
    "tid": "15:00",
    "serie": "Div 1 Ö Dam",
    "omgang": "Round 8",
@@ -1382,6 +1545,22 @@
     "Ängby Sportklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+  },
+  {
+   "datum": "2026-12-12",
+   "tid": "15:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 10",
+   "hemma": "Halmstad BTK",
+   "borta": "Spårvägens BTK",
+   "hemma_klubb": "Halmstad Bordtennisklubb",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -1462,6 +1641,22 @@
     "Spårvägens Bordtennisklubb"
    ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+  },
+  {
+   "datum": "2026-12-13",
+   "tid": "11:00",
+   "serie": "Pingisligan (dam)",
+   "omgang": "Round 11",
+   "hemma": "Eslövs AI BTK: A1",
+   "borta": "Spårvägens BTK",
+   "hemma_klubb": "Eslövs AI Bordtennisklubb",
+   "borta_klubb": "Spårvägens Bordtennisklubb",
+   "plats": "Hall 1",
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
    "datum": "2026-12-13",
@@ -2748,6 +2943,2131 @@
    "borta_poang": 0
   }
  ],
+ "arrangerar": [
+  {
+   "datum": "2026-09-19",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Superettan (dam)"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 1",
+     "hemma": "Spårvägens BTK: B",
+     "borta": "Lessebo BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Lessebo Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 1",
+     "hemma": "Lyckeby BTK",
+     "borta": "IK Sirius/SUIF",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 1",
+     "hemma": "IF Norcopensarna",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Idrottsföreningen Norcopensarna",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 1",
+     "hemma": "Kungsbacka BTK",
+     "borta": "Ängby SK: B",
+     "hemma_klubb": "Kungsbacka Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 2",
+     "hemma": "Lessebo BTK",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 2",
+     "hemma": "Jämjö BTK",
+     "borta": "Spårvägens BTK: B",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 2",
+     "hemma": "Ängby SK: B",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-19",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 2",
+     "hemma": "IK Sirius/SUIF",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Superettan (dam)"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 3",
+     "hemma": "Lessebo BTK",
+     "borta": "Ängby SK: B",
+     "hemma_klubb": "Lessebo Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 3",
+     "hemma": "Lyckeby BTK",
+     "borta": "Spårvägens BTK: B",
+     "hemma_klubb": "Lyckeby Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 3",
+     "hemma": "Kungsbacka BTK",
+     "borta": "IF Norcopensarna",
+     "hemma_klubb": "Kungsbacka Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "11:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 3",
+     "hemma": "Jämjö BTK",
+     "borta": "IK Sirius/SUIF",
+     "hemma_klubb": "Jämjö Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 4",
+     "hemma": "IK Sirius/SUIF",
+     "borta": "Lessebo BTK",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Lessebo Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 4",
+     "hemma": "Spårvägens BTK: B",
+     "borta": "Kungsbacka BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Kungsbacka Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 4",
+     "hemma": "Ängby SK: B",
+     "borta": "Jämjö BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Jämjö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "15:00",
+     "serie": "Superettan (dam)",
+     "omgang": "Round 4",
+     "hemma": "IF Norcopensarna",
+     "borta": "Lyckeby BTK",
+     "hemma_klubb": "Idrottsföreningen Norcopensarna",
+     "borta_klubb": "Lyckeby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-10-13",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 2",
+     "hemma": "Spårvägens BTK",
+     "borta": "Eskilstuna by STIGA",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 ÖSNÖ"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Norrtulls SK: C1",
+     "borta": "Stratos Enköping BTK: B",
+     "hemma_klubb": "Norrtulls Sportklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Sunnersta AIF: A1",
+     "borta": "Boo Racketklubb: B3",
+     "hemma_klubb": "Sunnersta Allmänna IF",
+     "borta_klubb": "Boo Racketklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNÖ",
+     "omgang": "Round 3",
+     "hemma": "Tibble-Kungsängens BTK: B",
+     "borta": "Spårvägens BTK: D3",
+     "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNÖ",
+     "omgang": "Round 3",
+     "hemma": "IFK Täby BTK",
+     "borta": "Hammarby IF BTF: C1",
+     "hemma_klubb": "IFK Täby Bordtennisklubb",
+     "borta_klubb": "Hammarby IF Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Stratos Enköping BTK: B",
+     "borta": "Hammarby IF BTF: C1",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Hammarby IF Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Spårvägens BTK: D3",
+     "borta": "IFK Täby BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "IFK Täby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Boo Racketklubb: B3",
+     "borta": "Tibble-Kungsängens BTK: B",
+     "hemma_klubb": "Boo Racketklubb",
+     "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNÖ",
+     "omgang": "Round 4",
+     "hemma": "Norrtulls SK: C1",
+     "borta": "Sunnersta AIF: A1",
+     "hemma_klubb": "Norrtulls Sportklubb",
+     "borta_klubb": "Sunnersta Allmänna IF",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-18",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 ÖSNV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 3",
+     "hemma": "Sundbyberg/Solna BTK",
+     "borta": "Tyresö BTK: B",
+     "hemma_klubb": "Solna Bordtennisklubb",
+     "borta_klubb": "Tyresö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 3",
+     "hemma": "Tullinge TP BTK",
+     "borta": "Hammarby IF BTF: C2",
+     "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "borta_klubb": "Hammarby IF Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 3",
+     "hemma": "Ängby SK: D",
+     "borta": "Norrtulls SK: C2",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Norrtulls Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 3",
+     "hemma": "Spårvägens BTK: D2",
+     "borta": "Boo Racketklubb: B1",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Boo Racketklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 4",
+     "hemma": "Tyresö BTK: B",
+     "borta": "Boo Racketklubb: B1",
+     "hemma_klubb": "Tyresö Bordtennisklubb",
+     "borta_klubb": "Boo Racketklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 4",
+     "hemma": "Norrtulls SK: C2",
+     "borta": "Spårvägens BTK: D2",
+     "hemma_klubb": "Norrtulls Sportklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 4",
+     "hemma": "Hammarby IF BTF: C2",
+     "borta": "Ängby SK: D",
+     "hemma_klubb": "Hammarby IF Bordtennisförening",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    },
+    {
+     "datum": "2026-10-18",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSNV",
+     "omgang": "Round 4",
+     "hemma": "Sundbyberg/Solna BTK",
+     "borta": "Tullinge TP BTK",
+     "hemma_klubb": "Solna Bordtennisklubb",
+     "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-10",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-11-10",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 4",
+     "hemma": "Spårvägens BTK",
+     "borta": "Söderhamns UIF",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Söderhamns Ungdomsgårds IF",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 NSS",
+    "Pingisligan (dam)"
+   ],
+   "antal": 14,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 5",
+     "hemma": "Spårvägens BTK: C2",
+     "borta": "IK Juno: A2",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Idrottsklubben Juno",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 5",
+     "hemma": "Bro IK",
+     "borta": "Norrtälje BTK: B",
+     "hemma_klubb": "Bro Idrottsklubb",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 5",
+     "hemma": "Norrtulls SK: B",
+     "borta": "IFK Österåkers BTK: B2",
+     "hemma_klubb": "Norrtulls Sportklubb",
+     "borta_klubb": "IFK Österåkers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 5",
+     "hemma": "KFUM Stocksund",
+     "borta": "Falu BTK",
+     "hemma_klubb": "KFUM Stocksund IA",
+     "borta_klubb": "Falu Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 6",
+     "hemma": "Köpings BTK Dam",
+     "borta": "Våxtorps BOIS",
+     "hemma_klubb": "Köpings BTK Dam",
+     "borta_klubb": "Våxtorps Boll O IS",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 6",
+     "hemma": "Ängby SK",
+     "borta": "Sjömarkens BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 6",
+     "hemma": "Spårvägens BTK",
+     "borta": "Eslövs AI BTK: A2",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Eslövs AI Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 6",
+     "hemma": "Spårvägens BTK: C2",
+     "borta": "IFK Österåkers BTK: B2",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "IFK Österåkers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 6",
+     "hemma": "KFUM Stocksund",
+     "borta": "Norrtälje BTK: B",
+     "hemma_klubb": "KFUM Stocksund IA",
+     "borta_klubb": "Norrtälje Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 6",
+     "hemma": "Norrtulls SK: B",
+     "borta": "IK Juno: A2",
+     "hemma_klubb": "Norrtulls Sportklubb",
+     "borta_klubb": "Idrottsklubben Juno",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 6",
+     "hemma": "Bro IK",
+     "borta": "Falu BTK",
+     "hemma_klubb": "Bro Idrottsklubb",
+     "borta_klubb": "Falu Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 7",
+     "hemma": "Eslövs AI BTK: A2",
+     "borta": "Ängby SK",
+     "hemma_klubb": "Eslövs AI Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 7",
+     "hemma": "Våxtorps BOIS",
+     "borta": "Spårvägens BTK",
+     "hemma_klubb": "Våxtorps Boll O IS",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 7",
+     "hemma": "Sjömarkens BTK",
+     "borta": "Köpings BTK Dam",
+     "hemma_klubb": "Sjömarkens Bordtennisklubb",
+     "borta_klubb": "Köpings BTK Dam",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-11-15",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 ÖSN",
+    "Pingisligan (dam)"
+   ],
+   "antal": 11,
+   "matcher": [
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 5",
+     "hemma": "IFK Lidingö BTK",
+     "borta": "Spårvägens BTK: C1",
+     "hemma_klubb": "IFK Lidingö Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 5",
+     "hemma": "Back BTK",
+     "borta": "Boo Racketklubb",
+     "hemma_klubb": "Back Bordtennisklubb",
+     "borta_klubb": "Boo Racketklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 5",
+     "hemma": "Ängby SK: C",
+     "borta": "Rotebro BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Rotebro Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 5",
+     "hemma": "Hammarby IF BTF: B",
+     "borta": "IFK Österåkers BTK: B1",
+     "hemma_klubb": "Hammarby IF Bordtennisförening",
+     "borta_klubb": "IFK Österåkers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 8",
+     "hemma": "Spårvägens BTK",
+     "borta": "Sjömarkens BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Sjömarkens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 8",
+     "hemma": "Eslövs AI BTK: A2",
+     "borta": "Köpings BTK Dam",
+     "hemma_klubb": "Eslövs AI Bordtennisklubb",
+     "borta_klubb": "Köpings BTK Dam",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "11:00",
+     "serie": "Pingisligan (dam)",
+     "omgang": "Round 8",
+     "hemma": "Ängby SK",
+     "borta": "Våxtorps BOIS",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Våxtorps Boll O IS",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 6",
+     "hemma": "Spårvägens BTK: C1",
+     "borta": "IFK Österåkers BTK: B1",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "IFK Österåkers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 6",
+     "hemma": "Rotebro BTK",
+     "borta": "Hammarby IF BTF: B",
+     "hemma_klubb": "Rotebro Bordtennisklubb",
+     "borta_klubb": "Hammarby IF Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 6",
+     "hemma": "Boo Racketklubb",
+     "borta": "Ängby SK: C",
+     "hemma_klubb": "Boo Racketklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2026-11-15",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 6",
+     "hemma": "IFK Lidingö BTK",
+     "borta": "Back BTK",
+     "hemma_klubb": "IFK Lidingö Bordtennisklubb",
+     "borta_klubb": "Back Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-08",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2026-12-08",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 6",
+     "hemma": "Spårvägens BTK",
+     "borta": "Halmstad BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Halmstad Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 1 Ö Herr",
+    "Div 3 ÖSSÖ"
+   ],
+   "antal": 16,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 1 Ö Herr",
+     "omgang": "Round 7",
+     "hemma": "Tyresö BTK",
+     "borta": "Västers BTK: B",
+     "hemma_klubb": "Tyresö Bordtennisklubb",
+     "borta_klubb": "Västers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 1 Ö Herr",
+     "omgang": "Round 7",
+     "hemma": "Linköpings PK",
+     "borta": "Katrineholms BTK",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Katrineholms Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 1 Ö Herr",
+     "omgang": "Round 7",
+     "hemma": "Ängby SK: B1",
+     "borta": "Stratos Enköping BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 1 Ö Herr",
+     "omgang": "Round 7",
+     "hemma": "Hammarby IF BTF",
+     "borta": "Spårvägens BTK: B",
+     "hemma_klubb": "Hammarby IF Bordtennisförening",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSÖ",
+     "omgang": "Round 7",
+     "hemma": "Västers BTK: D",
+     "borta": "Spårvägens BTK: D1",
+     "hemma_klubb": "Västers Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSÖ",
+     "omgang": "Round 7",
+     "hemma": "Linköpings PK: C1",
+     "borta": "Linköpings PK: C2",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Linköpings Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSÖ",
+     "omgang": "Round 7",
+     "hemma": "Södertälje BTK",
+     "borta": "Ljungsbro BTK: B",
+     "hemma_klubb": "Södertälje Bordtennisklubb",
+     "borta_klubb": "Ljungsbro Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSÖ",
+     "omgang": "Round 7",
+     "hemma": "Katrineholms BTK: B1",
+     "borta": "IF Norcopensarna: B",
+     "hemma_klubb": "Katrineholms Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 1 Ö Herr",
+     "omgang": "Round 8",
+     "hemma": "Västers BTK: B",
+     "borta": "Spårvägens BTK: B",
+     "hemma_klubb": "Västers Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 1 Ö Herr",
+     "omgang": "Round 8",
+     "hemma": "Hammarby IF BTF",
+     "borta": "Stratos Enköping BTK",
+     "hemma_klubb": "Hammarby IF Bordtennisförening",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 1 Ö Herr",
+     "omgang": "Round 8",
+     "hemma": "Ängby SK: B1",
+     "borta": "Katrineholms BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Katrineholms Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 1 Ö Herr",
+     "omgang": "Round 8",
+     "hemma": "Linköpings PK",
+     "borta": "Tyresö BTK",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Tyresö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSÖ",
+     "omgang": "Round 8",
+     "hemma": "Spårvägens BTK: D1",
+     "borta": "IF Norcopensarna: B",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Idrottsföreningen Norcopensarna",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSÖ",
+     "omgang": "Round 8",
+     "hemma": "Katrineholms BTK: B1",
+     "borta": "Ljungsbro BTK: B",
+     "hemma_klubb": "Katrineholms Bordtennisklubb",
+     "borta_klubb": "Ljungsbro Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSÖ",
+     "omgang": "Round 8",
+     "hemma": "Södertälje BTK",
+     "borta": "Linköpings PK: C2",
+     "hemma_klubb": "Södertälje Bordtennisklubb",
+     "borta_klubb": "Linköpings Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSÖ",
+     "omgang": "Round 8",
+     "hemma": "Linköpings PK: C1",
+     "borta": "Västers BTK: D",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Västers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-12",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-01-12",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 8",
+     "hemma": "Spårvägens BTK",
+     "borta": "BTK Rekord",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Rekord",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-16",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 1 Ö Dam"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 1 Ö Dam",
+     "omgang": "Round 9",
+     "hemma": "Norrtulls SK",
+     "borta": "Linköpings PK",
+     "hemma_klubb": "Norrtulls Sportklubb",
+     "borta_klubb": "Linköpings Pingisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 1 Ö Dam",
+     "omgang": "Round 9",
+     "hemma": "Solna BTK",
+     "borta": "Stratos Enköping BTK: A1",
+     "hemma_klubb": "Solna Bordtennisklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 1 Ö Dam",
+     "omgang": "Round 9",
+     "hemma": "Djurgårdens IF BTF: A2",
+     "borta": "Spårvägens BTK: C1",
+     "hemma_klubb": "Djurgårdens IF BTF",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "11:00",
+     "serie": "Div 1 Ö Dam",
+     "omgang": "Round 9",
+     "hemma": "Spårvägens BTK: C2",
+     "borta": "Ängby SK: C2",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 1 Ö Dam",
+     "omgang": "Round 10",
+     "hemma": "Linköpings PK",
+     "borta": "Spårvägens BTK: C2",
+     "hemma_klubb": "Linköpings Pingisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 1 Ö Dam",
+     "omgang": "Round 10",
+     "hemma": "Ängby SK: C2",
+     "borta": "Djurgårdens IF BTF: A2",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Djurgårdens IF BTF",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 1 Ö Dam",
+     "omgang": "Round 10",
+     "hemma": "Spårvägens BTK: C1",
+     "borta": "Solna BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Solna Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
+    },
+    {
+     "datum": "2027-01-16",
+     "tid": "15:00",
+     "serie": "Div 1 Ö Dam",
+     "omgang": "Round 10",
+     "hemma": "Stratos Enköping BTK: A1",
+     "borta": "Norrtulls SK",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Norrtulls Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 1 N Dam"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 9",
+     "hemma": "Stratos Enköping BTK: A2",
+     "borta": "Ängby SK: C1",
+     "hemma_klubb": "Stratos Enköping Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 9",
+     "hemma": "Spårvägens BTK: C3",
+     "borta": "IK Sirius/SUIF: B",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 9",
+     "hemma": "IFK Österåkers BTK",
+     "borta": "Djurgårdens IF BTF: A1",
+     "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+     "borta_klubb": "Djurgårdens IF BTF",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "11:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 9",
+     "hemma": "Umeå BTK",
+     "borta": "IFK Täby BTK",
+     "hemma_klubb": "Umeå Bordtennisklubb",
+     "borta_klubb": "IFK Täby Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 10",
+     "hemma": "Ängby SK: C1",
+     "borta": "Umeå BTK",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "Umeå Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 10",
+     "hemma": "IFK Täby BTK",
+     "borta": "IFK Österåkers BTK",
+     "hemma_klubb": "IFK Täby Bordtennisklubb",
+     "borta_klubb": "IFK Österåkers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 10",
+     "hemma": "Djurgårdens IF BTF: A1",
+     "borta": "Spårvägens BTK: C3",
+     "hemma_klubb": "Djurgårdens IF BTF",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "15:00",
+     "serie": "Div 1 N Dam",
+     "omgang": "Round 10",
+     "hemma": "IK Sirius/SUIF: B",
+     "borta": "Stratos Enköping BTK: A2",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Stratos Enköping Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-11",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-02-11",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 10",
+     "hemma": "Spårvägens BTK",
+     "borta": "Eslövs AI BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Eslövs AI Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 NSS"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 11",
+     "hemma": "IK Juno: A2",
+     "borta": "KFUM Stocksund",
+     "hemma_klubb": "Idrottsklubben Juno",
+     "borta_klubb": "KFUM Stocksund IA",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 11",
+     "hemma": "IFK Österåkers BTK: B2",
+     "borta": "Bro IK",
+     "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+     "borta_klubb": "Bro Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 11",
+     "hemma": "Falu BTK",
+     "borta": "Spårvägens BTK: C2",
+     "hemma_klubb": "Falu Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 11",
+     "hemma": "Norrtälje BTK: B",
+     "borta": "Norrtulls SK: B",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Norrtulls Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 12",
+     "hemma": "IK Juno: A2",
+     "borta": "Spårvägens BTK: C2",
+     "hemma_klubb": "Idrottsklubben Juno",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 12",
+     "hemma": "Norrtälje BTK: B",
+     "borta": "Bro IK",
+     "hemma_klubb": "Norrtälje Bordtennisklubb",
+     "borta_klubb": "Bro Idrottsklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 12",
+     "hemma": "IFK Österåkers BTK: B2",
+     "borta": "Norrtulls SK: B",
+     "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+     "borta_klubb": "Norrtulls Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 NSS",
+     "omgang": "Round 12",
+     "hemma": "Falu BTK",
+     "borta": "KFUM Stocksund",
+     "hemma_klubb": "Falu Bordtennisklubb",
+     "borta_klubb": "KFUM Stocksund IA",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 ÖSN"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 11",
+     "hemma": "Hammarby IF BTF: B",
+     "borta": "Spårvägens BTK: C1",
+     "hemma_klubb": "Hammarby IF Bordtennisförening",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 11",
+     "hemma": "Ängby SK: C",
+     "borta": "IFK Österåkers BTK: B1",
+     "hemma_klubb": "Ängby Sportklubb",
+     "borta_klubb": "IFK Österåkers Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 11",
+     "hemma": "Back BTK",
+     "borta": "Rotebro BTK",
+     "hemma_klubb": "Back Bordtennisklubb",
+     "borta_klubb": "Rotebro Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "11:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 11",
+     "hemma": "IFK Lidingö BTK",
+     "borta": "Boo Racketklubb",
+     "hemma_klubb": "IFK Lidingö Bordtennisklubb",
+     "borta_klubb": "Boo Racketklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 12",
+     "hemma": "Spårvägens BTK: C1",
+     "borta": "IFK Lidingö BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "IFK Lidingö Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 12",
+     "hemma": "Boo Racketklubb",
+     "borta": "Back BTK",
+     "hemma_klubb": "Boo Racketklubb",
+     "borta_klubb": "Back Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 12",
+     "hemma": "Rotebro BTK",
+     "borta": "Ängby SK: C",
+     "hemma_klubb": "Rotebro Bordtennisklubb",
+     "borta_klubb": "Ängby Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    },
+    {
+     "datum": "2027-02-14",
+     "tid": "15:00",
+     "serie": "Div 2 ÖSN",
+     "omgang": "Round 12",
+     "hemma": "IFK Österåkers BTK: B1",
+     "borta": "Hammarby IF BTF: B",
+     "hemma_klubb": "IFK Österåkers Bordtennisklubb",
+     "borta_klubb": "Hammarby IF Bordtennisförening",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-04",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Pingisligan (herr)"
+   ],
+   "antal": 1,
+   "matcher": [
+    {
+     "datum": "2027-03-04",
+     "tid": "18:30",
+     "serie": "Pingisligan (herr)",
+     "omgang": "Round 12",
+     "hemma": "Spårvägens BTK",
+     "borta": "Kosta SK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Kosta Sportklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-03-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 3 ÖSSV"
+   ],
+   "antal": 8,
+   "matcher": [
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 13",
+     "hemma": "BTK Kungsör",
+     "borta": "Nyköpings BTK",
+     "hemma_klubb": "Bordtennisklubben Kungsör",
+     "borta_klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 13",
+     "hemma": "Aga BTK: A2",
+     "borta": "Ålsta BTK",
+     "hemma_klubb": "Aga Bordtennisklubb",
+     "borta_klubb": "Ålsta Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 13",
+     "hemma": "Spårvägens BTK: D4",
+     "borta": "Hallstahammars BTK",
+     "hemma_klubb": "Spårvägens Bordtennisklubb",
+     "borta_klubb": "Hallstahammars Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "11:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 13",
+     "hemma": "Katrineholms BTK: B2",
+     "borta": "Västerås BTK: B",
+     "hemma_klubb": "Katrineholms Bordtennisklubb",
+     "borta_klubb": "Västerås Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 14",
+     "hemma": "Nyköpings BTK",
+     "borta": "Katrineholms BTK: B2",
+     "hemma_klubb": "Nyköping Oxelösund Bordtennisklubb",
+     "borta_klubb": "Katrineholms Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 14",
+     "hemma": "Västerås BTK: B",
+     "borta": "Spårvägens BTK: D4",
+     "hemma_klubb": "Västerås Bordtennisklubb",
+     "borta_klubb": "Spårvägens Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 14",
+     "hemma": "Hallstahammars BTK",
+     "borta": "Aga BTK: A2",
+     "hemma_klubb": "Hallstahammars Bordtennisklubb",
+     "borta_klubb": "Aga Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    },
+    {
+     "datum": "2027-03-13",
+     "tid": "15:00",
+     "serie": "Div 3 ÖSSV",
+     "omgang": "Round 14",
+     "hemma": "Ålsta BTK",
+     "borta": "BTK Kungsör",
+     "hemma_klubb": "Ålsta Bordtennisklubb",
+     "borta_klubb": "Bordtennisklubben Kungsör",
+     "plats": "Hall 1",
+     "arrangor": "Spårvägens Bordtennisklubb",
+     "arrangorer": [
+      "Spårvägens Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 1 N Dam",
@@ -3604,6 +5924,135 @@
      "placering": 8,
      "lag": "IF Norcopensarna: B",
      "klubb": "Idrottsföreningen Norcopensarna",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    }
+   ]
+  },
+  {
+   "serie": "Pingisligan (dam)",
+   "evenemang": "Nationellt seriespel 2026-2027",
+   "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7",
+   "startad": false,
+   "rader": [
+    {
+     "placering": 1,
+     "lag": "Eslövs AI BTK: A2",
+     "klubb": "Eslövs AI Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 2,
+     "lag": "Eslövs AI BTK: A1",
+     "klubb": "Eslövs AI Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 3,
+     "lag": "Tibble-Kungsängen BTK",
+     "klubb": "Tibble-Kungsängen Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 4,
+     "lag": "Köpings BTK Dam",
+     "klubb": "Köpings BTK Dam",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 5,
+     "lag": "Ängby SK",
+     "klubb": "Ängby Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 6,
+     "lag": "Västers BTK",
+     "klubb": "Västers Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 7,
+     "lag": "Sjömarkens BTK",
+     "klubb": "Sjömarkens Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 8,
+     "lag": "Kosta SK",
+     "klubb": "Kosta Sportklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 9,
+     "lag": "Halmstad BTK",
+     "klubb": "Halmstad Bordtennisklubb",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 10,
+     "lag": "Våxtorps BOIS",
+     "klubb": "Våxtorps Boll O IS",
+     "spelade": 0,
+     "vunna": 0,
+     "oavgjorda": 0,
+     "forlorade": 0,
+     "matchpoang": 0,
+     "setdiff": "0–0"
+    },
+    {
+     "placering": 11,
+     "lag": "Spårvägens BTK",
+     "klubb": "Spårvägens Bordtennisklubb",
      "spelade": 0,
      "vunna": 0,
      "oavgjorda": 0,

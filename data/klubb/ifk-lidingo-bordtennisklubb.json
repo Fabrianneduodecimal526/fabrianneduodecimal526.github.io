@@ -4,7 +4,7 @@
   "namn": "IFK Lidingö Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "IFK Lidingö BTK",
@@ -241,6 +241,7 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [],
  "tabeller": [
   {
    "serie": "Div 2 ÖSN",

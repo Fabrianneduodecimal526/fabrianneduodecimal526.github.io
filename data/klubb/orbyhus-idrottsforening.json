@@ -4,7 +4,7 @@
   "namn": "Örbyhus Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Örbyhus IF",
@@ -241,6 +241,160 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-09-20",
+   "platser": [
+    "Örbyhus"
+   ],
+   "serier": [
+    "Division 4A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-09-20",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 1",
+     "hemma": "IK Sirius BTK D1",
+     "borta": "Örbyhus IF",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Örbyhus Idrottsförening",
+     "plats": "Örbyhus",
+     "arrangor": "Örbyhus Idrottsförening",
+     "arrangorer": [
+      "Örbyhus Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 1",
+     "hemma": "KFUM Gävle BT B",
+     "borta": "Skyttorps IF A",
+     "hemma_klubb": "KFUM Gävle Bordtennis",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Örbyhus",
+     "arrangor": "Örbyhus Idrottsförening",
+     "arrangorer": [
+      "Örbyhus Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 2",
+     "hemma": "IK Sirius BTK D1",
+     "borta": "KFUM Gävle BT B",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "KFUM Gävle Bordtennis",
+     "plats": "Örbyhus",
+     "arrangor": "Örbyhus Idrottsförening",
+     "arrangorer": [
+      "Örbyhus Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-09-20",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 2",
+     "hemma": "Örbyhus IF",
+     "borta": "Skyttorps IF A",
+     "hemma_klubb": "Örbyhus Idrottsförening",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Örbyhus",
+     "arrangor": "Örbyhus Idrottsförening",
+     "arrangorer": [
+      "Örbyhus Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2026-12-13",
+   "platser": [
+    "Örbyhus"
+   ],
+   "serier": [
+    "Division 4A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 7",
+     "hemma": "IK Sirius BTK D1",
+     "borta": "Skyttorps IF A",
+     "hemma_klubb": "IK Sirius Bordtennisklubb",
+     "borta_klubb": "Skyttorps Idrottsförening",
+     "plats": "Örbyhus",
+     "arrangor": "Örbyhus Idrottsförening",
+     "arrangorer": [
+      "Örbyhus Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 7",
+     "hemma": "Örbyhus IF",
+     "borta": "KFUM Gävle BT B",
+     "hemma_klubb": "Örbyhus Idrottsförening",
+     "borta_klubb": "KFUM Gävle Bordtennis",
+     "plats": "Örbyhus",
+     "arrangor": "Örbyhus Idrottsförening",
+     "arrangorer": [
+      "Örbyhus Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 8",
+     "hemma": "Örbyhus IF",
+     "borta": "IK Sirius BTK D1",
+     "hemma_klubb": "Örbyhus Idrottsförening",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Örbyhus",
+     "arrangor": "Örbyhus Idrottsförening",
+     "arrangorer": [
+      "Örbyhus Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-12-13",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 8",
+     "hemma": "Skyttorps IF A",
+     "borta": "KFUM Gävle BT B",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "KFUM Gävle Bordtennis",
+     "plats": "Örbyhus",
+     "arrangor": "Örbyhus Idrottsförening",
+     "arrangorer": [
+      "Örbyhus Idrottsförening"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Division 4A",

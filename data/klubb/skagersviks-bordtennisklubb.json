@@ -4,7 +4,7 @@
   "namn": "Skagersviks Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "Skagersviks BTK",
@@ -241,6 +241,160 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-11-14",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 VSN"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 2 VSN",
+     "omgang": "Round 5",
+     "hemma": "Kils BTK",
+     "borta": "Munkedals BTK: B",
+     "hemma_klubb": "Kils Bordtennisklubb",
+     "borta_klubb": "Munkedals Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "11:00",
+     "serie": "Div 2 VSN",
+     "omgang": "Round 5",
+     "hemma": "Carlstads BTK",
+     "borta": "Skagersviks BTK",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Skagersviks Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 2 VSN",
+     "omgang": "Round 6",
+     "hemma": "Kils BTK",
+     "borta": "Skagersviks BTK",
+     "hemma_klubb": "Kils Bordtennisklubb",
+     "borta_klubb": "Skagersviks Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
+    },
+    {
+     "datum": "2026-11-14",
+     "tid": "15:00",
+     "serie": "Div 2 VSN",
+     "omgang": "Round 6",
+     "hemma": "Carlstads BTK",
+     "borta": "Munkedals BTK: B",
+     "hemma_klubb": "Carlstads Bordtennisklubb",
+     "borta_klubb": "Munkedals Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-02-13",
+   "platser": [
+    "Hall 1"
+   ],
+   "serier": [
+    "Div 2 VSN"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 VSN",
+     "omgang": "Round 11",
+     "hemma": "Skagersviks BTK",
+     "borta": "Kils BTK",
+     "hemma_klubb": "Skagersviks Bordtennisklubb",
+     "borta_klubb": "Kils Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "11:00",
+     "serie": "Div 2 VSN",
+     "omgang": "Round 11",
+     "hemma": "Munkedals BTK: B",
+     "borta": "Carlstads BTK",
+     "hemma_klubb": "Munkedals Bordtennisklubb",
+     "borta_klubb": "Carlstads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 VSN",
+     "omgang": "Round 12",
+     "hemma": "Munkedals BTK: B",
+     "borta": "Kils BTK",
+     "hemma_klubb": "Munkedals Bordtennisklubb",
+     "borta_klubb": "Kils Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
+    },
+    {
+     "datum": "2027-02-13",
+     "tid": "15:00",
+     "serie": "Div 2 VSN",
+     "omgang": "Round 12",
+     "hemma": "Skagersviks BTK",
+     "borta": "Carlstads BTK",
+     "hemma_klubb": "Skagersviks Bordtennisklubb",
+     "borta_klubb": "Carlstads Bordtennisklubb",
+     "plats": "Hall 1",
+     "arrangor": "Skagersviks Bordtennisklubb",
+     "arrangorer": [
+      "Skagersviks Bordtennisklubb"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 2 VSN",

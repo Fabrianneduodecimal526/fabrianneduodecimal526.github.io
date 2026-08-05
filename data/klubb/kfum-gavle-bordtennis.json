@@ -4,7 +4,7 @@
   "namn": "KFUM Gävle Bordtennis"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T10:14:24Z",
+ "uppdaterad": "2026-08-05T10:31:00Z",
  "lag": [
   {
    "namn": "KFUM Gävle BT",
@@ -472,6 +472,160 @@
   }
  ],
  "resultat": [],
+ "arrangerar": [
+  {
+   "datum": "2026-10-17",
+   "platser": [
+    "Gävle"
+   ],
+   "serier": [
+    "Division 4A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 3",
+     "hemma": "Skyttorps IF A",
+     "borta": "Sandvikens BTK A",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Sandvikens Bordtennisklubb",
+     "plats": "Gävle",
+     "arrangor": "KFUM Gävle Bordtennis",
+     "arrangorer": [
+      "KFUM Gävle Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 3",
+     "hemma": "KFUM Gävle BT B",
+     "borta": "Gefle PK C",
+     "hemma_klubb": "KFUM Gävle Bordtennis",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Gävle",
+     "arrangor": "KFUM Gävle Bordtennis",
+     "arrangorer": [
+      "KFUM Gävle Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 4",
+     "hemma": "Skyttorps IF A",
+     "borta": "Gefle PK C",
+     "hemma_klubb": "Skyttorps Idrottsförening",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Gävle",
+     "arrangor": "KFUM Gävle Bordtennis",
+     "arrangorer": [
+      "KFUM Gävle Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2026-10-17",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 4",
+     "hemma": "KFUM Gävle BT B",
+     "borta": "Sandvikens BTK A",
+     "hemma_klubb": "KFUM Gävle Bordtennis",
+     "borta_klubb": "Sandvikens Bordtennisklubb",
+     "plats": "Gävle",
+     "arrangor": "KFUM Gävle Bordtennis",
+     "arrangorer": [
+      "KFUM Gävle Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    }
+   ]
+  },
+  {
+   "datum": "2027-01-17",
+   "platser": [
+    "Gävle"
+   ],
+   "serier": [
+    "Division 4A"
+   ],
+   "antal": 4,
+   "matcher": [
+    {
+     "datum": "2027-01-17",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 9",
+     "hemma": "KFUM Gävle BT B",
+     "borta": "IK Sirius BTK D1",
+     "hemma_klubb": "KFUM Gävle Bordtennis",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Gävle",
+     "arrangor": "KFUM Gävle Bordtennis",
+     "arrangorer": [
+      "KFUM Gävle Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "10:00",
+     "serie": "Division 4A",
+     "omgang": "Round 9",
+     "hemma": "Öregrunds IK A",
+     "borta": "Gefle PK C",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "Gefle Pingisklubb",
+     "plats": "Gävle",
+     "arrangor": "KFUM Gävle Bordtennis",
+     "arrangorer": [
+      "KFUM Gävle Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 10",
+     "hemma": "Gefle PK C",
+     "borta": "KFUM Gävle BT B",
+     "hemma_klubb": "Gefle Pingisklubb",
+     "borta_klubb": "KFUM Gävle Bordtennis",
+     "plats": "Gävle",
+     "arrangor": "KFUM Gävle Bordtennis",
+     "arrangorer": [
+      "KFUM Gävle Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    },
+    {
+     "datum": "2027-01-17",
+     "tid": "14:00",
+     "serie": "Division 4A",
+     "omgang": "Round 10",
+     "hemma": "Öregrunds IK A",
+     "borta": "IK Sirius BTK D1",
+     "hemma_klubb": "Öregrunds Idrottsklubb",
+     "borta_klubb": "IK Sirius Bordtennisklubb",
+     "plats": "Gävle",
+     "arrangor": "KFUM Gävle Bordtennis",
+     "arrangorer": [
+      "KFUM Gävle Bordtennis"
+     ],
+     "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
+    }
+   ]
+  }
+ ],
  "tabeller": [
   {
    "serie": "Div 3 NSNV",
