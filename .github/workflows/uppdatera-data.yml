@@ -43,7 +43,9 @@ jobs:
         run: |
           antal=$(python3 -c "import json;print(len(json.load(open('data/index.json'))['klubbar']))")
           echo "Antal klubbar: $antal"
-          if [ "$antal" -lt 20 ]; then
+          # Normalläget i augusti 2026 är 177 klubbar. Höj gränsen när fler
+          # distrikt publicerat sitt seriespel.
+          if [ "$antal" -lt 150 ]; then
             echo "::error::Bara $antal klubbar hittades — misstänkt lågt. Avbryter."
             exit 1
           fi

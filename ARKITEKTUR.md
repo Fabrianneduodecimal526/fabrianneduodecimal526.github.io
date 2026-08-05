@@ -213,9 +213,36 @@ plus *Nationellt seriespel 2026-2027*, id 417) och 264 turneringar. För
 Nordöstra Svealand (id 435) ger kedjan **560 matcher, 10 divisioner och
 24 klubbar** på ungefär tio HTTP-anrop.
 
-Notera att evenemangslistan även innehåller uppenbara testposter
-(*"Malin gör en till serie"*, *"TEST TEST NBTF distriktsserier"*). Dessa bör
-filtreras bort innan publicering.
+### Testdata är rikligt och ibland välkamouflerat
+
+200 av 278 evenemang i den publika listan är utvecklings- eller testdata.
+Filtret bygger på tre kriterier, alla nödvändiga:
+
+1. `published` måste vara sant — opublicerade evenemang syns inte på STUPA:s
+   egen sajt heller.
+2. `event_level` får inte vara `"Testtävling"`.
+3. Namnet får inte innehålla `test` som eget ord.
+
+Punkt 2 är den viktiga och den lättaste att avfärda, eftersom namnen kan se
+fullt trovärdiga ut. *"Bästkustens BTF 26/27"* passerar kriterium 1 och 3, och
+låter som vilket distrikt som helst. Men SBTF har exakt 15
+specialdistriktsförbund, och Bästkusten är inte ett av dem. Lagen i serien
+heter *"Bärke Test"*, *"Carlstad Test"*, *"Lag A"*, *"Lag B"*, och klubbarna är
+hopplockade från sju orelaterade distrikt.
+
+Hämtaren varnar därför när ett evenemang med `event_level` som börjar på
+"Distrikt" inte matchar något av de 15 förbunden i SBTF:s officiella lista.
+
+### Två fallgropar i matchdatan
+
+**`score_published` betyder inte att matchen är spelad.** Det är en
+inställning på divisionsnivå och är `True` även för matcher som ligger ett år
+fram i tiden. Använd `status == "COMPLETED"` eller förekomsten av `winner`.
+
+**Placeringarna i `group_matrix` är seedning innan första omgången.** En
+ospelad serie returnerar rank 1–8 med idel nollor, vilket ser ut som en riktig
+tabell. Hämtaren sätter därför flaggan `startad`, och frontenden visar en
+deltagarlista i stället för en tabell när serien inte börjat.
 
 ## Förhållande till `thelinkan/bt-serier`
 

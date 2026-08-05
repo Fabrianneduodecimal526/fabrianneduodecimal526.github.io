@@ -52,30 +52,72 @@ Se `ARKITEKTUR.md` för API-referensen: endpoints, datakedjan, hur URL-segmenten
 i `/events/435/1186/2/7/7` ska tolkas, och varför klubbtillhörighet inte behöver
 gissas fram.
 
-## Medföljande exempeldata
+## Publicera
 
-`data/` innehåller ett litet urval verklig data från Nordöstra Svealands
-BTF 26/27 (24 klubbar i indexet, en komplett klubbfil för Heby AIF) så att
-frontenden går att köra direkt. Kör hämtaren för att ersätta den med allt.
+Skapa ett publikt repo som heter `stupainte` på kontot `etxgmg`, och kör:
+
+```bash
+git remote add origin https://github.com/etxgmg/stupainte.git
+git push -u origin main
+```
+
+Slå sedan på GitHub Pages under **Settings → Pages**: källa `main` / `(root)`.
+Sidan hamnar på `https://etxgmg.github.io/stupainte`.
+
+Workflowet börjar köra av sig självt kl 04 varje natt. Det går också att
+starta manuellt under **Actions → Uppdatera data → Run workflow**.
+
+## Innehåll just nu
+
+Hämtat 2026-08-05 från sex publicerade seriespel:
+
+| Evenemang | Matcher |
+| --------- | ------- |
+| Nationellt seriespel 2026-2027 | 2131 |
+| Nordöstra Svealands BTF 26/27 | 560 |
+| Lag-SM 2026 | 165 |
+| Nordvästra Götalands BTF 25/26 | 40 |
+| Nationellt kvalspel 2026 | 35 |
+| Pingisligan by STIGA Slutspel | 18 |
+
+Totalt **177 klubbar, 2949 matcher, 68 serier** — plus 72 turneringar.
+
+Nio av SBTF:s femton distrikt saknas, för att de ännu inte publicerat sitt
+seriespel för 26/27 i STUPA. De dyker upp automatiskt när de gör det.
+
+## Om testdata i STUPA
+
+STUPA:s publika evenemangslista blandar skarpa serier med utvecklings- och
+testdata. `hamta.py` filtrerar på tre kriterier: `published`,
+`event_level != "Testtävling"` och att namnet inte innehåller "test" som eget
+ord. 200 av 278 evenemang faller bort.
+
+Var särskilt uppmärksam på att namn kan se helt trovärdiga ut.
+*"Bästkustens BTF 26/27"* låter som ett distrikt, men SBTF har bara 15
+specialdistriktsförbund och Bästkusten är inte ett av dem — lagen i den serien
+heter "Bärke Test", "Lag A", "Lag B", och klubbarna är hopplockade från sju
+orelaterade distrikt. Lita på `event_level`-flaggan hellre än på namnet.
+
+Hämtaren varnar när ett distriktsevenemang inte matchar något av de 15 SDF:en.
 
 ## Status
 
 Klart:
 
 - Frontenden — klubbsökning, fyra flikar, mobilanpassad, mörkt läge, sparar
-  klubbval lokalt. 18 automatiska kontroller passerar.
-- Hämtaren — går via API:et, ingen Playwright.
+  klubbval lokalt. 16 automatiska kontroller mot skarp data passerar.
+- Hämtaren — går via API:et, ingen Playwright. Filtrerar testdata och städar
+  bort klubbfiler från evenemang som försvunnit.
 - Workflowet — schemalagt, med skyddsnät mot att skriva över fungerande data
   om STUPA ändrar sitt API.
 
 Kvar:
 
-- Filtrera bort testevenemang ur `get_events` (`"Malin gör en till serie"`,
-  `"TEST TEST NBTF distriktsserier"`).
-- Turneringsdelen hämtar bara namn och datum. Anmälningsstatus och
-  deltagarlistor kräver `get_event_participants` respektive
-  `bookings/{event_id}/get_registered_players`.
-- Spelade resultat är obeprövade — säsongen 26/27 har inte börjat, så inga
-  avgjorda matcher finns att testa mot ännu.
-- Rimlighetskontrollen i workflowet är satt till minst 20 klubbar. Justera
-  när du vet hur många det blir när hela landet hämtas.
+- Turneringarna saknar ort. `event_venues` returnerade inget för de
+  turneringar som testats — fältet finns antagligen på en annan endpoint.
+- Turneringslistan är rikstäckande och identisk för alla klubbar. Den borde
+  filtreras på distrikt eller geografi.
+- Spelade resultat är tunt beprövade — bara en handfull avgjorda matcher finns
+  i datan (Lag-SM 2026). Värt att kontrollera igen när säsongen dragit igång.
+- Rimlighetskontrollen i workflowet kräver minst 20 klubbar. Höj den till
+  runt 150 nu när det normala är 177.
