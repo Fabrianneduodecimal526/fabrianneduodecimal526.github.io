@@ -113,14 +113,6 @@ Klart:
 
 Kvar:
 
-- **Arrangör saknas.** STUPA:s egen sida visar en arrangörskolumn med
-  klubbnamn, men uppgiften finns inte i matchobjektet från
-  `get_group_matches` — den härleds någon annanstans. Fältet `arrangor`
-  är därför `null`, och badgen "Vi arrangerar" visas aldrig.
-  En möjlig genväg: lokalnamnen sammanfaller ofta med arrangörens ort
-  ("Örbyhus" → Örbyhus IF, "Öregrund" → Öregrunds IK). Det vore dock en
-  gissning, och den sortens namnmatchning är precis vad API:et annars
-  gör onödig — så den är medvetet inte implementerad.
 - Turneringarna saknar ort. `event_venues` ger bara lokalnamn, ingen ort.
 - Turneringslistan är rikstäckande och identisk för alla klubbar. Den borde
   filtreras på distrikt eller geografi.

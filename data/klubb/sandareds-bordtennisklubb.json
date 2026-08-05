@@ -4,7 +4,7 @@
   "namn": "Sandareds Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Sandareds BTK",
@@ -39,7 +39,10 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Rudalens Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Rudalens Idrottsförening",
+   "arrangorer": [
+    "Rudalens Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -52,7 +55,10 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7"
   },
   {
@@ -65,7 +71,10 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Horreds Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7"
   },
   {
@@ -78,7 +87,10 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Horreds Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7"
   },
   {
@@ -91,7 +103,10 @@
    "hemma_klubb": "Kågeröds Bordtennisklubb",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -104,7 +119,10 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Kågeröds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -117,7 +135,10 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -130,7 +151,10 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -143,7 +167,10 @@
    "hemma_klubb": "Laholms Bordtennisklubb Serve",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Laholms Bordtennisklubb Serve",
+   "arrangorer": [
+    "Laholms Bordtennisklubb Serve"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -156,7 +183,10 @@
    "hemma_klubb": "Rudalens Idrottsförening",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -169,7 +199,10 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Kågeröds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Sandareds Bordtennisklubb",
+   "arrangorer": [
+    "Sandareds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -182,7 +215,10 @@
    "hemma_klubb": "Kågeröds Bordtennisklubb",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -195,7 +231,10 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -208,7 +247,10 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   },
   {
@@ -221,7 +263,10 @@
    "hemma_klubb": "Sandareds Bordtennisklubb",
    "borta_klubb": "Laholms Bordtennisklubb Serve",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1127/2/7/7"
   }
  ],
@@ -236,7 +281,10 @@
    "hemma_klubb": "Byttorps Idrottsförening",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": null,
-   "arrangor": null,
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -251,7 +299,10 @@
    "hemma_klubb": "Kinna Bordtennisklubb",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -266,7 +317,10 @@
    "hemma_klubb": "Hyssna Bordtennisklubb",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Hyssna Bordtennisklubb",
+   "arrangorer": [
+    "Hyssna Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -281,7 +335,10 @@
    "hemma_klubb": "Byttorps Idrottsförening",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

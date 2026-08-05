@@ -4,7 +4,7 @@
   "namn": "Spårvägens Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Spårvägens BTK",
@@ -81,7 +81,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -94,7 +97,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -107,7 +113,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -120,7 +129,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -133,7 +145,10 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -146,7 +161,10 @@
    "hemma_klubb": "Katrineholms Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -159,7 +177,10 @@
    "hemma_klubb": "Rotebro Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -172,7 +193,10 @@
    "hemma_klubb": "Idrottsföreningen Norcopensarna",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -185,7 +209,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Lessebo Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -198,7 +225,10 @@
    "hemma_klubb": "Tyresö Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -211,7 +241,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -224,7 +257,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -237,7 +273,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -250,7 +289,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -263,7 +305,10 @@
    "hemma_klubb": "Nyköping Oxelösund Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -276,7 +321,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -289,7 +337,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Linköpings Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -302,7 +353,10 @@
    "hemma_klubb": "Jämjö Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -315,7 +369,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -328,7 +385,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -341,7 +401,10 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -354,7 +417,10 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -367,7 +433,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -380,7 +449,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Kungsbacka Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -393,7 +465,10 @@
    "hemma_klubb": "Bordtennisklubben Rekord",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -406,7 +481,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -419,7 +497,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Linköpings Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -432,7 +513,10 @@
    "hemma_klubb": "Solna Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -445,7 +529,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -458,7 +545,10 @@
    "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -471,7 +561,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Aga Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hallstahammars Bordtennisklubb",
+   "arrangorer": [
+    "Hallstahammars Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -484,7 +577,10 @@
    "hemma_klubb": "Boo Racketklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -497,7 +593,10 @@
    "hemma_klubb": "Ljungsbro Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Katrineholms Bordtennisklubb",
+   "arrangorer": [
+    "Katrineholms Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -510,7 +609,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -523,7 +625,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -536,7 +641,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Falu Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -549,7 +657,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "IFK Täby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -562,7 +673,10 @@
    "hemma_klubb": "Bordtennisklubben Kungsör",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hallstahammars Bordtennisklubb",
+   "arrangorer": [
+    "Hallstahammars Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -575,7 +689,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -588,7 +705,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Södertälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Katrineholms Bordtennisklubb",
+   "arrangorer": [
+    "Katrineholms Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -601,7 +721,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -614,7 +737,10 @@
    "hemma_klubb": "Katrineholms Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -627,7 +753,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Boo Racketklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -640,7 +769,10 @@
    "hemma_klubb": "IFK Täby Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -653,7 +785,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Tyresö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -666,7 +801,10 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -679,7 +817,10 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -692,7 +833,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -705,7 +849,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -718,7 +865,10 @@
    "hemma_klubb": "Solna Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -731,7 +881,10 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -744,7 +897,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Idrottsklubben Juno",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -757,7 +913,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Ålsta Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -770,7 +929,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -783,7 +945,10 @@
    "hemma_klubb": "Solna Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -796,7 +961,10 @@
    "hemma_klubb": "Linköpings Pingisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -809,7 +977,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -822,7 +993,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -835,7 +1009,10 @@
    "hemma_klubb": "Hallstahammars Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -848,7 +1025,10 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -861,7 +1041,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -874,7 +1057,10 @@
    "hemma_klubb": "Linköpings Pingisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -887,7 +1073,10 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
+   "arrangorer": [
+    "Tibble-Kungsängen Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -900,7 +1089,10 @@
    "hemma_klubb": "IFK Lidingö Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -913,7 +1105,10 @@
    "hemma_klubb": "Linköpings Pingisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -926,7 +1121,10 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -939,7 +1137,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -952,7 +1153,10 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
+   "arrangorer": [
+    "Tibble-Kungsängen Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -965,7 +1169,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -978,7 +1185,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Katrineholms Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -991,7 +1201,10 @@
    "hemma_klubb": "Kosta Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kosta Sportklubb",
+   "arrangorer": [
+    "Kosta Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -1004,7 +1217,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -1017,7 +1233,10 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1030,7 +1249,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1043,7 +1265,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "KFUM Stocksund IA",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1056,7 +1281,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Katrineholms Bordtennisklubb",
+   "arrangorer": [
+    "Katrineholms Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -1069,7 +1297,10 @@
    "hemma_klubb": "Back Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -1082,7 +1313,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1095,7 +1329,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1108,7 +1345,10 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1121,7 +1361,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Katrineholms Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Katrineholms Bordtennisklubb",
+   "arrangorer": [
+    "Katrineholms Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -1134,7 +1377,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Rotebro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -1147,7 +1393,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -1160,7 +1409,10 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -1173,7 +1425,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Norrtulls Sportklubb",
+   "arrangorer": [
+    "Norrtulls Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -1186,7 +1441,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Boo Racketklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -1199,7 +1457,10 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -1212,7 +1473,10 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -1225,7 +1489,10 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -1238,7 +1505,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Norrtulls Sportklubb",
+   "arrangorer": [
+    "Norrtulls Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -1251,7 +1521,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -1264,7 +1537,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen Norcopensarna",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -1277,7 +1553,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Rekord",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -1290,7 +1569,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Tyresö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -1303,7 +1585,10 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1316,7 +1601,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1329,7 +1617,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bro Idrottsklubb",
+   "arrangorer": [
+    "Bro Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1342,7 +1633,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Nyköping Oxelösund Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Aga Bordtennisklubb",
+   "arrangorer": [
+    "Aga Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -1355,7 +1649,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -1368,7 +1665,10 @@
    "hemma_klubb": "Linköpings Pingisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Södertälje Bordtennisklubb",
+   "arrangorer": [
+    "Södertälje Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -1381,7 +1681,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen Norcopensarna",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -1394,7 +1697,10 @@
    "hemma_klubb": "Boo Racketklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -1407,7 +1713,10 @@
    "hemma_klubb": "Linköpings Pingisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1420,7 +1729,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Solna Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1433,7 +1745,10 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bro Idrottsklubb",
+   "arrangorer": [
+    "Bro Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1446,7 +1761,10 @@
    "hemma_klubb": "Aga Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Aga Bordtennisklubb",
+   "arrangorer": [
+    "Aga Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -1459,7 +1777,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Boo Racketklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -1472,7 +1793,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Ljungsbro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Södertälje Bordtennisklubb",
+   "arrangorer": [
+    "Södertälje Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -1485,7 +1809,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -1498,7 +1825,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -1511,7 +1841,10 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -1524,7 +1857,10 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -1537,7 +1873,10 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -1550,7 +1889,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Katrineholms Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -1563,7 +1905,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -1576,7 +1921,10 @@
    "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linden Bordtennisklubb Eskilstuna",
+   "arrangorer": [
+    "Linden Bordtennisklubb Eskilstuna"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -1589,7 +1937,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -1602,7 +1953,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "IFK Täby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -1615,7 +1969,10 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1628,7 +1985,10 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1641,7 +2001,10 @@
    "hemma_klubb": "Falu Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1654,7 +2017,10 @@
    "hemma_klubb": "IFK Täby Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
+   "arrangorer": [
+    "Tibble-Kungsängen Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -1667,7 +2033,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Kungsör",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -1680,7 +2049,10 @@
    "hemma_klubb": "Södertälje Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -1693,7 +2065,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -1706,7 +2081,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -1719,7 +2097,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Solna Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1732,7 +2113,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1745,7 +2129,10 @@
    "hemma_klubb": "Idrottsklubben Juno",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1758,7 +2145,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
+   "arrangorer": [
+    "Tibble-Kungsängen Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -1771,7 +2161,10 @@
    "hemma_klubb": "Ålsta Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -1784,7 +2177,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Linköpings Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -1797,7 +2193,10 @@
    "hemma_klubb": "Idrottsföreningen Norcopensarna",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -1810,7 +2209,10 @@
    "hemma_klubb": "Tyresö Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -1823,7 +2225,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -1836,7 +2241,10 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -1849,7 +2257,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Linköpings Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -1862,7 +2273,10 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -1875,7 +2289,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "IFK Lidingö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -1888,7 +2305,10 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -1901,7 +2321,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Kosta Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -1914,7 +2337,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -1927,7 +2353,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Linköpings Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1940,7 +2369,10 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -1953,7 +2385,10 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -1966,7 +2401,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -1979,7 +2417,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Hallstahammars Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -1992,7 +2433,10 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -2005,7 +2449,10 @@
    "hemma_klubb": "Katrineholms Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -2018,7 +2465,10 @@
    "hemma_klubb": "Kungsbacka Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lessebo Bordtennisklubb",
+   "arrangorer": [
+    "Lessebo Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -2031,7 +2481,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -2044,7 +2497,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1126/2/7/7"
   },
   {
@@ -2057,7 +2513,10 @@
    "hemma_klubb": "KFUM Stocksund IA",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -2070,7 +2529,10 @@
    "hemma_klubb": "Boo Racketklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1165/2/7/7"
   },
   {
@@ -2083,7 +2545,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -2096,7 +2561,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Back Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -2109,7 +2577,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1166/2/7/7"
   },
   {
@@ -2122,7 +2593,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lessebo Bordtennisklubb",
+   "arrangorer": [
+    "Lessebo Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -2135,7 +2609,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -2148,7 +2625,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -2161,7 +2641,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Solna Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+   "arrangorer": [
+    "Tullinge Triangelpojkar Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -2174,7 +2657,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Jämjö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lessebo Bordtennisklubb",
+   "arrangorer": [
+    "Lessebo Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   },
   {
@@ -2187,7 +2673,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -2200,7 +2689,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1146/2/7/7"
   },
   {
@@ -2213,7 +2705,10 @@
    "hemma_klubb": "Tullinge Triangelpojkar Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Tullinge Triangelpojkar Bordtennisklubb",
+   "arrangorer": [
+    "Tullinge Triangelpojkar Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1167/2/7/7"
   },
   {
@@ -2226,7 +2721,10 @@
    "hemma_klubb": "Lessebo Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lessebo Bordtennisklubb",
+   "arrangorer": [
+    "Lessebo Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1117/2/7/7"
   }
  ],
@@ -2241,7 +2739,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Liljeholmshallen",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/940/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

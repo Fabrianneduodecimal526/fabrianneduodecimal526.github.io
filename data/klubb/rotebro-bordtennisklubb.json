@@ -4,7 +4,7 @@
   "namn": "Rotebro Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Rotebro BTK",
@@ -25,7 +25,10 @@
    "hemma_klubb": "Rotebro Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -38,7 +41,10 @@
    "hemma_klubb": "Rotebro Bordtennisklubb",
    "borta_klubb": "Boo Racketklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -51,7 +57,10 @@
    "hemma_klubb": "IFK Lidingö Bordtennisklubb",
    "borta_klubb": "Rotebro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -64,7 +73,10 @@
    "hemma_klubb": "Rotebro Bordtennisklubb",
    "borta_klubb": "Back Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -77,7 +89,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Rotebro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -90,7 +105,10 @@
    "hemma_klubb": "Rotebro Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -103,7 +121,10 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Rotebro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -116,7 +137,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Rotebro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -129,7 +153,10 @@
    "hemma_klubb": "Boo Racketklubb",
    "borta_klubb": "Rotebro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -142,7 +169,10 @@
    "hemma_klubb": "Rotebro Bordtennisklubb",
    "borta_klubb": "IFK Lidingö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -155,7 +185,10 @@
    "hemma_klubb": "Back Bordtennisklubb",
    "borta_klubb": "Rotebro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -168,7 +201,10 @@
    "hemma_klubb": "Rotebro Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -181,7 +217,10 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Rotebro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   },
   {
@@ -194,7 +233,10 @@
    "hemma_klubb": "Rotebro Bordtennisklubb",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1155/2/7/7"
   }
  ],

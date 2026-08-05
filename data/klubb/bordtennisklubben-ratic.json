@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Ratic"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "BTK Ratic",
@@ -25,7 +25,10 @@
    "hemma_klubb": "Bordtennisklubben Ratic",
    "borta_klubb": "Varbergs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -38,7 +41,10 @@
    "hemma_klubb": "Bordtennisklubben Ratic",
    "borta_klubb": "Malmö Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -51,7 +57,10 @@
    "hemma_klubb": "Bordtennisklubben Ratic",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -64,7 +73,10 @@
    "hemma_klubb": "Bordtennisklubben Ratic",
    "borta_klubb": "Trelleborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -77,7 +89,10 @@
    "hemma_klubb": "Bordtennisklubben Ratic",
    "borta_klubb": "Kågeröds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Ratic",
+   "arrangorer": [
+    "Bordtennisklubben Ratic"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -90,7 +105,10 @@
    "hemma_klubb": "Bordtennisklubben Ratic",
    "borta_klubb": "Åstorps Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Ratic",
+   "arrangorer": [
+    "Bordtennisklubben Ratic"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -103,7 +121,10 @@
    "hemma_klubb": "Bordtennisklubben Ratic",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -116,7 +137,10 @@
    "hemma_klubb": "Varbergs Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -129,7 +153,10 @@
    "hemma_klubb": "Malmö Idrottsförening",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -142,7 +169,10 @@
    "hemma_klubb": "IFK Lund Bordtennis",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Malmö Idrottsförening",
+   "arrangorer": [
+    "Malmö Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -155,7 +185,10 @@
    "hemma_klubb": "Trelleborgs Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -168,7 +201,10 @@
    "hemma_klubb": "Kågeröds Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -181,7 +217,10 @@
    "hemma_klubb": "Åstorps Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   },
   {
@@ -194,7 +233,10 @@
    "hemma_klubb": "IFK Lund Bordtennis",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1160/2/7/7"
   }
  ],
@@ -209,7 +251,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Håcksvikshallen",
-   "arrangor": null,
+   "arrangor": "Håcksviks Idrottsförening",
+   "arrangorer": [
+    "Håcksviks Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/944/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -224,7 +269,10 @@
    "hemma_klubb": "Bordtennisklubben Ratic",
    "borta_klubb": "Västerviks Bordtennisklubb",
    "plats": "Håcksvikshallen",
-   "arrangor": null,
+   "arrangor": "Håcksviks Idrottsförening",
+   "arrangorer": [
+    "Håcksviks Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/944/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1

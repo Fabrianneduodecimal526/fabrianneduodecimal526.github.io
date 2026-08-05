@@ -4,7 +4,7 @@
   "namn": "Karlsborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Karlsborgs BTK",
@@ -25,7 +25,10 @@
    "hemma_klubb": "Kristinehamns Bordtennisförening",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Karlsborgs Bordtennisklubb",
+   "arrangorer": [
+    "Karlsborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
   },
   {
@@ -38,7 +41,10 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Karlsborgs Bordtennisklubb",
+   "arrangorer": [
+    "Karlsborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
   },
   {
@@ -51,7 +57,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "Carlstads Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Karlsborgs Bordtennisklubb",
+   "arrangorer": [
+    "Karlsborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
   },
   {
@@ -64,7 +73,10 @@
    "hemma_klubb": "Götene/Tor Bordtennisklubb",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -77,7 +89,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "Blikstorps Allmänna IK",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -90,7 +105,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "IFK Lidköping",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Karlsborgs Bordtennisklubb",
+   "arrangorer": [
+    "Karlsborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -103,7 +121,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "Ulricehamns Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Karlsborgs Bordtennisklubb",
+   "arrangorer": [
+    "Karlsborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -116,7 +137,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "Kristinehamns Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Carlstads Bordtennisklubb",
+   "arrangorer": [
+    "Carlstads Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
   },
   {
@@ -129,7 +153,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Carlstads Bordtennisklubb",
+   "arrangorer": [
+    "Carlstads Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
   },
   {
@@ -142,7 +169,10 @@
    "hemma_klubb": "Carlstads Bordtennisklubb",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Carlstads Bordtennisklubb",
+   "arrangorer": [
+    "Carlstads Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1150/2/7/7"
   },
   {
@@ -155,7 +185,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "Skövde Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Götene/Tor Bordtennisklubb",
+   "arrangorer": [
+    "Götene/Tor Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -168,7 +201,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "Mariestads Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Götene/Tor Bordtennisklubb",
+   "arrangorer": [
+    "Götene/Tor Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -181,7 +217,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "Larvs Fotbollklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mariestads Bordtennisklubb",
+   "arrangorer": [
+    "Mariestads Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -194,7 +233,10 @@
    "hemma_klubb": "Karlsborgs Bordtennisklubb",
    "borta_klubb": "Götene/Tor Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mariestads Bordtennisklubb",
+   "arrangorer": [
+    "Mariestads Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -207,7 +249,10 @@
    "hemma_klubb": "Blikstorps Allmänna IK",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -220,7 +265,10 @@
    "hemma_klubb": "IFK Lidköping",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -233,7 +281,10 @@
    "hemma_klubb": "Mariestads Bordtennisklubb",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skövde Pingisklubb",
+   "arrangorer": [
+    "Skövde Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -246,7 +297,10 @@
    "hemma_klubb": "Skövde Pingisklubb",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skövde Pingisklubb",
+   "arrangorer": [
+    "Skövde Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -259,7 +313,10 @@
    "hemma_klubb": "Ulricehamns Idrottsförening",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   },
   {
@@ -272,7 +329,10 @@
    "hemma_klubb": "Larvs Fotbollklubb",
    "borta_klubb": "Karlsborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ulricehamns Idrottsförening",
+   "arrangorer": [
+    "Ulricehamns Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1169/2/7/7"
   }
  ],

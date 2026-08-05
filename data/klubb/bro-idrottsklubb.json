@@ -4,7 +4,7 @@
   "namn": "Bro Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Bro IK",
@@ -32,7 +32,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "KFUM Stocksund IA",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -45,7 +48,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "KFUM Stocksund IA",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Upplands-Ekeby Idrottsförening",
+   "arrangorer": [
+    "Upplands-Ekeby Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -58,7 +64,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -71,7 +80,10 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Upplands-Ekeby Idrottsförening",
+   "arrangorer": [
+    "Upplands-Ekeby Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -84,7 +96,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Idrottsklubben Juno",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -97,7 +112,10 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -110,7 +128,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -123,7 +144,10 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -136,7 +160,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Norrtälje Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -149,7 +176,10 @@
    "hemma_klubb": "Boo Racketklubb",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bro Idrottsklubb",
+   "arrangorer": [
+    "Bro Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -162,7 +192,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Falu Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -175,7 +208,10 @@
    "hemma_klubb": "Järfälla Bordtennisförening",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bro Idrottsklubb",
+   "arrangorer": [
+    "Bro Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -188,7 +224,10 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -201,7 +240,10 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -214,7 +256,10 @@
    "hemma_klubb": "Idrottsklubben Juno",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -227,7 +272,10 @@
    "hemma_klubb": "KFUM Stocksund IA",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Boo Racketklubb",
+   "arrangorer": [
+    "Boo Racketklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -240,7 +288,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bro Idrottsklubb",
+   "arrangorer": [
+    "Bro Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -253,7 +304,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Boo Racketklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bro Idrottsklubb",
+   "arrangorer": [
+    "Bro Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -266,7 +320,10 @@
    "hemma_klubb": "KFUM Stocksund IA",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bro Idrottsklubb",
+   "arrangorer": [
+    "Bro Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -279,7 +336,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Järfälla Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bro Idrottsklubb",
+   "arrangorer": [
+    "Bro Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -292,7 +352,10 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -305,7 +368,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -318,7 +384,10 @@
    "hemma_klubb": "Norrtälje Bordtennisklubb",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -331,7 +400,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -344,7 +416,10 @@
    "hemma_klubb": "Falu Bordtennisklubb",
    "borta_klubb": "Bro Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -357,7 +432,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Järfälla Bordtennisförening",
+   "arrangorer": [
+    "Järfälla Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   },
   {
@@ -370,7 +448,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1154/2/7/7"
   },
   {
@@ -383,7 +464,10 @@
    "hemma_klubb": "Bro Idrottsklubb",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Järfälla Bordtennisförening",
+   "arrangorer": [
+    "Järfälla Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1162/2/7/7"
   }
  ],

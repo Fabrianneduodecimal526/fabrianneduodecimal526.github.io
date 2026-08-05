@@ -4,7 +4,7 @@
   "namn": "Mölndals Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Mölndals BTK",
@@ -32,7 +32,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Svanesunds Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Svanesunds Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -45,7 +48,10 @@
    "hemma_klubb": "Varbergs Bordtennisklubb",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -58,7 +64,10 @@
    "hemma_klubb": "Bordtennisklubben Dalen",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Svanesunds Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Svanesunds Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -71,7 +80,10 @@
    "hemma_klubb": "Kungsbacka Bordtennisklubb",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -84,7 +96,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -97,7 +112,10 @@
    "hemma_klubb": "Särö Kullavik Idrottsförening",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Åsa Idrottsförening",
+   "arrangorer": [
+    "Åsa Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -110,7 +128,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -123,7 +144,10 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Åsa Idrottsförening",
+   "arrangorer": [
+    "Åsa Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -136,7 +160,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -149,7 +176,10 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Särö Kullavik Idrottsförening",
+   "arrangorer": [
+    "Särö Kullavik Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -162,7 +192,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -175,7 +208,10 @@
    "hemma_klubb": "Öckerö Idrottsförening",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Särö Kullavik Idrottsförening",
+   "arrangorer": [
+    "Särö Kullavik Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -188,7 +224,10 @@
    "hemma_klubb": "Horreds Bordtennisklubb",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -201,7 +240,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Lindome Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Lindome Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -214,7 +256,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -227,7 +272,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Varbergs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lindome Bordtennisklubb",
+   "arrangorer": [
+    "Lindome Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -240,7 +288,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Dalen",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -253,7 +304,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Åsa Idrottsförening",
+   "arrangorer": [
+    "Åsa Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -266,7 +320,10 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -279,7 +336,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Särö Kullavik Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Åsa Idrottsförening",
+   "arrangorer": [
+    "Åsa Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -292,7 +352,10 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mölndals Bordtennisklubb",
+   "arrangorer": [
+    "Mölndals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -305,7 +368,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Kungsbacka Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mölndals Bordtennisklubb",
+   "arrangorer": [
+    "Mölndals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -318,7 +384,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mölndals Bordtennisklubb",
+   "arrangorer": [
+    "Mölndals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -331,7 +400,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mölndals Bordtennisklubb",
+   "arrangorer": [
+    "Mölndals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -344,7 +416,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -357,7 +432,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Öckerö Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   },
   {
@@ -370,7 +448,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Horreds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -383,7 +464,10 @@
    "hemma_klubb": "Lindome Bordtennisklubb",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1172/2/7/7"
   }
  ],

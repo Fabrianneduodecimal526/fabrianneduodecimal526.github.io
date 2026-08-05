@@ -4,7 +4,7 @@
   "namn": "Håcksviks Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Håcksviks IF",
@@ -25,7 +25,10 @@
    "hemma_klubb": "Kungsbacka Bordtennisklubb",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -38,7 +41,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -51,7 +57,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Borgstena IF",
+   "arrangorer": [
+    "Borgstena IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -64,7 +73,10 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Borgstena IF",
+   "arrangorer": [
+    "Borgstena IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -77,7 +89,10 @@
    "hemma_klubb": "Borgstena IF",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Håcksviks Idrottsförening",
+   "arrangorer": [
+    "Håcksviks Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -90,7 +105,10 @@
    "hemma_klubb": "Alingsås Pingis Klubb",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Håcksviks Idrottsförening",
+   "arrangorer": [
+    "Håcksviks Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -103,7 +121,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Bordtennisklubben Warta",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -116,7 +137,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Kungsbacka Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -129,7 +153,10 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -142,7 +169,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -155,7 +185,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -168,7 +201,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Borgstena IF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -181,7 +217,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Alingsås Pingis Klubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -194,7 +233,10 @@
    "hemma_klubb": "Bordtennisklubben Warta",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   }
  ],
@@ -209,7 +251,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Bordtennisklubben Ratic",
    "plats": "Håcksvikshallen",
-   "arrangor": null,
+   "arrangor": "Håcksviks Idrottsförening",
+   "arrangorer": [
+    "Håcksviks Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/944/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -224,7 +269,10 @@
    "hemma_klubb": "Västerviks Bordtennisklubb",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Håcksvikshallen",
-   "arrangor": null,
+   "arrangor": "Håcksviks Idrottsförening",
+   "arrangorer": [
+    "Håcksviks Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/944/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2

@@ -4,7 +4,7 @@
   "namn": "Storvreta Idrottsklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Storvreta IK",
@@ -25,7 +25,10 @@
    "hemma_klubb": "Storvreta Idrottsklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": null,
+   "arrangor": "Sunnersta Allmänna IF",
+   "arrangorer": [
+    "Sunnersta Allmänna IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -38,7 +41,10 @@
    "hemma_klubb": "Storvreta Idrottsklubb",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Svandammshallen",
-   "arrangor": null,
+   "arrangor": "Sunnersta Allmänna IF",
+   "arrangorer": [
+    "Sunnersta Allmänna IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -51,7 +57,10 @@
    "hemma_klubb": "Storvreta Idrottsklubb",
    "borta_klubb": "Tärnsjö Bordtennisklubb",
    "plats": "Skyttorp",
-   "arrangor": null,
+   "arrangor": "Skyttorps Idrottsförening",
+   "arrangorer": [
+    "Skyttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -64,7 +73,10 @@
    "hemma_klubb": "Storvreta Idrottsklubb",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": null,
+   "arrangor": "Skyttorps Idrottsförening",
+   "arrangorer": [
+    "Skyttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -77,7 +89,10 @@
    "hemma_klubb": "Storvreta Idrottsklubb",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Sigtuna",
-   "arrangor": null,
+   "arrangor": "Sigtuna IF Bordtennisklubb",
+   "arrangorer": [
+    "Sigtuna IF Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -90,7 +105,10 @@
    "hemma_klubb": "Storvreta Idrottsklubb",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": null,
+   "arrangor": "Sigtuna IF Bordtennisklubb",
+   "arrangorer": [
+    "Sigtuna IF Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -103,7 +121,10 @@
    "hemma_klubb": "Storvreta Idrottsklubb",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Gävle",
-   "arrangor": null,
+   "arrangor": "Gefle Pingisklubb",
+   "arrangorer": [
+    "Gefle Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -116,7 +137,10 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Storvreta Idrottsklubb",
    "plats": "Gävle",
-   "arrangor": null,
+   "arrangor": "Gefle Pingisklubb",
+   "arrangorer": [
+    "Gefle Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -129,7 +153,10 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Storvreta Idrottsklubb",
    "plats": "Tärnsjö",
-   "arrangor": null,
+   "arrangor": "Tärnsjö Bordtennisklubb",
+   "arrangorer": [
+    "Tärnsjö Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -142,7 +169,10 @@
    "hemma_klubb": "Tärnsjö Bordtennisklubb",
    "borta_klubb": "Storvreta Idrottsklubb",
    "plats": "Tärnsjö",
-   "arrangor": null,
+   "arrangor": "Tärnsjö Bordtennisklubb",
+   "arrangorer": [
+    "Tärnsjö Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -155,7 +185,10 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "Storvreta Idrottsklubb",
    "plats": "Skyttorp",
-   "arrangor": null,
+   "arrangor": "Skyttorps Idrottsförening",
+   "arrangorer": [
+    "Skyttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -168,7 +201,10 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Storvreta Idrottsklubb",
    "plats": "Skyttorp",
-   "arrangor": null,
+   "arrangor": "Skyttorps Idrottsförening",
+   "arrangorer": [
+    "Skyttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -181,7 +217,10 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Storvreta Idrottsklubb",
    "plats": "Svandammshallen",
-   "arrangor": null,
+   "arrangor": "Sunnersta Allmänna IF",
+   "arrangorer": [
+    "Sunnersta Allmänna IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   },
   {
@@ -194,7 +233,10 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Storvreta Idrottsklubb",
    "plats": "Svandammshallen",
-   "arrangor": null,
+   "arrangor": "Sunnersta Allmänna IF",
+   "arrangorer": [
+    "Sunnersta Allmänna IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1193/2/7/7"
   }
  ],

@@ -4,7 +4,7 @@
   "namn": "Enköpings Pingisveteraner"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Enköpings Pingisveteraner A",
@@ -32,7 +32,10 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "UTK-hallen",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -45,7 +48,10 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Svandammshallen",
-   "arrangor": null,
+   "arrangor": "Sunnersta Allmänna IF",
+   "arrangorer": [
+    "Sunnersta Allmänna IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -58,7 +64,10 @@
    "hemma_klubb": "Vassunda Idrottsförening",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "UTK-hallen",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -71,7 +80,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Svandammshallen",
-   "arrangor": null,
+   "arrangor": "Sunnersta Allmänna IF",
+   "arrangorer": [
+    "Sunnersta Allmänna IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -84,7 +96,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Bälinge",
-   "arrangor": null,
+   "arrangor": "Bälinge Idrottsförening",
+   "arrangorer": [
+    "Bälinge Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -97,7 +112,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Sigtuna IF Bordtennisklubb",
    "plats": "Bälinge",
-   "arrangor": null,
+   "arrangor": "Bälinge Idrottsförening",
+   "arrangorer": [
+    "Bälinge Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -110,7 +128,10 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Idrottshuset",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -123,7 +144,10 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Idrottshuset",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -136,7 +160,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Bälinge Idrottsförening",
    "plats": "Life Arena",
-   "arrangor": null,
+   "arrangor": "Uppsala Life Idrottsförening",
+   "arrangorer": [
+    "Uppsala Life Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -149,7 +176,10 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Gävle",
-   "arrangor": null,
+   "arrangor": "Gefle Pingisklubb",
+   "arrangorer": [
+    "Gefle Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -162,7 +192,10 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Life Arena",
-   "arrangor": null,
+   "arrangor": "Uppsala Life Idrottsförening",
+   "arrangorer": [
+    "Uppsala Life Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -175,7 +208,10 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Gävle",
-   "arrangor": null,
+   "arrangor": "Gefle Pingisklubb",
+   "arrangorer": [
+    "Gefle Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -188,7 +224,10 @@
    "hemma_klubb": "Sunnersta Allmänna IF",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Björkhallen",
-   "arrangor": null,
+   "arrangor": "Vassunda Idrottsförening",
+   "arrangorer": [
+    "Vassunda Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -201,7 +240,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Bålsta Bordtennisklubb",
    "plats": "Idrottshuset",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -214,7 +256,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Uppsala Life Idrottsförening",
    "plats": "Björkhallen",
-   "arrangor": null,
+   "arrangor": "Vassunda Idrottsförening",
+   "arrangorer": [
+    "Vassunda Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -227,7 +272,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Idrottshuset",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -240,7 +288,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Vassunda Idrottsförening",
    "plats": "Sigtuna",
-   "arrangor": null,
+   "arrangor": "Sigtuna IF Bordtennisklubb",
+   "arrangorer": [
+    "Sigtuna IF Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -253,7 +304,10 @@
    "hemma_klubb": "Uppsala Life Idrottsförening",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Svandammshallen",
-   "arrangor": null,
+   "arrangor": "Sunnersta Allmänna IF",
+   "arrangorer": [
+    "Sunnersta Allmänna IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -266,7 +320,10 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Sigtuna",
-   "arrangor": null,
+   "arrangor": "Sigtuna IF Bordtennisklubb",
+   "arrangorer": [
+    "Sigtuna IF Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -279,7 +336,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Svandammshallen",
-   "arrangor": null,
+   "arrangor": "Sunnersta Allmänna IF",
+   "arrangorer": [
+    "Sunnersta Allmänna IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -292,7 +352,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "Heby",
-   "arrangor": null,
+   "arrangor": "Heby Allmänna Idrottsförening",
+   "arrangorer": [
+    "Heby Allmänna Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -305,7 +368,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Heby",
-   "arrangor": null,
+   "arrangor": "Heby Allmänna Idrottsförening",
+   "arrangorer": [
+    "Heby Allmänna Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -318,7 +384,10 @@
    "hemma_klubb": "Sigtuna IF Bordtennisklubb",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Idrottshuset",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -331,7 +400,10 @@
    "hemma_klubb": "Bälinge Idrottsförening",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Idrottshuset",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -344,7 +416,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Life Arena",
-   "arrangor": null,
+   "arrangor": "Uppsala Life Idrottsförening",
+   "arrangorer": [
+    "Uppsala Life Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -357,7 +432,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Life Arena",
-   "arrangor": null,
+   "arrangor": "Uppsala Life Idrottsförening",
+   "arrangorer": [
+    "Uppsala Life Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   },
   {
@@ -370,7 +448,10 @@
    "hemma_klubb": "Enköpings Pingisveteraner",
    "borta_klubb": "Sunnersta Allmänna IF",
    "plats": "Life Arena",
-   "arrangor": null,
+   "arrangor": "Uppsala Life Idrottsförening",
+   "arrangorer": [
+    "Uppsala Life Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1194/2/7/7"
   },
   {
@@ -383,7 +464,10 @@
    "hemma_klubb": "Bålsta Bordtennisklubb",
    "borta_klubb": "Enköpings Pingisveteraner",
    "plats": "Life Arena",
-   "arrangor": null,
+   "arrangor": "Uppsala Life Idrottsförening",
+   "arrangorer": [
+    "Uppsala Life Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1188/2/7/7"
   }
  ],

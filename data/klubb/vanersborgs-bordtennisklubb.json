@@ -4,7 +4,7 @@
   "namn": "Vänersborgs Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Vänersborgs BTK",
@@ -25,7 +25,10 @@
    "hemma_klubb": "Hålta Idrottsklubb",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -38,7 +41,10 @@
    "hemma_klubb": "Stenungsunds Bordtennisförening",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -51,7 +57,10 @@
    "hemma_klubb": "Grästorps Bordtennisklubb",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -64,7 +73,10 @@
    "hemma_klubb": "IFK Lidköping",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -77,7 +89,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -90,7 +105,10 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -103,7 +121,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -116,7 +137,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Hålta Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -129,7 +153,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Grästorps Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Svanesunds Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Svanesunds Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -142,7 +169,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "IFK Lidköping",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -155,7 +185,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -168,7 +201,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -181,7 +217,10 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   }
  ],
@@ -196,7 +235,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Vänersborgs Bordtennisklubb",
+   "arrangorer": [
+    "Vänersborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -211,7 +253,10 @@
    "hemma_klubb": "Stenungsunds Bordtennisförening",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -226,7 +271,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Uddevalla Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Vänersborgs Bordtennisklubb",
+   "arrangorer": [
+    "Vänersborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -241,7 +289,10 @@
    "hemma_klubb": "Trollhättans Bordtennisklubb",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Trollhättans Bordtennisklubb",
+   "arrangorer": [
+    "Trollhättans Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

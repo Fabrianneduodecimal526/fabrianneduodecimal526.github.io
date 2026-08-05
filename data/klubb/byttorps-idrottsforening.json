@@ -4,7 +4,7 @@
   "namn": "Byttorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Byttorps A1",
@@ -39,7 +39,10 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Byttorps Idrottsförening",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7"
   },
   {
@@ -52,7 +55,10 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Byttorps Idrottsförening",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7"
   },
   {
@@ -65,7 +71,10 @@
    "hemma_klubb": "Horreds Bordtennisklubb",
    "borta_klubb": "Byttorps Idrottsförening",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Horreds Bordtennisklubb",
+   "arrangorer": [
+    "Horreds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7"
   },
   {
@@ -78,7 +87,10 @@
    "hemma_klubb": "Borgstena IF",
    "borta_klubb": "Byttorps Idrottsförening",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Borgstena IF",
+   "arrangorer": [
+    "Borgstena IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7"
   },
   {
@@ -91,7 +103,10 @@
    "hemma_klubb": "Kinna Bordtennisklubb",
    "borta_klubb": "Byttorps Idrottsförening",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Kinna Bordtennisklubb",
+   "arrangorer": [
+    "Kinna Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7"
   }
  ],
@@ -106,7 +121,10 @@
    "hemma_klubb": "Byttorps Idrottsförening",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": null,
-   "arrangor": null,
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -121,7 +139,10 @@
    "hemma_klubb": "Hyssna Bordtennisklubb",
    "borta_klubb": "Byttorps Idrottsförening",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Hyssna Bordtennisklubb",
+   "arrangorer": [
+    "Hyssna Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -136,7 +157,10 @@
    "hemma_klubb": "Byttorps Idrottsförening",
    "borta_klubb": "Horreds Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1075/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -151,7 +175,10 @@
    "hemma_klubb": "Byttorps Idrottsförening",
    "borta_klubb": "Herrljunga Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -166,7 +193,10 @@
    "hemma_klubb": "Borgstena IF",
    "borta_klubb": "Byttorps Idrottsförening",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Borgstena IF",
+   "arrangorer": [
+    "Borgstena IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1076/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -181,7 +211,10 @@
    "hemma_klubb": "Byttorps Idrottsförening",
    "borta_klubb": "Sandareds Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Byttorps Idrottsförening",
+   "arrangorer": [
+    "Byttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1074/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

@@ -4,7 +4,7 @@
   "namn": "Västerås Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Västerås BTK",
@@ -39,7 +39,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Linköpings Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Safir",
+   "arrangorer": [
+    "Bordtennisklubben Safir"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -52,7 +55,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Aga Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -65,7 +71,10 @@
    "hemma_klubb": "Ljungsbro Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Safir",
+   "arrangorer": [
+    "Bordtennisklubben Safir"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -78,7 +87,10 @@
    "hemma_klubb": "Bordtennisklubben Kungsör",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -91,7 +103,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Idrottsföreningen Norcopensarna",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kristinehamns Bordtennisförening",
+   "arrangorer": [
+    "Kristinehamns Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -104,7 +119,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Ålsta Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hallstahammars Bordtennisklubb",
+   "arrangorer": [
+    "Hallstahammars Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -117,7 +135,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Eskilstuna Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kristinehamns Bordtennisförening",
+   "arrangorer": [
+    "Kristinehamns Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -130,7 +151,10 @@
    "hemma_klubb": "Hallstahammars Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hallstahammars Bordtennisklubb",
+   "arrangorer": [
+    "Hallstahammars Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -143,7 +167,10 @@
    "hemma_klubb": "Kristinehamns Bordtennisförening",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -156,7 +183,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Nyköping Oxelösund Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -169,7 +199,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linköpings Pingisklubb",
+   "arrangorer": [
+    "Linköpings Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -182,7 +215,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Katrineholms Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -195,7 +231,10 @@
    "hemma_klubb": "Bordtennisklubben Safir",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -208,7 +247,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Katrineholms Bordtennisklubb",
+   "arrangorer": [
+    "Katrineholms Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -221,7 +263,10 @@
    "hemma_klubb": "Linköpings Pingisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Idrottsföreningen Norcopensarna",
+   "arrangorer": [
+    "Idrottsföreningen Norcopensarna"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -234,7 +279,10 @@
    "hemma_klubb": "Aga Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Katrineholms Bordtennisklubb",
+   "arrangorer": [
+    "Katrineholms Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -247,7 +295,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Ljungsbro Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -260,7 +311,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Kungsör",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Aga Bordtennisklubb",
+   "arrangorer": [
+    "Aga Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -273,7 +327,10 @@
    "hemma_klubb": "Idrottsföreningen Norcopensarna",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -286,7 +343,10 @@
    "hemma_klubb": "Ålsta Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Aga Bordtennisklubb",
+   "arrangorer": [
+    "Aga Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -299,7 +359,10 @@
    "hemma_klubb": "Eskilstuna Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Eskilstuna Bordtennisklubb",
+   "arrangorer": [
+    "Eskilstuna Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -312,7 +375,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Hallstahammars Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -325,7 +391,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Kristinehamns Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Eskilstuna Bordtennisklubb",
+   "arrangorer": [
+    "Eskilstuna Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -338,7 +407,10 @@
    "hemma_klubb": "Nyköping Oxelösund Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerås Bordtennisklubb",
+   "arrangorer": [
+    "Västerås Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -351,7 +423,10 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -364,7 +439,10 @@
    "hemma_klubb": "Katrineholms Bordtennisklubb",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   },
   {
@@ -377,7 +455,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Safir",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1156/2/7/7"
   },
   {
@@ -390,7 +471,10 @@
    "hemma_klubb": "Västerås Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1168/2/7/7"
   }
  ],
@@ -405,7 +489,10 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Söderhamnshallen",
-   "arrangor": null,
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/934/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -420,7 +507,10 @@
    "hemma_klubb": "Idrottsklubben Juno",
    "borta_klubb": "Västerås Bordtennisklubb",
    "plats": "Junohallen",
-   "arrangor": null,
+   "arrangor": "Idrottsklubben Juno",
+   "arrangorer": [
+    "Idrottsklubben Juno"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/939/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

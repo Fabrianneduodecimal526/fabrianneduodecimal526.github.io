@@ -4,7 +4,7 @@
   "namn": "Våxtorps Boll O IS"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Våxtorps BOIS",
@@ -25,7 +25,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kosta Sportklubb",
+   "arrangorer": [
+    "Kosta Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -38,7 +41,10 @@
    "hemma_klubb": "Kosta Sportklubb",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kosta Sportklubb",
+   "arrangorer": [
+    "Kosta Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -51,7 +57,10 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Våxtorps Boll O IS",
+   "arrangorer": [
+    "Våxtorps Boll O IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -64,7 +73,10 @@
    "hemma_klubb": "Våxtorps Boll O IS",
    "borta_klubb": "Sjömarkens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Våxtorps Boll O IS",
+   "arrangorer": [
+    "Våxtorps Boll O IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -77,7 +89,10 @@
    "hemma_klubb": "Våxtorps Boll O IS",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Våxtorps Boll O IS",
+   "arrangorer": [
+    "Våxtorps Boll O IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -90,7 +105,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -103,7 +121,10 @@
    "hemma_klubb": "Våxtorps Boll O IS",
    "borta_klubb": "Spårvägens BTK",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -116,7 +137,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -129,7 +153,10 @@
    "hemma_klubb": "Våxtorps Boll O IS",
    "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -142,7 +169,10 @@
    "hemma_klubb": "Våxtorps Boll O IS",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   }
  ],

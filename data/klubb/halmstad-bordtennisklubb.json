@@ -4,7 +4,7 @@
   "namn": "Halmstad Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Halmstad BTK",
@@ -39,7 +39,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Åstorps Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -52,7 +55,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Varbergs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -65,7 +71,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kosta Sportklubb",
+   "arrangorer": [
+    "Kosta Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -78,7 +87,10 @@
    "hemma_klubb": "Åstorps Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Frej",
+   "arrangorer": [
+    "Bordtennisklubben Frej"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -91,7 +103,10 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kosta Sportklubb",
+   "arrangorer": [
+    "Kosta Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -104,7 +119,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Trelleborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Frej",
+   "arrangorer": [
+    "Bordtennisklubben Frej"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -117,7 +135,10 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -130,7 +151,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -143,7 +167,10 @@
    "hemma_klubb": "IFK Lund Bordtennis",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -156,7 +183,10 @@
    "hemma_klubb": "Kosta Sportklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Våxtorps Boll O IS",
+   "arrangorer": [
+    "Våxtorps Boll O IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -169,7 +199,10 @@
    "hemma_klubb": "Bordtennisklubben Rekord",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -182,7 +215,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Våxtorps Boll O IS",
+   "arrangorer": [
+    "Våxtorps Boll O IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -195,7 +231,10 @@
    "hemma_klubb": "Bordtennisklubben Frej",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -208,7 +247,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Sjömarkens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Våxtorps Boll O IS",
+   "arrangorer": [
+    "Våxtorps Boll O IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -221,7 +263,10 @@
    "hemma_klubb": "Bjärreds Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -234,7 +279,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Kosta Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -247,7 +295,10 @@
    "hemma_klubb": "Kågeröds Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kågeröds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -260,7 +311,10 @@
    "hemma_klubb": "Kullahalvöns Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kågeröds Bordtennisklubb",
+   "arrangorer": [
+    "Kågeröds Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -273,7 +327,10 @@
    "hemma_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -286,7 +343,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Frej",
+   "arrangorer": [
+    "Bordtennisklubben Frej"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -299,7 +359,10 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -312,7 +375,10 @@
    "hemma_klubb": "Vetlanda Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Frej",
+   "arrangorer": [
+    "Bordtennisklubben Frej"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -325,7 +391,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Linden Bordtennisklubb Eskilstuna",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -338,7 +407,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -351,7 +423,10 @@
    "hemma_klubb": "Laholms Bordtennisklubb Serve",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -364,7 +439,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -377,7 +455,10 @@
    "hemma_klubb": "Åstorps Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Varbergs Bordtennisklubb",
+   "arrangorer": [
+    "Varbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -390,7 +471,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Spårvägens BTK",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -403,7 +487,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -416,7 +503,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -429,7 +519,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Åstorps Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -442,7 +535,10 @@
    "hemma_klubb": "Bordtennisklubben Rekord",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -455,7 +551,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -468,7 +567,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Rekord",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Laholms Bordtennisklubb Serve",
+   "arrangorer": [
+    "Laholms Bordtennisklubb Serve"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -481,7 +583,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Kågeröds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Laholms Bordtennisklubb Serve",
+   "arrangorer": [
+    "Laholms Bordtennisklubb Serve"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -494,7 +599,10 @@
    "hemma_klubb": "Trelleborgs Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -507,7 +615,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Frej",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -520,7 +631,10 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -533,7 +647,10 @@
    "hemma_klubb": "Kosta Sportklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kosta Sportklubb",
+   "arrangorer": [
+    "Kosta Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -546,7 +663,10 @@
    "hemma_klubb": "Varbergs Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -559,7 +679,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Rekord",
+   "arrangorer": [
+    "Bordtennisklubben Rekord"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -572,7 +695,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Bjärreds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -585,7 +711,10 @@
    "hemma_klubb": "Falkenbergs Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -598,7 +727,10 @@
    "hemma_klubb": "Linden Bordtennisklubb Eskilstuna",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Linden Bordtennisklubb Eskilstuna",
+   "arrangorer": [
+    "Linden Bordtennisklubb Eskilstuna"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -611,7 +743,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   },
   {
@@ -624,7 +759,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Kullahalvöns Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -637,7 +775,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Laholms Bordtennisklubb Serve",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1176/2/7/7"
   },
   {
@@ -650,7 +791,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Vetlanda Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -663,7 +807,10 @@
    "hemma_klubb": "IFK Lund Bordtennis",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Trelleborgs Bordtennisklubb",
+   "arrangorer": [
+    "Trelleborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1148/2/7/7"
   },
   {
@@ -676,7 +823,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Rekord",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1118/2/7/7"
   }
  ],
@@ -691,7 +841,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Köping Arena",
-   "arrangor": null,
+   "arrangor": "Köpings BTK Dam",
+   "arrangorer": [
+    "Köpings BTK Dam"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 1
@@ -706,7 +859,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Köpings BTK Dam",
    "plats": "Halmstad Arena",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 2
@@ -721,7 +877,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "IFK Lund Bordtennis",
    "plats": "Halmstad Arena",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/937/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -736,7 +895,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Varbergs Bordtennisklubb",
    "plats": "Halmstad Arena",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/937/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -751,7 +913,11 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "Halmstad Arena",
-   "arrangor": null,
+   "arrangor": "Eslövs AI Bordtennisklubb / Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb",
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 2
@@ -766,7 +932,11 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Blomsterbergshallen",
-   "arrangor": null,
+   "arrangor": "Eslövs AI Bordtennisklubb / Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb",
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/962/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 1

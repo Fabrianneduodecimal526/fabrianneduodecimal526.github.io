@@ -232,6 +232,10 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
             view="standard",
             show_matrix=True,
             fetch_point_system=True,
+            # Utan denna parameter saknas fältet "organiser" helt. Den syns
+            # inte i OpenAPI-specens exempel utan bara i det anrop STUPA:s
+            # egen matchlista gör.
+            show_organiser_details=True,
         )
 
         for gr in grupper:
@@ -274,13 +278,14 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                     continue
                 datum, tid = dela_tid(m.get("start_time"))
                 hemma, borta = delt[0], delt[1]
-
-                # venue innehåller bara ett namn ("Örbyhus", "Hall 1"), ingen
-                # koppling till arrangerande klubb. STUPA:s egen sida visar en
-                # arrangörskolumn, men den uppgiften finns inte i matchobjektet
-                # och verkar härledas på annat håll. Vi hittar hellre inte på
-                # den än gissar fel — arrangor lämnas därför tom.
                 lokal = (m.get("venue") or {}).get("name")
+
+                # organiser är en lista med klubbnamn — en seriehelg kan
+                # arrangeras av flera föreningar tillsammans.
+                arr = m.get("organiser") or []
+                if isinstance(arr, str):
+                    arr = [arr]
+                arr = [a for a in arr if a]
 
                 post = {
                     "datum": datum,
@@ -292,7 +297,8 @@ def hamta_serie(api: Stupa, ev: dict) -> tuple[list[dict], list[dict]]:
                     "hemma_klubb": klubb_for(hemma),
                     "borta_klubb": klubb_for(borta),
                     "plats": lokal,
-                    "arrangor": None,
+                    "arrangor": " / ".join(arr) or None,
+                    "arrangorer": arr,
                     "stupa_url": djuplank,
                 }
                 # Obs: score_published duger INTE som markör för spelad match.

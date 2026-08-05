@@ -4,7 +4,7 @@
   "namn": "Nerikes Kils Sportklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Nerikes Kils SK",
@@ -25,7 +25,11 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -38,7 +42,11 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -51,7 +59,10 @@
    "hemma_klubb": "Falkenbergs Bordtennisklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Falkenbergs BTK",
-   "arrangor": null,
+   "arrangor": "Falkenbergs Bordtennisklubb",
+   "arrangorer": [
+    "Falkenbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -64,7 +75,10 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Falkenbergs BTK",
-   "arrangor": null,
+   "arrangor": "Falkenbergs Bordtennisklubb",
+   "arrangorer": [
+    "Falkenbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -77,7 +91,10 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Västers BTK",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -90,7 +107,10 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Västers BTK",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -103,7 +123,10 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": null,
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -116,7 +139,10 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": null,
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -129,7 +155,10 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -142,7 +171,10 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -155,7 +187,11 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -168,7 +204,11 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -181,7 +221,11 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -194,7 +238,11 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -207,7 +255,10 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": null,
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -220,7 +271,10 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": null,
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   }
  ],
@@ -235,7 +289,10 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Mariedalshallen",
-   "arrangor": null,
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/920/2/7/7",
    "hemma_poang": 3,
    "borta_poang": 0
@@ -250,7 +307,10 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Mariedalshallen",
-   "arrangor": null,
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/920/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 3
@@ -265,7 +325,10 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Mariedalshallen",
-   "arrangor": null,
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/920/2/7/7",
    "hemma_poang": 3,
    "borta_poang": 0

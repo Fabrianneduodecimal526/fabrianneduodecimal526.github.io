@@ -4,7 +4,7 @@
   "namn": "Uddevalla Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Uddevalla BTK",
@@ -25,7 +25,10 @@
    "hemma_klubb": "Stenungsunds Bordtennisförening",
    "borta_klubb": "Uddevalla Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7"
   }
  ],
@@ -40,7 +43,10 @@
    "hemma_klubb": "Uddevalla Bordtennisklubb",
    "borta_klubb": "Trollhättans Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Uddevalla Bordtennisklubb",
+   "arrangorer": [
+    "Uddevalla Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
@@ -55,7 +61,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Uddevalla Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Vänersborgs Bordtennisklubb",
+   "arrangorer": [
+    "Vänersborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -70,7 +79,10 @@
    "hemma_klubb": "Uddevalla Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Uddevalla Bordtennisklubb",
+   "arrangorer": [
+    "Uddevalla Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

@@ -4,7 +4,7 @@
   "namn": "Umeå Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Umeå BTK",
@@ -39,7 +39,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -52,7 +55,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -65,7 +71,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Höga Kusten Allmänna Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -78,7 +87,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Östersunds GIF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -91,7 +103,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Djurgårdens IF BTF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -104,7 +119,10 @@
    "hemma_klubb": "Östersunds GIF",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -117,7 +135,10 @@
    "hemma_klubb": "Alfta Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -130,7 +151,10 @@
    "hemma_klubb": "IFK Täby Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -143,7 +167,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -156,7 +183,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Österåkers Bordtennisklubb",
+   "arrangorer": [
+    "IFK Österåkers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -169,7 +199,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -182,7 +215,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Skellefteå AIK BTF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -195,7 +231,10 @@
    "hemma_klubb": "Alfta Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -208,7 +247,10 @@
    "hemma_klubb": "Höga Kusten Allmänna Idrottsförening",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -221,7 +263,10 @@
    "hemma_klubb": "Spårvägens Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -234,7 +279,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Pingisklubben Sundsvall",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -247,7 +295,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Ås Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ås Idrottsförening",
+   "arrangorer": [
+    "Ås Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -260,7 +311,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Stratos Enköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -273,7 +327,10 @@
    "hemma_klubb": "Skellefteå AIK BTF",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -286,7 +343,10 @@
    "hemma_klubb": "Pingisklubben Sundsvall",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -299,7 +359,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -312,7 +375,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -325,7 +391,10 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -338,7 +407,10 @@
    "hemma_klubb": "Djurgårdens IF BTF",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stratos Enköping Bordtennisklubb",
+   "arrangorer": [
+    "Stratos Enköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -351,7 +423,10 @@
    "hemma_klubb": "Höga Kusten Allmänna Idrottsförening",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skellefteå AIK BTF",
+   "arrangorer": [
+    "Skellefteå AIK BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -364,7 +439,10 @@
    "hemma_klubb": "Östersunds GIF",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skellefteå AIK BTF",
+   "arrangorer": [
+    "Skellefteå AIK BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -377,7 +455,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Östersunds GIF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skellefteå AIK BTF",
+   "arrangorer": [
+    "Skellefteå AIK BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -390,7 +471,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Alfta Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skellefteå AIK BTF",
+   "arrangorer": [
+    "Skellefteå AIK BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -403,7 +487,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "IFK Täby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -416,7 +503,10 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skellefteå AIK BTF",
+   "arrangorer": [
+    "Skellefteå AIK BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -429,7 +519,10 @@
    "hemma_klubb": "Skellefteå AIK BTF",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skellefteå AIK BTF",
+   "arrangorer": [
+    "Skellefteå AIK BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -442,7 +535,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -455,7 +551,10 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -468,7 +567,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Spårvägens Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -481,7 +583,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Alfta Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Östersunds GIF",
+   "arrangorer": [
+    "Östersunds GIF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -494,7 +599,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Höga Kusten Allmänna Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Östersunds GIF",
+   "arrangorer": [
+    "Östersunds GIF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -507,7 +615,10 @@
    "hemma_klubb": "Pingisklubben Sundsvall",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Östersunds GIF",
+   "arrangorer": [
+    "Östersunds GIF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -520,7 +631,10 @@
    "hemma_klubb": "Ås Idrottsförening",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Östersunds GIF",
+   "arrangorer": [
+    "Östersunds GIF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -533,7 +647,10 @@
    "hemma_klubb": "Stratos Enköping Bordtennisklubb",
    "borta_klubb": "Umeå Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   },
   {
@@ -546,7 +663,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Skellefteå AIK BTF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Östersunds GIF",
+   "arrangorer": [
+    "Östersunds GIF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -559,7 +679,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "Pingisklubben Sundsvall",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Östersunds GIF",
+   "arrangorer": [
+    "Östersunds GIF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1161/2/7/7"
   },
   {
@@ -572,7 +695,10 @@
    "hemma_klubb": "Umeå Bordtennisklubb",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Umeå Bordtennisklubb",
+   "arrangorer": [
+    "Umeå Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1125/2/7/7"
   }
  ],

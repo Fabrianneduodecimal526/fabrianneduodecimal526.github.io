@@ -4,7 +4,7 @@
   "namn": "Köpings BTK Dam"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Köpings BTK Dam",
@@ -25,7 +25,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Tibble-Kungsängen Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
+   "arrangorer": [
+    "Tibble-Kungsängen Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -38,7 +41,10 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Köpings BTK Dam",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Tibble-Kungsängen Bordtennisklubb",
+   "arrangorer": [
+    "Tibble-Kungsängen Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -51,7 +57,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Köpings BTK Dam",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -64,7 +73,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Spårvägens BTK",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -77,7 +89,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Våxtorps Boll O IS",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -90,7 +105,10 @@
    "hemma_klubb": "Sjömarkens Bordtennisklubb",
    "borta_klubb": "Köpings BTK Dam",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -103,7 +121,10 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Köpings BTK Dam",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Spårvägens Bordtennisklubb",
+   "arrangorer": [
+    "Spårvägens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -116,7 +137,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -129,7 +153,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   },
   {
@@ -142,7 +169,10 @@
    "hemma_klubb": "Kosta Sportklubb",
    "borta_klubb": "Köpings BTK Dam",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1119/2/7/7"
   }
  ],
@@ -157,7 +187,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Halmstad Bordtennisklubb",
    "plats": "Köping Arena",
-   "arrangor": null,
+   "arrangor": "Köpings BTK Dam",
+   "arrangorer": [
+    "Köpings BTK Dam"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 1
@@ -172,7 +205,10 @@
    "hemma_klubb": "Halmstad Bordtennisklubb",
    "borta_klubb": "Köpings BTK Dam",
    "plats": "Halmstad Arena",
-   "arrangor": null,
+   "arrangor": "Halmstad Bordtennisklubb",
+   "arrangorer": [
+    "Halmstad Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 2
@@ -187,7 +223,10 @@
    "hemma_klubb": "Köpings BTK Dam",
    "borta_klubb": "Eslövs AI Bordtennisklubb",
    "plats": "Köping Arena",
-   "arrangor": null,
+   "arrangor": "Köpings BTK Dam",
+   "arrangorer": [
+    "Köpings BTK Dam"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 2
@@ -202,7 +241,11 @@
    "hemma_klubb": "Eslövs AI Bordtennisklubb",
    "borta_klubb": "Köpings BTK Dam",
    "plats": "Blomsterbergshallen",
-   "arrangor": null,
+   "arrangor": "Eslövs AI Bordtennisklubb / Eslövs AI Bordtennisklubb",
+   "arrangorer": [
+    "Eslövs AI Bordtennisklubb",
+    "Eslövs AI Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/302/961/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 1

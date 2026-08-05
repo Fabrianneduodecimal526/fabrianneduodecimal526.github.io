@@ -4,7 +4,7 @@
   "namn": "Visby IF Gute Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Visby IF Gute",
@@ -32,7 +32,12 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Visby Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -45,7 +50,12 @@
    "hemma_klubb": "KFUM Jönköping",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -58,7 +68,10 @@
    "hemma_klubb": "Hammarby IF Bordtennisförening",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Täby Bordtennisklubb",
+   "arrangorer": [
+    "IFK Täby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -71,7 +84,12 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Faggemåla Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -84,7 +102,10 @@
    "hemma_klubb": "IFK Österåkers Bordtennisklubb",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Täby Bordtennisklubb",
+   "arrangorer": [
+    "IFK Täby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -97,7 +118,12 @@
    "hemma_klubb": "Vaggeryds Bordtennisklubb",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -110,7 +136,10 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Tyresö Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -123,7 +152,10 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Västerviks Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerviks Bordtennisklubb",
+   "arrangorer": [
+    "Västerviks Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -136,7 +168,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -149,7 +184,10 @@
    "hemma_klubb": "Oskarshamns Bordtennisklubb",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerviks Bordtennisklubb",
+   "arrangorer": [
+    "Västerviks Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -162,7 +200,10 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "IFK Visby",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerviks Bordtennisklubb",
+   "arrangorer": [
+    "Västerviks Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -175,7 +216,10 @@
    "hemma_klubb": "Västerviks Bordtennisklubb",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Västerviks Bordtennisklubb",
+   "arrangorer": [
+    "Västerviks Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -188,7 +232,10 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Solna Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -201,7 +248,10 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Hammarby IF Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Djurgårdens IF BTF",
+   "arrangorer": [
+    "Djurgårdens IF BTF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -214,7 +264,10 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "IFK Österåkers Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Solna Bordtennisklubb",
+   "arrangorer": [
+    "Solna Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -227,7 +280,10 @@
    "hemma_klubb": "Tyresö Bordtennisklubb",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Solna Bordtennisklubb",
+   "arrangorer": [
+    "Solna Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -240,7 +296,10 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Oskarshamns Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Oskarshamns Bordtennisklubb",
+   "arrangorer": [
+    "Oskarshamns Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -253,7 +312,10 @@
    "hemma_klubb": "IFK Visby",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Oskarshamns Bordtennisklubb",
+   "arrangorer": [
+    "Oskarshamns Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -266,7 +328,12 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Vaggeryds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -279,7 +346,12 @@
    "hemma_klubb": "Faggemåla Bordtennisklubb",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -292,7 +364,10 @@
    "hemma_klubb": "Solna Bordtennisklubb",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -305,7 +380,12 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "KFUM Jönköping",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   },
   {
@@ -318,7 +398,10 @@
    "hemma_klubb": "Visby IF Gute Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Hammarby IF Bordtennisförening",
+   "arrangorer": [
+    "Hammarby IF Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1151/2/7/7"
   },
   {
@@ -331,7 +414,12 @@
    "hemma_klubb": "Visby Bordtennisklubb",
    "borta_klubb": "Visby IF Gute Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Visby IF Gute Bordtennisklubb / IFK Visby / Visby Bordtennisklubb",
+   "arrangorer": [
+    "Visby IF Gute Bordtennisklubb",
+    "IFK Visby",
+    "Visby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1173/2/7/7"
   }
  ],

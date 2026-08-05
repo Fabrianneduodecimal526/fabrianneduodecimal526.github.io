@@ -283,7 +283,8 @@
   /* ---------- rendering ---------- */
 
   function matchKort(m, visaResultat) {
-    const arrangerarSjalv = klubb && m.arrangor === klubb.klubb.namn;
+    const arrangerarSjalv = klubb
+      && (m.arrangorer || []).includes(klubb.klubb.namn);
     const poang = visaResultat && m.hemma_poang != null
       ? `<span class="score">${esc(m.hemma_poang)}–${esc(m.borta_poang)}</span>` : "";
     const plats = [m.plats, m.arrangor && `arr. ${m.arrangor}`].filter(Boolean).join(" · ");

@@ -4,7 +4,7 @@
   "namn": "Bordtennisklubben Kävlinge"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "BTK Kävlinge",
@@ -25,7 +25,11 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -38,7 +42,11 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -51,7 +59,10 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Norrtulls SK",
-   "arrangor": null,
+   "arrangor": "Norrtulls Sportklubb",
+   "arrangorer": [
+    "Norrtulls Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -64,7 +75,10 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "Norrtulls SK",
-   "arrangor": null,
+   "arrangor": "Norrtulls Sportklubb",
+   "arrangorer": [
+    "Norrtulls Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -77,7 +91,10 @@
    "hemma_klubb": "Falkenbergs Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "Lyckeby BTK",
-   "arrangor": null,
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -90,7 +107,10 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Lyckeby BTK",
-   "arrangor": null,
+   "arrangor": "Lyckeby Bordtennisklubb",
+   "arrangorer": [
+    "Lyckeby Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -103,7 +123,10 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -116,7 +139,10 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -129,7 +155,10 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -142,7 +171,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -155,7 +187,10 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "Västers BTK",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -168,7 +203,10 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Västers BTK",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -181,7 +219,10 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -194,7 +235,10 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -207,7 +251,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "Munkedals BTK",
-   "arrangor": null,
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -220,7 +267,10 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Munkedals BTK",
-   "arrangor": null,
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   }
  ],

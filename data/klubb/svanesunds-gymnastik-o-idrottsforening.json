@@ -4,7 +4,7 @@
   "namn": "Svanesunds Gymnastik o Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Svanesunds GIF",
@@ -32,7 +32,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Svanesunds Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Svanesunds Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -45,7 +48,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -58,7 +64,10 @@
    "hemma_klubb": "Horreds Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Svanesunds Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Svanesunds Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -71,7 +80,10 @@
    "hemma_klubb": "Grästorps Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mariedals Idrottsklubb",
+   "arrangorer": [
+    "Mariedals Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -84,7 +96,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -97,7 +112,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Stenungsunds Bordtennisförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -110,7 +128,10 @@
    "hemma_klubb": "Bordtennisklubben Dalen",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -123,7 +144,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -136,7 +160,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -149,7 +176,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -162,7 +192,10 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -175,7 +208,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Hålta Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -188,7 +224,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -201,7 +240,10 @@
    "hemma_klubb": "IFK Lidköping",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -214,7 +256,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -227,7 +272,10 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -240,7 +288,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Horreds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -253,7 +304,10 @@
    "hemma_klubb": "Stenungsunds Bordtennisförening",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Svanesunds Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Svanesunds Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -266,7 +320,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -279,7 +336,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Bordtennisklubben Dalen",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mölndals Bordtennisklubb",
+   "arrangorer": [
+    "Mölndals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -292,7 +352,10 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -305,7 +368,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mölndals Bordtennisklubb",
+   "arrangorer": [
+    "Mölndals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -318,7 +384,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Stenungsunds Bordtennisförening",
+   "arrangorer": [
+    "Stenungsunds Bordtennisförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -331,7 +400,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -344,7 +416,10 @@
    "hemma_klubb": "Hålta Idrottsklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   },
   {
@@ -357,7 +432,10 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -370,7 +448,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "IFK Lidköping",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Grästorps Bordtennisklubb",
+   "arrangorer": [
+    "Grästorps Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1171/2/7/7"
   }
  ],
@@ -385,7 +466,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Askimshallen",
-   "arrangor": null,
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/936/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

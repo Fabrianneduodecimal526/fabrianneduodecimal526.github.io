@@ -161,14 +161,24 @@ get_events                            → 278 evenemang
   │     stage.event_category.category.category_description → "Division 4A"
   │     stage.event_category.category_id                   → 1186
   │
-  └── get_group_matches?stage_id=6137&view=standard
-                       &show_matrix=true&fetch_point_system=true
+  └── get_group_matches?stage_id=6137&view=standard&show_matrix=true
+                       &fetch_point_system=true&show_organiser_details=true
         ├── group_matrix[]  → tabellen (rank, matches_won/lost, group_points)
         └── matches[]       → matcherna
               start_time, round.name, venue.name
+              organiser[]                      → arrangerande förening(ar)
               participants[].participant_name  → "Heby AIF B"
               participants[].selected_parents  → klubbtillhörighet
 ```
+
+**Glöm inte `show_organiser_details=true`.** Utan den saknas fältet
+`organiser` helt, och det finns ingen annan väg till uppgiften — `venue`
+innehåller bara ett lokalnamn ("Örbyhus", "Hall 1") utan koppling till klubb.
+Parametern förekommer inte i OpenAPI-specens exempel; den syns bara om man
+läser av det anrop STUPA:s egen matchlista gör.
+
+Arrangören är en lista eftersom en seriehelg kan arrangeras av flera
+föreningar. 99 % av matchposterna har den ifylld.
 
 Använd **inte** `get_events_categories` för divisionsnamn — den returnerar bara
 toppnivåerna (`Division 4`) och saknar undergrupperna A/B/C. Namnet finns

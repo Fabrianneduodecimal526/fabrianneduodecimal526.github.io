@@ -4,7 +4,7 @@
   "namn": "Lekstorps Idrottsförening"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Lekstorps IF",
@@ -46,7 +46,10 @@
    "hemma_klubb": "Mölndals Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Svanesunds Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Svanesunds Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -59,7 +62,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Mariedals Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Svanesunds Gymnastik o Idrottsförening",
+   "arrangorer": [
+    "Svanesunds Gymnastik o Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -72,7 +78,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -85,7 +94,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "TopSpeed Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Åsa Idrottsförening",
+   "arrangorer": [
+    "Åsa Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -98,7 +110,10 @@
    "hemma_klubb": "Borgstena IF",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -111,7 +126,10 @@
    "hemma_klubb": "Backa Bordtennis Klubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Åsa Idrottsförening",
+   "arrangorer": [
+    "Åsa Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -124,7 +142,10 @@
    "hemma_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -137,7 +158,10 @@
    "hemma_klubb": "Alingsås Pingis Klubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Alingsås Pingis Klubb",
+   "arrangorer": [
+    "Alingsås Pingis Klubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -150,7 +174,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -163,7 +190,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Alingsås Pingis Klubb",
+   "arrangorer": [
+    "Alingsås Pingis Klubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -176,7 +206,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Håcksviks Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Borgstena IF",
+   "arrangorer": [
+    "Borgstena IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -189,7 +222,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Kungsbacka Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Borgstena IF",
+   "arrangorer": [
+    "Borgstena IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -202,7 +238,10 @@
    "hemma_klubb": "Horreds Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -215,7 +254,10 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -228,7 +270,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -241,7 +286,10 @@
    "hemma_klubb": "Idrottsföreningen Ifo",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Idrottsföreningen Ifo"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -254,7 +302,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Bordtennisklubben Warta",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kungälvs Bordtennisklubb",
+   "arrangorer": [
+    "Kungälvs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -267,7 +318,10 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Idrottsföreningen Ifo",
+   "arrangorer": [
+    "Idrottsföreningen Ifo"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -280,7 +334,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Bordtennisklubben Dalen",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -293,7 +350,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Mölndals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -306,7 +366,10 @@
    "hemma_klubb": "Alingsås Pingis Klubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -319,7 +382,10 @@
    "hemma_klubb": "Åsa Idrottsförening",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -332,7 +398,10 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -345,7 +414,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Alingsås Pingis Klubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -358,7 +430,10 @@
    "hemma_klubb": "Mariedals Idrottsklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -371,7 +446,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Svanesunds Gymnastik o Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -384,7 +462,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Borgstena IF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -397,7 +478,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Backa Bordtennis Klubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Åsa Idrottsförening",
+   "arrangorer": [
+    "Åsa Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -410,7 +494,10 @@
    "hemma_klubb": "Håcksviks Idrottsförening",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -423,7 +510,10 @@
    "hemma_klubb": "TopSpeed Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Åsa Idrottsförening",
+   "arrangorer": [
+    "Åsa Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -436,7 +526,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mölndals Bordtennisklubb",
+   "arrangorer": [
+    "Mölndals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -449,7 +542,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Horreds Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Mölndals Bordtennisklubb",
+   "arrangorer": [
+    "Mölndals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -462,7 +558,10 @@
    "hemma_klubb": "Kungsbacka Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -475,7 +574,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Askims Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Backa Bordtennis Klubb",
+   "arrangorer": [
+    "Backa Bordtennis Klubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -488,7 +590,10 @@
    "hemma_klubb": "Bordtennisklubben Linné",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -501,7 +606,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Idrottsföreningen Ifo",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Backa Bordtennis Klubb",
+   "arrangorer": [
+    "Backa Bordtennis Klubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -514,7 +622,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -527,7 +638,10 @@
    "hemma_klubb": "Bordtennisklubben Dalen",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Askims Bordtennisklubb",
+   "arrangorer": [
+    "Askims Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1147/2/7/7"
   },
   {
@@ -540,7 +654,10 @@
    "hemma_klubb": "Bordtennisklubben Warta",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -553,7 +670,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Bordtennisklubben Linné",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   },
   {
@@ -566,7 +686,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Alingsås Pingis Klubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Warta",
+   "arrangorer": [
+    "Bordtennisklubben Warta"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1158/2/7/7"
   },
   {
@@ -579,7 +702,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Åsa Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Linné",
+   "arrangorer": [
+    "Bordtennisklubben Linné"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1170/2/7/7"
   }
  ],
@@ -594,7 +720,10 @@
    "hemma_klubb": "Lekstorps Idrottsförening",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "A_hallen",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/943/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -609,7 +738,10 @@
    "hemma_klubb": "Askims Bordtennisklubb",
    "borta_klubb": "Lekstorps Idrottsförening",
    "plats": "A_hallen",
-   "arrangor": null,
+   "arrangor": "Lekstorps Idrottsförening",
+   "arrangorer": [
+    "Lekstorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/259/943/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2

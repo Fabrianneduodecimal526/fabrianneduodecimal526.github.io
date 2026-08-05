@@ -4,7 +4,7 @@
   "namn": "KFUM Gävle Bordtennis"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "KFUM Gävle BT",
@@ -32,7 +32,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Skyttorps Idrottsförening",
    "plats": "Örbyhus",
-   "arrangor": null,
+   "arrangor": "Örbyhus Idrottsförening",
+   "arrangorer": [
+    "Örbyhus Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -45,7 +48,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Upplands-Ekeby Idrottsförening",
+   "arrangorer": [
+    "Upplands-Ekeby Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -58,7 +64,10 @@
    "hemma_klubb": "IK Sirius Bordtennisklubb",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Örbyhus",
-   "arrangor": null,
+   "arrangor": "Örbyhus Idrottsförening",
+   "arrangorer": [
+    "Örbyhus Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -71,7 +80,10 @@
    "hemma_klubb": "Dala-Järna Idrottsklubb",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Upplands-Ekeby Idrottsförening",
+   "arrangorer": [
+    "Upplands-Ekeby Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -84,7 +96,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Gävle",
-   "arrangor": null,
+   "arrangor": "KFUM Gävle Bordtennis",
+   "arrangorer": [
+    "KFUM Gävle Bordtennis"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -97,7 +112,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Sandvikens Bordtennisklubb",
    "plats": "Gävle",
-   "arrangor": null,
+   "arrangor": "KFUM Gävle Bordtennis",
+   "arrangorer": [
+    "KFUM Gävle Bordtennis"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -110,7 +128,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Gefle Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -123,7 +144,10 @@
    "hemma_klubb": "Heby Allmänna Idrottsförening",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -136,7 +160,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Öregrunds Idrottsklubb",
    "plats": "Skyttorp",
-   "arrangor": null,
+   "arrangor": "Skyttorps Idrottsförening",
+   "arrangorer": [
+    "Skyttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -149,7 +176,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Falu Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -162,7 +192,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
    "plats": "Skyttorp",
-   "arrangor": null,
+   "arrangor": "Skyttorps Idrottsförening",
+   "arrangorer": [
+    "Skyttorps Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -175,7 +208,10 @@
    "hemma_klubb": "Jägarnäs/Ludvika BTK",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -188,7 +224,10 @@
    "hemma_klubb": "Örbyhus Idrottsförening",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Örbyhus",
-   "arrangor": null,
+   "arrangor": "Örbyhus Idrottsförening",
+   "arrangorer": [
+    "Örbyhus Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -201,7 +240,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Upplands-Ekeby Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -214,7 +256,10 @@
    "hemma_klubb": "Skyttorps Idrottsförening",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Örbyhus",
-   "arrangor": null,
+   "arrangor": "Örbyhus Idrottsförening",
+   "arrangorer": [
+    "Örbyhus Idrottsförening"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -227,7 +272,10 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Falu Bordtennisklubb",
+   "arrangorer": [
+    "Falu Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -240,7 +288,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "IK Sirius Bordtennisklubb",
    "plats": "Gävle",
-   "arrangor": null,
+   "arrangor": "KFUM Gävle Bordtennis",
+   "arrangorer": [
+    "KFUM Gävle Bordtennis"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -253,7 +304,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Dala-Järna Idrottsklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Gefle Pingisklubb",
+   "arrangorer": [
+    "Gefle Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -266,7 +320,10 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Gävle",
-   "arrangor": null,
+   "arrangor": "KFUM Gävle Bordtennis",
+   "arrangorer": [
+    "KFUM Gävle Bordtennis"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -279,7 +336,10 @@
    "hemma_klubb": "Gefle Pingisklubb",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Gefle Pingisklubb",
+   "arrangorer": [
+    "Gefle Pingisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -292,7 +352,10 @@
    "hemma_klubb": "Sandvikens Bordtennisklubb",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Sandviken",
-   "arrangor": null,
+   "arrangor": "Sandvikens Bordtennisklubb",
+   "arrangorer": [
+    "Sandvikens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -305,7 +368,10 @@
    "hemma_klubb": "Öregrunds Idrottsklubb",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Sandviken",
-   "arrangor": null,
+   "arrangor": "Sandvikens Bordtennisklubb",
+   "arrangorer": [
+    "Sandvikens Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -318,7 +384,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Heby Allmänna Idrottsförening",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Dala-Järna Idrottsklubb",
+   "arrangorer": [
+    "Dala-Järna Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -331,7 +400,10 @@
    "hemma_klubb": "Falu Bordtennisklubb",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Dala-Järna Idrottsklubb",
+   "arrangorer": [
+    "Dala-Järna Idrottsklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -344,7 +416,10 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "UTK-hallen",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -357,7 +432,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Örbyhus Idrottsförening",
    "plats": "UTK-hallen",
-   "arrangor": null,
+   "arrangor": "IK Sirius Bordtennisklubb",
+   "arrangorer": [
+    "IK Sirius Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/435/1186/2/7/7"
   },
   {
@@ -370,7 +448,10 @@
    "hemma_klubb": "KFUM Gävle Bordtennis",
    "borta_klubb": "Jägarnäs/Ludvika BTK",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   },
   {
@@ -383,7 +464,10 @@
    "hemma_klubb": "Upplands-Ekeby Idrottsförening",
    "borta_klubb": "KFUM Gävle Bordtennis",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Söderhamns Ungdomsgårds IF",
+   "arrangorer": [
+    "Söderhamns Ungdomsgårds IF"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1163/2/7/7"
   }
  ],

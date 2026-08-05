@@ -4,7 +4,7 @@
   "namn": "Munkedals Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Munkedals BTK",
@@ -32,7 +32,10 @@
    "hemma_klubb": "Skagersviks Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Vedums Allmänna IS",
+   "arrangorer": [
+    "Vedums Allmänna IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -45,7 +48,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Västers Bordtennisklubb",
    "plats": "Munkedals BTK",
-   "arrangor": null,
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -58,7 +64,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Skövde Pingisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Vedums Allmänna IS",
+   "arrangorer": [
+    "Vedums Allmänna IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -71,7 +80,10 @@
    "hemma_klubb": "Lyckeby Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Munkedals BTK",
-   "arrangor": null,
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -84,7 +96,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Stenungsunds Bordtennisförening",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7"
   },
   {
@@ -97,7 +112,10 @@
    "hemma_klubb": "Kungälvs Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kils Bordtennisklubb",
+   "arrangorer": [
+    "Kils Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -110,7 +128,10 @@
    "hemma_klubb": "Ådalslidens Sportklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Kils Bordtennisklubb",
+   "arrangorer": [
+    "Kils Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -123,7 +144,10 @@
    "hemma_klubb": "Nerikes Kils Sportklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Falkenbergs BTK",
-   "arrangor": null,
+   "arrangor": "Falkenbergs Bordtennisklubb",
+   "arrangorer": [
+    "Falkenbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -136,7 +160,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Falkenbergs Bordtennisklubb",
    "plats": "Falkenbergs BTK",
-   "arrangor": null,
+   "arrangor": "Falkenbergs Bordtennisklubb",
+   "arrangorer": [
+    "Falkenbergs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -149,7 +176,10 @@
    "hemma_klubb": "Kils Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skagersviks Bordtennisklubb",
+   "arrangorer": [
+    "Skagersviks Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -162,7 +192,10 @@
    "hemma_klubb": "Norrtulls Sportklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Norrtulls SK",
-   "arrangor": null,
+   "arrangor": "Norrtulls Sportklubb",
+   "arrangorer": [
+    "Norrtulls Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -175,7 +208,10 @@
    "hemma_klubb": "Carlstads Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skagersviks Bordtennisklubb",
+   "arrangorer": [
+    "Skagersviks Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -188,7 +224,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Ängby Sportklubb",
    "plats": "Norrtulls SK",
-   "arrangor": null,
+   "arrangor": "Norrtulls Sportklubb",
+   "arrangorer": [
+    "Norrtulls Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -201,7 +240,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "IFK Falköping Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Carlstads Bordtennisklubb",
+   "arrangorer": [
+    "Carlstads Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -214,7 +256,10 @@
    "hemma_klubb": "Bordtennisklubben Kävlinge",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -227,7 +272,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Skagersviks Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Carlstads Bordtennisklubb",
+   "arrangorer": [
+    "Carlstads Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -240,7 +288,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Söderhamns Ungdomsgårds IF",
    "plats": "BTK Kävlinge",
-   "arrangor": null,
+   "arrangor": "Bordtennisklubben Kävlinge",
+   "arrangorer": [
+    "Bordtennisklubben Kävlinge"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -253,7 +304,10 @@
    "hemma_klubb": "Skövde Pingisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Falköping Bordtennisklubb",
+   "arrangorer": [
+    "IFK Falköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -266,7 +320,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Kungälvs Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "IFK Falköping Bordtennisklubb",
+   "arrangorer": [
+    "IFK Falköping Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -279,7 +336,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Lyckeby Bordtennisklubb",
    "plats": "Västers BTK",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -292,7 +352,10 @@
    "hemma_klubb": "Västers Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Västers BTK",
-   "arrangor": null,
+   "arrangor": "Västers Bordtennisklubb",
+   "arrangorer": [
+    "Västers Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -305,7 +368,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Carlstads Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skagersviks Bordtennisklubb",
+   "arrangorer": [
+    "Skagersviks Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -318,7 +384,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Kils Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Skagersviks Bordtennisklubb",
+   "arrangorer": [
+    "Skagersviks Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -331,7 +400,11 @@
    "hemma_klubb": "Falkenbergs Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -344,7 +417,11 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Nerikes Kils Sportklubb",
    "plats": "Nerikes Kils SK",
-   "arrangor": null,
+   "arrangor": "Nerikes Kils Sportklubb / Nerikes Kils Sportklubb",
+   "arrangorer": [
+    "Nerikes Kils Sportklubb",
+    "Nerikes Kils Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -357,7 +434,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Ådalslidens Sportklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Vedums Allmänna IS",
+   "arrangorer": [
+    "Vedums Allmänna IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -370,7 +450,10 @@
    "hemma_klubb": "IFK Falköping Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Hall 1",
-   "arrangor": null,
+   "arrangor": "Vedums Allmänna IS",
+   "arrangorer": [
+    "Vedums Allmänna IS"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1157/2/7/7"
   },
   {
@@ -383,7 +466,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Norrtulls Sportklubb",
    "plats": "Ängby SK",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -396,7 +482,10 @@
    "hemma_klubb": "Ängby Sportklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Ängby SK",
-   "arrangor": null,
+   "arrangor": "Ängby Sportklubb",
+   "arrangorer": [
+    "Ängby Sportklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -409,7 +498,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Bordtennisklubben Kävlinge",
    "plats": "Munkedals BTK",
-   "arrangor": null,
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   },
   {
@@ -422,7 +514,10 @@
    "hemma_klubb": "Söderhamns Ungdomsgårds IF",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Munkedals BTK",
-   "arrangor": null,
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/417/1116/2/7/7"
   }
  ],
@@ -437,7 +532,10 @@
    "hemma_klubb": "Vänersborgs Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Vänersborgs Bordtennisklubb",
+   "arrangorer": [
+    "Vänersborgs Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 0,
    "borta_poang": 2
@@ -452,7 +550,10 @@
    "hemma_klubb": "Uddevalla Bordtennisklubb",
    "borta_klubb": "Munkedals Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Uddevalla Bordtennisklubb",
+   "arrangorer": [
+    "Uddevalla Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -467,7 +568,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Trollhättans Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0

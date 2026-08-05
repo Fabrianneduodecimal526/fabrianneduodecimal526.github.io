@@ -4,7 +4,7 @@
   "namn": "Trollhättans Bordtennisklubb"
  },
  "sasong": "2026/2027",
- "uppdaterad": "2026-08-05T08:46:01Z",
+ "uppdaterad": "2026-08-05T10:14:24Z",
  "lag": [
   {
    "namn": "Trollhättans BTK",
@@ -26,7 +26,10 @@
    "hemma_klubb": "Trollhättans Bordtennisklubb",
    "borta_klubb": "Stenungsunds Bordtennisförening",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Trollhättans Bordtennisklubb",
+   "arrangorer": [
+    "Trollhättans Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -41,7 +44,10 @@
    "hemma_klubb": "Uddevalla Bordtennisklubb",
    "borta_klubb": "Trollhättans Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Uddevalla Bordtennisklubb",
+   "arrangorer": [
+    "Uddevalla Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 1,
    "borta_poang": 1
@@ -56,7 +62,10 @@
    "hemma_klubb": "Trollhättans Bordtennisklubb",
    "borta_klubb": "Vänersborgs Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Trollhättans Bordtennisklubb",
+   "arrangorer": [
+    "Trollhättans Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
@@ -71,7 +80,10 @@
    "hemma_klubb": "Munkedals Bordtennisklubb",
    "borta_klubb": "Trollhättans Bordtennisklubb",
    "plats": "Arrangörens",
-   "arrangor": null,
+   "arrangor": "Munkedals Bordtennisklubb",
+   "arrangorer": [
+    "Munkedals Bordtennisklubb"
+   ],
    "stupa_url": "https://sbtfeventsott.stupaevents.com/events/337/1077/2/7/7",
    "hemma_poang": 2,
    "borta_poang": 0
